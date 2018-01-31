@@ -1,0 +1,3658 @@
++---heroes
+|
+|   +---ana
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       ana-candy-hd.webm
+|   |   |       ana-candy-hd.webm.png
+|   |   |       ana-dance-hd.webm
+|   |   |       ana-dance-hd.webm.png
+|   |   |       ana-disapproving-hd.webm
+|   |   |       ana-disapproving-hd.webm.png
+|   |   |       ana-heroic-hd.webm
+|   |   |       ana-heroic-hd.webm.png
+|   |   |       ana-not-impressed-hd.webm
+|   |   |       ana-not-impressed-hd.webm.png
+|   |   |       ana-protector-hd.webm
+|   |   |       ana-protector-hd.webm.png
+|   |   |       ana-take-a-knee-hd.webm
+|   |   |       ana-take-a-knee-hd.webm.png
+|   |   |       ana-tea-time-hd.webm
+|   |   |       ana-tea-time-hd.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       ana-ana.png
+|   |   |       ana-anaversary.png
+|   |   |       ana-shooting.png
+|   |   |       ana-watcher.png
+|   |   |       ana-wedjat.png
+|   |   |       
+|   |   +---intros
+|   |   |       ana-guardian-hd.webm
+|   |   |       ana-guardian-hd.webm.png
+|   |   |       ana-guardian.webm
+|   |   |       ana-guardian.webm.png
+|   |   |       ana-heroic-hd.webm
+|   |   |       ana-heroic-hd.webm.png
+|   |   |       ana-heroic.webm
+|   |   |       ana-heroic.webm.png
+|   |   |       ana-locked-on-hd.webm
+|   |   |       ana-locked-on-hd.webm.png
+|   |   |       ana-locked-on.webm
+|   |   |       ana-locked-on.webm.png
+|   |   |       ana-shh-hd.webm
+|   |   |       ana-shh-hd.webm.png
+|   |   |       ana-shh.webm
+|   |   |       ana-shh.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       ana-folded-hands.jpg
+|   |   |       ana-heroic.jpg
+|   |   |       ana-mission-complete.jpg
+|   |   |       ana-protector.jpg
+|   |   |       ana-rip.jpg
+|   |   |       ana-seated.jpg
+|   |   |       ana-toast.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       ana-captain-amari.jpg
+|   |   |       ana-citrine.jpg
+|   |   |       ana-classic.jpg
+|   |   |       ana-garnet.jpg
+|   |   |       ana-ghoul.jpg
+|   |   |       ana-horus.jpg
+|   |   |       ana-merciful.jpg
+|   |   |       ana-peridot.jpg
+|   |   |       ana-shrike.jpg
+|   |   |       ana-tal.jpg
+|   |   |       ana-turquoise.jpg
+|   |   |       ana-wadjet.jpg
+|   |   |       ana-wasteland.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       ana-ace-of-hearts.png
+|   |   |       ana-action.png
+|   |   |       ana-ana.png
+|   |   |       ana-bearer.png
+|   |   |       ana-cheer.png
+|   |   |       ana-cracked.png
+|   |   |       ana-cute.png
+|   |   |       ana-dance.png
+|   |   |       ana-dragon-dance.png
+|   |   |       ana-eyepatch.png
+|   |   |       ana-fareeha.png
+|   |   |       ana-gaze.png
+|   |   |       ana-grenade.png
+|   |   |       ana-guardian.png
+|   |   |       ana-hesitation.png
+|   |   |       ana-icon.png
+|   |   |       ana-letter.png
+|   |   |       ana-newborn.png
+|   |   |       ana-old-soldier.png
+|   |   |       ana-ornament.png
+|   |   |       ana-overhead.png
+|   |   |       ana-photograph.png
+|   |   |       ana-pillow.png
+|   |   |       ana-pixel.png
+|   |   |       ana-rifle.png
+|   |   |       ana-shadow.png
+|   |   |       ana-shhh.png
+|   |   |       ana-shooting.png
+|   |   |       ana-sidearm.png
+|   |   |       ana-trick-or-treat.png
+|   |   |       ana-warm.png
+|   |   |       ana-wedjat.png
+|   |   |       ana-wrist-launcher.png
+|   |   |       ana-zzz.png
+|   |   |       
+|   |   \---voicelines
+|   |           ana-are-you-scared.ogg
+|   |           ana-better-than-retirement.ogg
+|   |           ana-children-behave.ogg
+|   |           ana-damn.ogg
+|   |           ana-everyone-dies.ogg
+|   |           ana-follow-me.ogg
+|   |           ana-im-watching-out-for-you.ogg
+|   |           ana-it-takes-a-woman-to-know.ogg
+|   |           ana-justice-delivered.ogg
+|   |           ana-justice-rains-from-above.ogg
+|   |           ana-learn-from-the-pain.ogg
+|   |           ana-mother-knows-best.ogg
+|   |           ana-no-scope-needed.ogg
+|   |           ana-someone-to-tuck-you-in.ogg
+|   |           ana-the-adults-are-talking.ogg
+|   |           ana-the-ghost-watches.ogg
+|   |           ana-the-moon-in-winter.ogg
+|   |           ana-what-are-you-thinking.ogg
+|   |           ana-witness-me.ogg
+|   |           ana-you-know-nothing.ogg
+|   |           
+|   +---bastion
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   test.sh
+|   |   |   
+|   |   +---emotes
+|   |   |       bastion-alert-alert-hd.webm
+|   |   |       bastion-alert-alert-hd.webm.png
+|   |   |       bastion-alert-alert.webm
+|   |   |       bastion-alert-alert.webm.png
+|   |   |       bastion-boxing-hd.webm
+|   |   |       bastion-boxing-hd.webm.png
+|   |   |       bastion-boxing.webm
+|   |   |       bastion-boxing.webm.png
+|   |   |       bastion-chortle-hd.webm
+|   |   |       bastion-chortle-hd.webm.png
+|   |   |       bastion-chortle.webm
+|   |   |       bastion-chortle.webm.png
+|   |   |       bastion-dizzy-hd.webm
+|   |   |       bastion-dizzy-hd.webm.png
+|   |   |       bastion-dizzy.webm
+|   |   |       bastion-dizzy.webm.png
+|   |   |       bastion-heroic-hd.webm
+|   |   |       bastion-heroic-hd.webm.png
+|   |   |       bastion-heroic.webm
+|   |   |       bastion-heroic.webm.png
+|   |   |       bastion-rest-mode-hd.webm
+|   |   |       bastion-rest-mode-hd.webm.png
+|   |   |       bastion-rest-mode.webm
+|   |   |       bastion-rest-mode.webm.png
+|   |   |       bastion-robo-boogie-hd.webm
+|   |   |       bastion-robo-boogie-hd.webm.png
+|   |   |       bastion-robo-boogie.webm
+|   |   |       bastion-robo-boogie.webm.png
+|   |   |       bastion-robot-hd.webm
+|   |   |       bastion-robot-hd.webm.png
+|   |   |       bastion-robot.webm
+|   |   |       bastion-robot.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       bastion-bastion.png
+|   |   |       bastion-boxing.png
+|   |   |       bastion-ganymede.png
+|   |   |       bastion-goldbot.png
+|   |   |       bastion-tank-crossing.png
+|   |   |       
+|   |   +---intros
+|   |   |       bastion-bullet-rain-hd.webm
+|   |   |       bastion-bullet-rain-hd.webm.png
+|   |   |       bastion-bullet-rain.webm
+|   |   |       bastion-bullet-rain.webm.png
+|   |   |       bastion-ganymede-hd.webm
+|   |   |       bastion-ganymede-hd.webm.png
+|   |   |       bastion-ganymede.webm
+|   |   |       bastion-ganymede.webm.png
+|   |   |       bastion-heroic-hd.webm
+|   |   |       bastion-heroic-hd.webm.png
+|   |   |       bastion-heroic.webm
+|   |   |       bastion-heroic.webm.png
+|   |   |       bastion-on-guard-hd.webm
+|   |   |       bastion-on-guard-hd.webm.png
+|   |   |       bastion-on-guard.webm
+|   |   |       bastion-on-guard.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       bastion-birdwatching.jpg
+|   |   |       bastion-firework.jpg
+|   |   |       bastion-heroic.jpg
+|   |   |       bastion-medal.jpg
+|   |   |       bastion-pop-up.jpg
+|   |   |       bastion-rip.jpg
+|   |   |       bastion-tank.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       bastion-antique.jpg
+|   |   |       bastion-blizzcon-2016.jpg
+|   |   |       bastion-classic.jpg
+|   |   |       bastion-dawn.jpg
+|   |   |       bastion-defense-matrix.jpg
+|   |   |       bastion-dune-buggy.jpg
+|   |   |       bastion-gearbot.jpg
+|   |   |       bastion-meadow.jpg
+|   |   |       bastion-null-sector.jpg
+|   |   |       bastion-omnic-crisis.jpg
+|   |   |       bastion-overgrown.jpg
+|   |   |       bastion-rooster.jpg
+|   |   |       bastion-sky.jpg
+|   |   |       bastion-soot.jpg
+|   |   |       bastion-steambot.jpg
+|   |   |       bastion-tombstone.jpg
+|   |   |       bastion-woodbot.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       bastion-action.png
+|   |   |       bastion-bastyum.png
+|   |   |       bastion-bird.png
+|   |   |       bastion-birdwatchers.png
+|   |   |       bastion-black.png
+|   |   |       bastion-blocks.png
+|   |   |       bastion-boxing.png
+|   |   |       bastion-cannon.png
+|   |   |       bastion-crisis.png
+|   |   |       bastion-curious.png
+|   |   |       bastion-cute.png
+|   |   |       bastion-dragon-dance.png
+|   |   |       bastion-e54.png
+|   |   |       bastion-festive.png
+|   |   |       bastion-fire-at-will.png
+|   |   |       bastion-flight.png
+|   |   |       bastion-flower-power.png
+|   |   |       bastion-ganymede.png
+|   |   |       bastion-giant.png
+|   |   |       bastion-icon.png
+|   |   |       bastion-in-repair.png
+|   |   |       bastion-nest.png
+|   |   |       bastion-omnic.png
+|   |   |       bastion-ornament.png
+|   |   |       bastion-overgrown.png
+|   |   |       bastion-pixel.png
+|   |   |       bastion-recovery.png
+|   |   |       bastion-retro.png
+|   |   |       bastion-sprout.png
+|   |   |       bastion-sunken.png
+|   |   |       bastion-ten-of-clubs.png
+|   |   |       bastion-trick-or-treat.png
+|   |   |       bastion-wood-and-stone.png
+|   |   |       
+|   |   \---voicelines
+|   |           bastion-beeple.ogg
+|   |           bastion-bewwoo-bewwoo.ogg
+|   |           bastion-boo-boo-doo-de-doo.ogg
+|   |           bastion-bweeeeeeeeeee.ogg
+|   |           bastion-chirr-chirr-chirr.ogg
+|   |           bastion-dahdah-weeeee.ogg
+|   |           bastion-doo-dun-dun-woo.ogg
+|   |           bastion-doododoo-dee.ogg
+|   |           bastion-doowoo.ogg
+|   |           bastion-dun-dun-boop-boop.ogg
+|   |           bastion-dwee-doo-hoo.ogg
+|   |           bastion-dwee-wee-woh.ogg
+|   |           bastion-dweet-dweet-dweet.ogg
+|   |           bastion-hee-hoo-hoo.ogg
+|   |           bastion-shshsh.ogg
+|   |           bastion-whoovweeeeee.ogg
+|   |           bastion-woop-doo-woo-dun-woop.ogg
+|   |           bastion-wwwooooo.ogg
+|   |           bastion-zwee.ogg
+|   |           bastion-zweeah-wheee-doo-woo.ogg
+|   |           
+|   +---doomfist
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       doomfist-fake-out-hd.webm
+|   |   |       doomfist-fake-out-hd.webm.png
+|   |   |       doomfist-fake-out.webm
+|   |   |       doomfist-fake-out.webm.png
+|   |   |       doomfist-heroic-hd.webm
+|   |   |       doomfist-heroic-hd.webm.png
+|   |   |       doomfist-heroic.webm
+|   |   |       doomfist-heroic.webm.png
+|   |   |       doomfist-intimidate-hd.webm
+|   |   |       doomfist-intimidate-hd.webm.png
+|   |   |       doomfist-intimidate.webm
+|   |   |       doomfist-intimidate.webm.png
+|   |   |       doomfist-ready-for-battle-hd.webm
+|   |   |       doomfist-ready-for-battle-hd.webm.png
+|   |   |       doomfist-ready-for-battle.webm
+|   |   |       doomfist-ready-for-battle.webm.png
+|   |   |       doomfist-take-a-knee-hd.webm
+|   |   |       doomfist-take-a-knee-hd.webm.png
+|   |   |       doomfist-take-a-knee.webm
+|   |   |       doomfist-take-a-knee.webm.png
+|   |   |       doomfist-thumbs-down-hd.webm
+|   |   |       doomfist-thumbs-down-hd.webm.png
+|   |   |       doomfist-thumbs-down.webm
+|   |   |       doomfist-thumbs-down.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       doomfist-doomfist.png
+|   |   |       doomfist-fist.png
+|   |   |       doomfist-initials.png
+|   |   |       doomfist-shotput.png
+|   |   |       
+|   |   +---intros
+|   |   |       doomfist-heroic-hd.webm
+|   |   |       doomfist-heroic-hd.webm.png
+|   |   |       doomfist-heroic.webm
+|   |   |       doomfist-heroic.webm.png
+|   |   |       doomfist-meteor-hd.webm
+|   |   |       doomfist-meteor-hd.webm.png
+|   |   |       doomfist-meteor.webm
+|   |   |       doomfist-meteor.webm.png
+|   |   |       doomfist-one-punch-hd.webm
+|   |   |       doomfist-one-punch-hd.webm.png
+|   |   |       doomfist-one-punch.webm
+|   |   |       doomfist-one-punch.webm.png
+|   |   |       doomfist-uppercut-hd.webm
+|   |   |       doomfist-uppercut-hd.webm.png
+|   |   |       doomfist-uppercut.webm
+|   |   |       doomfist-uppercut.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       doomfist-heroic.jpg
+|   |   |       doomfist-intense.jpg
+|   |   |       doomfist-seismic-slam.jpg
+|   |   |       doomfist-superior.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       doomfist-avatar.jpg
+|   |   |       doomfist-caution.jpg
+|   |   |       doomfist-classic.jpg
+|   |   |       doomfist-daisy.jpg
+|   |   |       doomfist-irin.jpg
+|   |   |       doomfist-lake.jpg
+|   |   |       doomfist-leopard.jpg
+|   |   |       doomfist-painted.jpg
+|   |   |       doomfist-plains.jpg
+|   |   |       doomfist-spirit.jpg
+|   |   |       doomfist-sunset.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       doomfist-akande.png
+|   |   |       doomfist-crater.png
+|   |   |       doomfist-crush.png
+|   |   |       doomfist-cute.png
+|   |   |       doomfist-epicenter.png
+|   |   |       doomfist-fist.png
+|   |   |       doomfist-icon.png
+|   |   |       doomfist-initials.png
+|   |   |       doomfist-move-list.png
+|   |   |       doomfist-out-of-time.png
+|   |   |       doomfist-paint.png
+|   |   |       doomfist-pixel.png
+|   |   |       doomfist-punch.png
+|   |   |       doomfist-punching-bag.png
+|   |   |       doomfist-punchman.png
+|   |   |       doomfist-shot-put.png
+|   |   |       doomfist-smoke.png
+|   |   |       doomfist-sonic-boom.png
+|   |   |       doomfist-stance.png
+|   |   |       doomfist-successor.png
+|   |   |       doomfist-the-greatest.png
+|   |   |       doomfist-they-said.png
+|   |   |       doomfist-thumbs-up.png
+|   |   |       doomfist-tuxedo.png
+|   |   |       doomfist-wrapped.png
+|   |   |       doomfist-wrestle.png
+|   |   |       
+|   |   \---voicelines
+|   |           doomfist-combo-breaker.ogg
+|   |           doomfist-dont-get-back-up.ogg
+|   |           doomfist-go-and-sit-down.ogg
+|   |           doomfist-i-havent-even-started.ogg
+|   |           doomfist-i-make-medicine-sick.ogg
+|   |           doomfist-ko.ogg
+|   |           doomfist-make-you-punch-drunk.ogg
+|   |           doomfist-one-punch-is-all-i-need.ogg
+|   |           doomfist-spare-me-the-commentary.ogg
+|   |           doomfist-talk-to-the-fist.ogg
+|   |           doomfist-try-me.ogg
+|   |           doomfist-you-must-be-joking.ogg
+|   |           doomfist-youre-not-bad.ogg
+|   |           
+|   +---dva
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       dva-bow-hd.webm
+|   |   |       dva-bow-hd.webm.png
+|   |   |       dva-bow.webm
+|   |   |       dva-bow.webm.png
+|   |   |       dva-bunny-hop-hd.webm
+|   |   |       dva-bunny-hop-hd.webm.png
+|   |   |       dva-bunny-hop.webm
+|   |   |       dva-bunny-hop.webm.png
+|   |   |       dva-dance-hd.webm
+|   |   |       dva-dance-hd.webm.png
+|   |   |       dva-dance.webm
+|   |   |       dva-dance.webm.png
+|   |   |       dva-excited-hd.webm
+|   |   |       dva-excited-hd.webm.png
+|   |   |       dva-excited.webm
+|   |   |       dva-excited.webm.png
+|   |   |       dva-game-on-hd.webm
+|   |   |       dva-game-on-hd.webm.png
+|   |   |       dva-game-on.webm
+|   |   |       dva-game-on.webm.png
+|   |   |       dva-heartbreaker-hd.webm
+|   |   |       dva-heartbreaker-hd.webm.png
+|   |   |       dva-heartbreaker.webm
+|   |   |       dva-heartbreaker.webm.png
+|   |   |       dva-heroic-hd.webm
+|   |   |       dva-heroic-hd.webm.png
+|   |   |       dva-heroic.webm
+|   |   |       dva-heroic.webm.png
+|   |   |       dva-party-time-hd.webm
+|   |   |       dva-party-time-hd.webm.png
+|   |   |       dva-party-time.webm
+|   |   |       dva-party-time.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       dva-bunny.png
+|   |   |       dva-charm.png
+|   |   |       dva-cycling.png
+|   |   |       dva-dva.png
+|   |   |       dva-hanaversary.png
+|   |   |       dva-hanbok.png
+|   |   |       dva-law.png
+|   |   |       
+|   |   +---intros
+|   |   |       dva-eject-hd.webm
+|   |   |       dva-eject-hd.webm.png
+|   |   |       dva-eject.webm
+|   |   |       dva-eject.webm.png
+|   |   |       dva-heroic-hd.webm
+|   |   |       dva-heroic-hd.webm.png
+|   |   |       dva-heroic.webm
+|   |   |       dva-heroic.webm.png
+|   |   |       dva-lying-around-hd.webm
+|   |   |       dva-lying-around-hd.webm.png
+|   |   |       dva-lying-around.webm
+|   |   |       dva-lying-around.webm.png
+|   |   |       dva-meka-activated-hd.webm
+|   |   |       dva-meka-activated-hd.webm.png
+|   |   |       dva-meka-activated.webm
+|   |   |       dva-meka-activated.webm.png
+|   |   |       dva-selfie-hd.webm
+|   |   |       dva-selfie-hd.webm.png
+|   |   |       dva-selfie.webm
+|   |   |       dva-selfie.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       dva-festive.jpg
+|   |   |       dva-heroic.jpg
+|   |   |       dva-i-heart-you.jpg
+|   |   |       dva-lucky-pouch.jpg
+|   |   |       dva-peace.jpg
+|   |   |       dva-rip.jpg
+|   |   |       dva-sitting.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       dva-blueberry.jpg
+|   |   |       dva-bva.jpg
+|   |   |       dva-carbon-fiber.jpg
+|   |   |       dva-classic.jpg
+|   |   |       dva-cruiser.jpg
+|   |   |       dva-junebug.jpg
+|   |   |       dva-junker.jpg
+|   |   |       dva-lemonlime.jpg
+|   |   |       dva-officer.jpg
+|   |   |       dva-palanquin.jpg
+|   |   |       dva-scavenger.jpg
+|   |   |       dva-taegeukgi.jpg
+|   |   |       dva-tangerine.jpg
+|   |   |       dva-watermelon.jpg
+|   |   |       dva-white-rabbit.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       dva-badge.png
+|   |   |       dva-bang.png
+|   |   |       dva-bny.png
+|   |   |       dva-bubble-gum.png
+|   |   |       dva-bubble.png
+|   |   |       dva-bunny-hop.png
+|   |   |       dva-cookie.png
+|   |   |       dva-cute.png
+|   |   |       dva-cycling.png
+|   |   |       dva-diva.png
+|   |   |       dva-dragon-dance.png
+|   |   |       dva-gg.png
+|   |   |       dva-hana.png
+|   |   |       dva-handheld.png
+|   |   |       dva-headset.png
+|   |   |       dva-heart.png
+|   |   |       dva-icon.png
+|   |   |       dva-light-gun.png
+|   |   |       dva-love-dva.png
+|   |   |       dva-meka.png
+|   |   |       dva-nano-cola.png
+|   |   |       dva-ornament.png
+|   |   |       dva-photo.png
+|   |   |       dva-pixel-bunny.png
+|   |   |       dva-pixel.png
+|   |   |       dva-power-up.png
+|   |   |       dva-salt.png
+|   |   |       dva-seesaw.png
+|   |   |       dva-star.png
+|   |   |       dva-ten-of-hearts.png
+|   |   |       dva-trick-or-treat.png
+|   |   |       dva-unload.png
+|   |   |       dva-walk-of-fame.png
+|   |   |       dva-watching.png
+|   |   |       
+|   |   \---voicelines
+|   |           dva-a-new-challenger.ogg
+|   |           dva-afk.ogg
+|   |           dva-aw-yeah.ogg
+|   |           dva-aw-you-shouldnt-have.ogg
+|   |           dva-dva-1-bad-guys-0.ogg
+|   |           dva-gg.ogg
+|   |           dva-happy-halloween.ogg
+|   |           dva-i-play-to-win.ogg
+|   |           dva-im-1.ogg
+|   |           dva-is-this-easy-mode.ogg
+|   |           dva-level-up.ogg
+|   |           dva-lol.ogg
+|   |           dva-love-dva.ogg
+|   |           dva-no-hacks-required.ogg
+|   |           dva-no-way.ogg
+|   |           dva-not-taking-me-seriously.ogg
+|   |           dva-scoreboard.ogg
+|   |           dva-the-best-things-in-life.ogg
+|   |           dva-try-and-keep-up.ogg
+|   |           dva-winkyface.ogg
+|   |           
+|   +---genji
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       genji-amusing-hd.webm
+|   |   |       genji-amusing-hd.webm.png
+|   |   |       genji-amusing.webm
+|   |   |       genji-amusing.webm.png
+|   |   |       genji-challenge-hd.webm
+|   |   |       genji-challenge-hd.webm.png
+|   |   |       genji-challenge.webm
+|   |   |       genji-challenge.webm.png
+|   |   |       genji-cutting-edge-hd.webm
+|   |   |       genji-cutting-edge-hd.webm.png
+|   |   |       genji-cutting-edge.webm
+|   |   |       genji-cutting-edge.webm.png
+|   |   |       genji-dance-hd.webm
+|   |   |       genji-dance-hd.webm.png
+|   |   |       genji-dance.webm
+|   |   |       genji-dance.webm.png
+|   |   |       genji-heroic-hd.webm
+|   |   |       genji-heroic-hd.webm.png
+|   |   |       genji-heroic.webm
+|   |   |       genji-heroic.webm.png
+|   |   |       genji-meditate-hd.webm
+|   |   |       genji-meditate-hd.webm.png
+|   |   |       genji-meditate.webm
+|   |   |       genji-meditate.webm.png
+|   |   |       genji-salute-hd.webm
+|   |   |       genji-salute-hd.webm.png
+|   |   |       genji-salute.webm
+|   |   |       genji-salute.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       genji-cyborg.png
+|   |   |       genji-fencing.png
+|   |   |       genji-genji.png
+|   |   |       genji-god-of-war.png
+|   |   |       genji-goldborg.png
+|   |   |       genji-nin.png
+|   |   |       genji-oni.png
+|   |   |       
+|   |   +---intros
+|   |   |       genji-heroic-hd.webm
+|   |   |       genji-heroic-hd.webm.png
+|   |   |       genji-heroic.webm
+|   |   |       genji-heroic.webm.png
+|   |   |       genji-pumpkin-carving-hd.webm
+|   |   |       genji-pumpkin-carving-hd.webm.png
+|   |   |       genji-pumpkin-carving.webm
+|   |   |       genji-pumpkin-carving.webm.png
+|   |   |       genji-shuriken-hd.webm
+|   |   |       genji-shuriken-hd.webm.png
+|   |   |       genji-shuriken.webm
+|   |   |       genji-shuriken.webm.png
+|   |   |       genji-unsheathing-the-sword-hd.webm
+|   |   |       genji-unsheathing-the-sword-hd.webm.png
+|   |   |       genji-unsheathing-the-sword.webm
+|   |   |       genji-unsheathing-the-sword.webm.png
+|   |   |       genji-warriors-salute-hd.webm
+|   |   |       genji-warriors-salute-hd.webm.png
+|   |   |       genji-warriors-salute.webm
+|   |   |       genji-warriors-salute.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       genji-heroic.jpg
+|   |   |       genji-kneeling.jpg
+|   |   |       genji-meditate.jpg
+|   |   |       genji-rip.jpg
+|   |   |       genji-shuriken.jpg
+|   |   |       genji-sword-stance.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       genji-azurite.jpg
+|   |   |       genji-bedouin.jpg
+|   |   |       genji-blackwatch.jpg
+|   |   |       genji-carbon-fiber.jpg
+|   |   |       genji-chrome.jpg
+|   |   |       genji-cinnabar.jpg
+|   |   |       genji-classic.jpg
+|   |   |       genji-malachite.jpg
+|   |   |       genji-nihon.jpg
+|   |   |       genji-nomad.jpg
+|   |   |       genji-ochre.jpg
+|   |   |       genji-oni.jpg
+|   |   |       genji-sentai.jpg
+|   |   |       genji-sparrow.jpg
+|   |   |       genji-young-genji.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       genji-assassin.png
+|   |   |       genji-cute.png
+|   |   |       genji-dragon-dance.png
+|   |   |       genji-dragon.png
+|   |   |       genji-dragonblade.png
+|   |   |       genji-draw.png
+|   |   |       genji-fencing.png
+|   |   |       genji-fully-loaded.png
+|   |   |       genji-god-of-war.png
+|   |   |       genji-green-dragon.png
+|   |   |       genji-green-ninja.png
+|   |   |       genji-icon.png
+|   |   |       genji-jack-of-clubs.png
+|   |   |       genji-kadomatsu.png
+|   |   |       genji-kaze-no-gotoku.png
+|   |   |       genji-lunge.png
+|   |   |       genji-nin.png
+|   |   |       genji-oni.png
+|   |   |       genji-onmyodo.png
+|   |   |       genji-ornament.png
+|   |   |       genji-pixel.png
+|   |   |       genji-prepared.png
+|   |   |       genji-ramen.png
+|   |   |       genji-ryugekiken.png
+|   |   |       genji-shimada.png
+|   |   |       genji-shuriken.png
+|   |   |       genji-signature.png
+|   |   |       genji-soul.png
+|   |   |       genji-stance.png
+|   |   |       genji-stoic.png
+|   |   |       genji-swords.png
+|   |   |       genji-target-practice.png
+|   |   |       genji-trick-or-treat.png
+|   |   |       genji-warrior.png
+|   |   |       
+|   |   \---voicelines
+|   |           genji-a-steady-blade.ogg
+|   |           genji-another.ogg
+|   |           genji-come-on.ogg
+|   |           genji-damn.ogg
+|   |           genji-i-am-prepared.ogg
+|   |           genji-i-was-hoping-for-a-challenge.ogg
+|   |           genji-im-not-impressed.ogg
+|   |           genji-lets-fight.ogg
+|   |           genji-life-and-death-balance.ogg
+|   |           genji-measure-twice-cut-once.ogg
+|   |           genji-merry-christmas.ogg
+|   |           genji-my-halloween-costume.ogg
+|   |           genji-my-soul-seeks-balance.ogg
+|   |           genji-not-good-enough.ogg
+|   |           genji-simple.ogg
+|   |           genji-to-know-yourself.ogg
+|   |           genji-touche.ogg
+|   |           genji-yeah.ogg
+|   |           genji-you-are-only-human.ogg
+|   |           genji-you-seem-nice.ogg
+|   |           
+|   +---hanzo
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       hanzo-beckon-hd.webm
+|   |   |       hanzo-beckon-hd.webm.png
+|   |   |       hanzo-beckon.webm
+|   |   |       hanzo-beckon.webm.png
+|   |   |       hanzo-brush-shoulder-hd.webm
+|   |   |       hanzo-brush-shoulder-hd.webm.png
+|   |   |       hanzo-brush-shoulder.webm
+|   |   |       hanzo-brush-shoulder.webm.png
+|   |   |       hanzo-chuckle-hd.webm
+|   |   |       hanzo-chuckle-hd.webm.png
+|   |   |       hanzo-chuckle.webm
+|   |   |       hanzo-chuckle.webm.png
+|   |   |       hanzo-fisherman-dance-hd.webm
+|   |   |       hanzo-fisherman-dance-hd.webm.png
+|   |   |       hanzo-fisherman-dance.webm
+|   |   |       hanzo-fisherman-dance.webm.png
+|   |   |       hanzo-heroic-hd.webm
+|   |   |       hanzo-heroic-hd.webm.png
+|   |   |       hanzo-heroic.webm
+|   |   |       hanzo-heroic.webm.png
+|   |   |       hanzo-meditate-hd.webm
+|   |   |       hanzo-meditate-hd.webm.png
+|   |   |       hanzo-meditate.webm
+|   |   |       hanzo-meditate.webm.png
+|   |   |       hanzo-training-hd.webm
+|   |   |       hanzo-training-hd.webm.png
+|   |   |       hanzo-training.webm
+|   |   |       hanzo-training.webm.png
+|   |   |       hanzo-victory-hd.webm
+|   |   |       hanzo-victory-hd.webm.png
+|   |   |       hanzo-victory.webm
+|   |   |       hanzo-victory.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       hanzo-archery.png
+|   |   |       hanzo-hanzo.png
+|   |   |       hanzo-kinenbi.png
+|   |   |       hanzo-shimada.png
+|   |   |       hanzo-storm.png
+|   |   |       
+|   |   +---intros
+|   |   |       hanzo-backflip-hd.webm
+|   |   |       hanzo-backflip-hd.webm.png
+|   |   |       hanzo-backflip.webm
+|   |   |       hanzo-backflip.webm.png
+|   |   |       hanzo-heroic-hd.webm
+|   |   |       hanzo-heroic-hd.webm.png
+|   |   |       hanzo-heroic.webm
+|   |   |       hanzo-heroic.webm.png
+|   |   |       hanzo-my-aim-is-true-hd.webm
+|   |   |       hanzo-my-aim-is-true-hd.webm.png
+|   |   |       hanzo-my-aim-is-true.webm
+|   |   |       hanzo-my-aim-is-true.webm.png
+|   |   |       hanzo-superior-hd.webm
+|   |   |       hanzo-superior-hd.webm.png
+|   |   |       hanzo-superior.webm
+|   |   |       hanzo-superior.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       hanzo-confident.jpg
+|   |   |       hanzo-heroic.jpg
+|   |   |       hanzo-kneeling.jpg
+|   |   |       hanzo-medal.jpg
+|   |   |       hanzo-over-the-shoulder.jpg
+|   |   |       hanzo-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       hanzo-azuki.jpg
+|   |   |       hanzo-classic.jpg
+|   |   |       hanzo-cloud.jpg
+|   |   |       hanzo-cyberninja.jpg
+|   |   |       hanzo-demon.jpg
+|   |   |       hanzo-dragon.jpg
+|   |   |       hanzo-kinoko.jpg
+|   |   |       hanzo-lone-wolf.jpg
+|   |   |       hanzo-midori.jpg
+|   |   |       hanzo-okami.jpg
+|   |   |       hanzo-sora.jpg
+|   |   |       hanzo-young-hanzo.jpg
+|   |   |       hanzo-young-master.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       hanzo-archer.png
+|   |   |       hanzo-archery.png
+|   |   |       hanzo-blue-dragon.png
+|   |   |       hanzo-challenge.png
+|   |   |       hanzo-cloud.png
+|   |   |       hanzo-cute.png
+|   |   |       hanzo-dragon-dance.png
+|   |   |       hanzo-dragon.png
+|   |   |       hanzo-dragons.png
+|   |   |       hanzo-dragonstrike.png
+|   |   |       hanzo-drawn.png
+|   |   |       hanzo-duty.png
+|   |   |       hanzo-haori.png
+|   |   |       hanzo-icon.png
+|   |   |       hanzo-kadomatsu.png
+|   |   |       hanzo-king-of-diamonds.png
+|   |   |       hanzo-kneeling.png
+|   |   |       hanzo-kumo.png
+|   |   |       hanzo-moon.png
+|   |   |       hanzo-nin.png
+|   |   |       hanzo-ornament.png
+|   |   |       hanzo-pixel.png
+|   |   |       hanzo-ramen.png
+|   |   |       hanzo-sake.png
+|   |   |       hanzo-scarf.png
+|   |   |       hanzo-seal.png
+|   |   |       hanzo-spray.png
+|   |   |       hanzo-stoic.png
+|   |   |       hanzo-successor.png
+|   |   |       hanzo-tea.png
+|   |   |       hanzo-trick-or-treat.png
+|   |   |       hanzo-wanderer.png
+|   |   |       hanzo-yellow.png
+|   |   |       
+|   |   \---voicelines
+|   |           hanzo-a-gift-for-you.ogg
+|   |           hanzo-an-error-in-judgment.ogg
+|   |           hanzo-beauty-in-simplicity.ogg
+|   |           hanzo-defeat-is-the-first-step.ogg
+|   |           hanzo-expect-nothing-less.ogg
+|   |           hanzo-flow-like-water.ogg
+|   |           hanzo-from-one-thing.ogg
+|   |           hanzo-hm.ogg
+|   |           hanzo-i-do-what-i-must.ogg
+|   |           hanzo-ignore-all-distractions.ogg
+|   |           hanzo-just-so.ogg
+|   |           hanzo-never-in-doubt.ogg
+|   |           hanzo-never-second-best.ogg
+|   |           hanzo-remember-this-moment.ogg
+|   |           hanzo-sake.ogg
+|   |           hanzo-spirit-dragon.ogg
+|   |           hanzo-step-into-the-dojo.ogg
+|   |           hanzo-unacceptable.ogg
+|   |           hanzo-when-the-moon-is-full.ogg
+|   |           hanzo-you-are-already-dead.ogg
+|   |           
+|   +---junkrat
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       junkrat-cant-deal-hd.webm
+|   |   |       junkrat-cant-deal-hd.webm.png
+|   |   |       junkrat-cant-deal.webm
+|   |   |       junkrat-cant-deal.webm.png
+|   |   |       junkrat-dud-hd.webm
+|   |   |       junkrat-dud-hd.webm.png
+|   |   |       junkrat-dud.webm
+|   |   |       junkrat-dud.webm.png
+|   |   |       junkrat-heroic-hd.webm
+|   |   |       junkrat-heroic-hd.webm.png
+|   |   |       junkrat-heroic.webm
+|   |   |       junkrat-heroic.webm.png
+|   |   |       junkrat-juggling-hd.webm
+|   |   |       junkrat-juggling-hd.webm.png
+|   |   |       junkrat-juggling.webm
+|   |   |       junkrat-juggling.webm.png
+|   |   |       junkrat-lounging-hd.webm
+|   |   |       junkrat-lounging-hd.webm.png
+|   |   |       junkrat-lounging.webm
+|   |   |       junkrat-lounging.webm.png
+|   |   |       junkrat-puppet-hd.webm
+|   |   |       junkrat-puppet-hd.webm.png
+|   |   |       junkrat-puppet.webm
+|   |   |       junkrat-puppet.webm.png
+|   |   |       junkrat-running-rat-hd.webm
+|   |   |       junkrat-running-rat-hd.webm.png
+|   |   |       junkrat-running-rat.webm
+|   |   |       junkrat-running-rat.webm.png
+|   |   |       junkrat-vaudeville-hd.webm
+|   |   |       junkrat-vaudeville-hd.webm.png
+|   |   |       junkrat-vaudeville.webm
+|   |   |       junkrat-vaudeville.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       junkrat-ahhhh.png
+|   |   |       junkrat-goldrat.png
+|   |   |       junkrat-have-a-nice-day.png
+|   |   |       junkrat-junkrat.png
+|   |   |       junkrat-tennis.png
+|   |   |       junkrat-the-doctor.png
+|   |   |       
+|   |   +---intros
+|   |   |       junkrat-heroic-hd.webm
+|   |   |       junkrat-heroic-hd.webm.png
+|   |   |       junkrat-heroic.webm
+|   |   |       junkrat-heroic.webm.png
+|   |   |       junkrat-im-flying-hd.webm
+|   |   |       junkrat-im-flying-hd.webm.png
+|   |   |       junkrat-im-flying.webm
+|   |   |       junkrat-im-flying.webm.png
+|   |   |       junkrat-riptire-hd.webm
+|   |   |       junkrat-riptire-hd.webm.png
+|   |   |       junkrat-riptire.webm
+|   |   |       junkrat-riptire.webm.png
+|   |   |       junkrat-shot-put-hd.webm
+|   |   |       junkrat-shot-put-hd.webm.png
+|   |   |       junkrat-shot-put.webm
+|   |   |       junkrat-shot-put.webm.png
+|   |   |       junkrat-unfortunate-hd.webm
+|   |   |       junkrat-unfortunate-hd.webm.png
+|   |   |       junkrat-unfortunate.webm
+|   |   |       junkrat-unfortunate.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       junkrat-bad-for-your-health.jpg
+|   |   |       junkrat-heroic.jpg
+|   |   |       junkrat-itll-freeze-that-way.jpg
+|   |   |       junkrat-kneeling.jpg
+|   |   |       junkrat-medal.jpg
+|   |   |       junkrat-nyah-nyah.jpg
+|   |   |       junkrat-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       junkrat-bleached.jpg
+|   |   |       junkrat-classic.jpg
+|   |   |       junkrat-cricket.jpg
+|   |   |       junkrat-dr-junkenstein.jpg
+|   |   |       junkrat-drowned.jpg
+|   |   |       junkrat-firework.jpg
+|   |   |       junkrat-fool.jpg
+|   |   |       junkrat-hayseed.jpg
+|   |   |       junkrat-irradiated.jpg
+|   |   |       junkrat-jailbird.jpg
+|   |   |       junkrat-jester.jpg
+|   |   |       junkrat-rusted.jpg
+|   |   |       junkrat-scarecrow.jpg
+|   |   |       junkrat-toasted.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       junkrat-ahhhh.png
+|   |   |       junkrat-bang-bang.png
+|   |   |       junkrat-crazy.png
+|   |   |       junkrat-cute.png
+|   |   |       junkrat-dragon-dance.png
+|   |   |       junkrat-fireball.png
+|   |   |       junkrat-firework.png
+|   |   |       junkrat-for-you.png
+|   |   |       junkrat-frag.png
+|   |   |       junkrat-fuse.png
+|   |   |       junkrat-grin.png
+|   |   |       junkrat-icon.png
+|   |   |       junkrat-im-flying.png
+|   |   |       junkrat-joker.png
+|   |   |       junkrat-junk.png
+|   |   |       junkrat-kaboom.png
+|   |   |       junkrat-mad.png
+|   |   |       junkrat-mayhem.png
+|   |   |       junkrat-mine.png
+|   |   |       junkrat-minefield.png
+|   |   |       junkrat-ornament.png
+|   |   |       junkrat-pixel.png
+|   |   |       junkrat-rolling.png
+|   |   |       junkrat-sidecar.png
+|   |   |       junkrat-smile.png
+|   |   |       junkrat-smoke.png
+|   |   |       junkrat-spin.png
+|   |   |       junkrat-tennis.png
+|   |   |       junkrat-trapper.png
+|   |   |       junkrat-trick-or-treat.png
+|   |   |       junkrat-vroom.png
+|   |   |       junkrat-wanted.png
+|   |   |       junkrat-winter.png
+|   |   |       
+|   |   \---voicelines
+|   |           junkrat-anyone-want-some-bbq.ogg
+|   |           junkrat-blow-it-up-again.ogg
+|   |           junkrat-brrring.ogg
+|   |           junkrat-come-the-raw-prawn.ogg
+|   |           junkrat-coming-up-explodey.ogg
+|   |           junkrat-dipstick.ogg
+|   |           junkrat-gong-xi-fa-cai.ogg
+|   |           junkrat-happy-birthday.ogg
+|   |           junkrat-happy-halloween.ogg
+|   |           junkrat-have-a-nice-day.ogg
+|   |           junkrat-i-give-it-a-10.ogg
+|   |           junkrat-i-give-it-a-3.ogg
+|   |           junkrat-its-the-little-things.ogg
+|   |           junkrat-kaboom.ogg
+|   |           junkrat-merry-christmas.ogg
+|   |           junkrat-ooh-shiny.ogg
+|   |           junkrat-oops-dropped-something.ogg
+|   |           junkrat-smile.ogg
+|   |           junkrat-ticktockticktock.ogg
+|   |           junkrat-too-right.ogg
+|   |           
+|   +---lucio
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       lucio-capoeira-hd.webm
+|   |   |       lucio-capoeira-hd.webm.png
+|   |   |       lucio-capoeira.webm
+|   |   |       lucio-capoeira.webm.png
+|   |   |       lucio-chilling-hd.webm
+|   |   |       lucio-chilling-hd.webm.png
+|   |   |       lucio-chilling.webm
+|   |   |       lucio-chilling.webm.png
+|   |   |       lucio-heroic-hd.webm
+|   |   |       lucio-heroic-hd.webm.png
+|   |   |       lucio-heroic.webm
+|   |   |       lucio-heroic.webm.png
+|   |   |       lucio-in-the-groove-hd.webm
+|   |   |       lucio-in-the-groove-hd.webm.png
+|   |   |       lucio-in-the-groove.webm
+|   |   |       lucio-in-the-groove.webm.png
+|   |   |       lucio-juggle-hd.webm
+|   |   |       lucio-juggle-hd.webm.png
+|   |   |       lucio-juggle.webm
+|   |   |       lucio-juggle.webm.png
+|   |   |       lucio-knee-slapper-hd.webm
+|   |   |       lucio-knee-slapper-hd.webm.png
+|   |   |       lucio-knee-slapper.webm
+|   |   |       lucio-knee-slapper.webm.png
+|   |   |       lucio-nah-hd.webm
+|   |   |       lucio-nah-hd.webm.png
+|   |   |       lucio-nah.webm
+|   |   |       lucio-nah.webm.png
+|   |   |       lucio-smooth-hd.webm
+|   |   |       lucio-smooth-hd.webm.png
+|   |   |       lucio-smooth.webm
+|   |   |       lucio-smooth.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       lucio-football.png
+|   |   |       lucio-frog.png
+|   |   |       lucio-kambo.png
+|   |   |       lucio-lucio.png
+|   |   |       lucio-luciouro.png
+|   |   |       
+|   |   +---intros
+|   |   |       lucio-bicycle-kick-hd.webm
+|   |   |       lucio-bicycle-kick-hd.webm.png
+|   |   |       lucio-bicycle-kick.webm
+|   |   |       lucio-bicycle-kick.webm.png
+|   |   |       lucio-drop-the-beat-hd.webm
+|   |   |       lucio-drop-the-beat-hd.webm.png
+|   |   |       lucio-drop-the-beat.webm
+|   |   |       lucio-drop-the-beat.webm.png
+|   |   |       lucio-freestyle-hd.webm
+|   |   |       lucio-freestyle-hd.webm.png
+|   |   |       lucio-freestyle.webm
+|   |   |       lucio-freestyle.webm.png
+|   |   |       lucio-heroic-hd.webm
+|   |   |       lucio-heroic-hd.webm.png
+|   |   |       lucio-heroic.webm
+|   |   |       lucio-heroic.webm.png
+|   |   |       lucio-in-the-groove-hd.webm
+|   |   |       lucio-in-the-groove-hd.webm.png
+|   |   |       lucio-in-the-groove.webm
+|   |   |       lucio-in-the-groove.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       lucio-confident.jpg
+|   |   |       lucio-grooving.jpg
+|   |   |       lucio-handstand.jpg
+|   |   |       lucio-heroic.jpg
+|   |   |       lucio-ready-for-action.jpg
+|   |   |       lucio-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       lucio-andes.jpg
+|   |   |       lucio-auditiva.jpg
+|   |   |       lucio-azul.jpg
+|   |   |       lucio-breakaway.jpg
+|   |   |       lucio-classic.jpg
+|   |   |       lucio-hippityhop.jpg
+|   |   |       lucio-jazzy.jpg
+|   |   |       lucio-laranja.jpg
+|   |   |       lucio-ribbit.jpg
+|   |   |       lucio-roxo.jpg
+|   |   |       lucio-selecao.jpg
+|   |   |       lucio-slapshot.jpg
+|   |   |       lucio-striker.jpg
+|   |   |       lucio-synaesthesia.jpg
+|   |   |       lucio-vermelho.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       lucio-acelerar.png
+|   |   |       lucio-baixo.png
+|   |   |       lucio-bass.png
+|   |   |       lucio-break-it-down.png
+|   |   |       lucio-cereal.png
+|   |   |       lucio-confident.png
+|   |   |       lucio-cute.png
+|   |   |       lucio-deck.png
+|   |   |       lucio-dragon-dance.png
+|   |   |       lucio-football.png
+|   |   |       lucio-frog.png
+|   |   |       lucio-grin.png
+|   |   |       lucio-hero.png
+|   |   |       lucio-hockey.png
+|   |   |       lucio-icon.png
+|   |   |       lucio-in-concert.png
+|   |   |       lucio-jack-of-diamonds.png
+|   |   |       lucio-kambo.png
+|   |   |       lucio-keep-ups.png
+|   |   |       lucio-mural.png
+|   |   |       lucio-ornament.png
+|   |   |       lucio-pixel.png
+|   |   |       lucio-scratch.png
+|   |   |       lucio-signature.png
+|   |   |       lucio-skates.png
+|   |   |       lucio-spin.png
+|   |   |       lucio-tag.png
+|   |   |       lucio-trick-or-treat.png
+|   |   |       lucio-triplo.png
+|   |   |       lucio-under-control.png
+|   |   |       lucio-vinyl.png
+|   |   |       lucio-walk-of-fame.png
+|   |   |       lucio-wave.png
+|   |   |       
+|   |   \---voicelines
+|   |           lucio-be-champions.ogg
+|   |           lucio-boop.ogg
+|   |           lucio-cant-stop-wont-stop.ogg
+|   |           lucio-everyone-gets-their-1.ogg
+|   |           lucio-happy-holidays.ogg
+|   |           lucio-have-some-lucioohs.ogg
+|   |           lucio-hit-me.ogg
+|   |           lucio-i-could-do-this-all-day.ogg
+|   |           lucio-i-make-this-look-good.ogg
+|   |           lucio-im-on-top-of-the-world.ogg
+|   |           lucio-jackpot.ogg
+|   |           lucio-killed-it.ogg
+|   |           lucio-learn-to-take-it-easy.ogg
+|   |           lucio-not-hearing-that-noise.ogg
+|   |           lucio-oh-yeah.ogg
+|   |           lucio-suboptimal.ogg
+|   |           lucio-tinnitus.ogg
+|   |           lucio-to-the-rhythm.ogg
+|   |           lucio-why-are-you-so-angry.ogg
+|   |           lucio-you-gotta-believe.ogg
+|   |           
+|   +---mccree
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       mccree-gunspinning-hd.webm
+|   |   |       mccree-gunspinning-hd.webm.png
+|   |   |       mccree-gunspinning.webm
+|   |   |       mccree-gunspinning.webm.png
+|   |   |       mccree-hat-tip-hd.webm
+|   |   |       mccree-hat-tip-hd.webm.png
+|   |   |       mccree-hat-tip.webm
+|   |   |       mccree-hat-tip.webm.png
+|   |   |       mccree-hat-trick-hd.webm
+|   |   |       mccree-hat-trick-hd.webm.png
+|   |   |       mccree-hat-trick.webm
+|   |   |       mccree-hat-trick.webm.png
+|   |   |       mccree-heroic-hd.webm
+|   |   |       mccree-heroic-hd.webm.png
+|   |   |       mccree-heroic.webm
+|   |   |       mccree-heroic.webm.png
+|   |   |       mccree-joker-hd.webm
+|   |   |       mccree-joker-hd.webm.png
+|   |   |       mccree-joker.webm
+|   |   |       mccree-joker.webm.png
+|   |   |       mccree-line-dance-hd.webm
+|   |   |       mccree-line-dance-hd.webm.png
+|   |   |       mccree-line-dance.webm
+|   |   |       mccree-line-dance.webm.png
+|   |   |       mccree-spit-hd.webm
+|   |   |       mccree-spit-hd.webm.png
+|   |   |       mccree-spit.webm
+|   |   |       mccree-spit.webm.png
+|   |   |       mccree-take-a-load-off-hd.webm
+|   |   |       mccree-take-a-load-off-hd.webm.png
+|   |   |       mccree-take-a-load-off.webm
+|   |   |       mccree-take-a-load-off.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       mccree-badge.png
+|   |   |       mccree-blackwatch.png
+|   |   |       mccree-deadeye.png
+|   |   |       mccree-equestrian.png
+|   |   |       mccree-gamf.png
+|   |   |       mccree-mccree.png
+|   |   |       
+|   |   +---intros
+|   |   |       mccree-heroic-hd.webm
+|   |   |       mccree-heroic-hd.webm.png
+|   |   |       mccree-heroic.webm
+|   |   |       mccree-heroic.webm.png
+|   |   |       mccree-rolling-into-action-hd.webm
+|   |   |       mccree-rolling-into-action-hd.webm.png
+|   |   |       mccree-rolling-into-action.webm
+|   |   |       mccree-rolling-into-action.webm.png
+|   |   |       mccree-the-duel-hd.webm
+|   |   |       mccree-the-duel-hd.webm.png
+|   |   |       mccree-the-duel.webm
+|   |   |       mccree-the-duel.webm.png
+|   |   |       mccree-the-names-mccree-hd.webm
+|   |   |       mccree-the-names-mccree-hd.webm.png
+|   |   |       mccree-the-names-mccree.webm
+|   |   |       mccree-the-names-mccree.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       mccree-contemplative.jpg
+|   |   |       mccree-heroic.jpg
+|   |   |       mccree-over-the-shoulder.jpg
+|   |   |       mccree-rip.jpg
+|   |   |       mccree-showdown.jpg
+|   |   |       mccree-take-it-easy.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       mccree-american.jpg
+|   |   |       mccree-blackwatch.jpg
+|   |   |       mccree-classic.jpg
+|   |   |       mccree-ebony.jpg
+|   |   |       mccree-gambler.jpg
+|   |   |       mccree-lake.jpg
+|   |   |       mccree-lifeguard.jpg
+|   |   |       mccree-mystery-man.jpg
+|   |   |       mccree-on-the-range.jpg
+|   |   |       mccree-riverboat.jpg
+|   |   |       mccree-sage.jpg
+|   |   |       mccree-scrooge.jpg
+|   |   |       mccree-vigilante.jpg
+|   |   |       mccree-wheat.jpg
+|   |   |       mccree-white-hat.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       mccree-badge.png
+|   |   |       mccree-bamf.png
+|   |   |       mccree-bang.png
+|   |   |       mccree-buckle.png
+|   |   |       mccree-bullet.png
+|   |   |       mccree-call-it.png
+|   |   |       mccree-cute.png
+|   |   |       mccree-deadeye.png
+|   |   |       mccree-dragon-dance.png
+|   |   |       mccree-draw.png
+|   |   |       mccree-enigma.png
+|   |   |       mccree-equestrian.png
+|   |   |       mccree-gunslinger.png
+|   |   |       mccree-high-noon.png
+|   |   |       mccree-icon.png
+|   |   |       mccree-jack-of-spades.png
+|   |   |       mccree-jesse.png
+|   |   |       mccree-noose.png
+|   |   |       mccree-ornament.png
+|   |   |       mccree-outlaw.png
+|   |   |       mccree-pixel.png
+|   |   |       mccree-skull.png
+|   |   |       mccree-spin.png
+|   |   |       mccree-take-it-easy.png
+|   |   |       mccree-target-practice.png
+|   |   |       mccree-target.png
+|   |   |       mccree-the-names.png
+|   |   |       mccree-thumbs-up.png
+|   |   |       mccree-trick-or-treat.png
+|   |   |       mccree-tumbleweed.png
+|   |   |       mccree-ugly-sweater.png
+|   |   |       mccree-wanted.png
+|   |   |       mccree-your-face-here.png
+|   |   |       
+|   |   \---voicelines
+|   |           mccree-a-mans-gotta-have-rules.ogg
+|   |           mccree-aint-i-killed-you-before.ogg
+|   |           mccree-boom-goes-the-dynamite.ogg
+|   |           mccree-buckle-up.ogg
+|   |           mccree-calls-for-a-celebration.ogg
+|   |           mccree-had-to-break-the-ice.ogg
+|   |           mccree-happens-to-the-best-of-us.ogg
+|   |           mccree-i-dont-much-like-losing.ogg
+|   |           mccree-i-tried-being-reasonable.ogg
+|   |           mccree-im-the-quick.ogg
+|   |           mccree-im-your-huckleberry.ogg
+|   |           mccree-its-your-funeral.ogg
+|   |           mccree-ive-got-a-bullet.ogg
+|   |           mccree-next-rounds-on-me.ogg
+|   |           mccree-reach-for-the-sky.ogg
+|   |           mccree-sure-as-hell-aint-ugly.ogg
+|   |           mccree-the-old-fashioned-way.ogg
+|   |           mccree-wanted-dead-or-alive.ogg
+|   |           mccree-watch-and-learn.ogg
+|   |           mccree-you-done.ogg
+|   |           
+|   +---mei
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       mei-companion-hd.webm
+|   |   |       mei-companion-hd.webm.png
+|   |   |       mei-companion.webm
+|   |   |       mei-companion.webm.png
+|   |   |       mei-giggle-hd.webm
+|   |   |       mei-giggle-hd.webm.png
+|   |   |       mei-giggle.webm
+|   |   |       mei-giggle.webm.png
+|   |   |       mei-heroic-hd.webm
+|   |   |       mei-heroic-hd.webm.png
+|   |   |       mei-heroic.webm
+|   |   |       mei-heroic.webm.png
+|   |   |       mei-kneel-hd.webm
+|   |   |       mei-kneel-hd.webm.png
+|   |   |       mei-kneel.webm
+|   |   |       mei-kneel.webm.png
+|   |   |       mei-snowman-hd.webm
+|   |   |       mei-snowman-hd.webm.png
+|   |   |       mei-snowman.webm
+|   |   |       mei-snowman.webm.png
+|   |   |       mei-so-excited-hd.webm
+|   |   |       mei-so-excited-hd.webm.png
+|   |   |       mei-so-excited.webm
+|   |   |       mei-so-excited.webm.png
+|   |   |       mei-spray-hd.webm
+|   |   |       mei-spray-hd.webm.png
+|   |   |       mei-spray.webm
+|   |   |       mei-spray.webm.png
+|   |   |       mei-sunny-dance-hd.webm
+|   |   |       mei-sunny-dance-hd.webm.png
+|   |   |       mei-sunny-dance.webm
+|   |   |       mei-sunny-dance.webm.png
+|   |   |       mei-yaaaaaaaaay-hd.webm
+|   |   |       mei-yaaaaaaaaay-hd.webm.png
+|   |   |       mei-yaaaaaaaaay.webm
+|   |   |       mei-yaaaaaaaaay.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       mei-change.png
+|   |   |       mei-hairpin.png
+|   |   |       mei-may.png
+|   |   |       mei-mei.png
+|   |   |       mei-snowball.png
+|   |   |       mei-table-tennis.png
+|   |   |       
+|   |   +---intros
+|   |   |       mei-frosty-hd.webm
+|   |   |       mei-frosty-hd.webm.png
+|   |   |       mei-frosty.webm
+|   |   |       mei-frosty.webm.png
+|   |   |       mei-going-up-hd.webm
+|   |   |       mei-going-up-hd.webm.png
+|   |   |       mei-going-up.webm
+|   |   |       mei-going-up.webm.png
+|   |   |       mei-heroic-hd.webm
+|   |   |       mei-heroic-hd.webm.png
+|   |   |       mei-heroic.webm
+|   |   |       mei-heroic.webm.png
+|   |   |       mei-ice-scream-hd.webm
+|   |   |       mei-ice-scream-hd.webm.png
+|   |   |       mei-ice-scream.webm
+|   |   |       mei-ice-scream.webm.png
+|   |   |       mei-skating-around-hd.webm
+|   |   |       mei-skating-around-hd.webm.png
+|   |   |       mei-skating-around.webm
+|   |   |       mei-skating-around.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       mei-casual.jpg
+|   |   |       mei-hands-on-hips.jpg
+|   |   |       mei-heroic.jpg
+|   |   |       mei-kneeling.jpg
+|   |   |       mei-lucky.jpg
+|   |   |       mei-medal.jpg
+|   |   |       mei-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       mei-abominable.jpg
+|   |   |       mei-beekeeper.jpg
+|   |   |       mei-change.jpg
+|   |   |       mei-chrysanthemum.jpg
+|   |   |       mei-classic.jpg
+|   |   |       mei-earthen.jpg
+|   |   |       mei-firefighter.jpg
+|   |   |       mei-helitrope.jpg
+|   |   |       mei-jade.jpg
+|   |   |       mei-luna.jpg
+|   |   |       mei-meiirry.jpg
+|   |   |       mei-persimmon.jpg
+|   |   |       mei-rescue-mei.jpg
+|   |   |       mei-snow-plum.jpg
+|   |   |       mei-yeti-hunter.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       mei-beat-the-heat.png
+|   |   |       mei-blaster.png
+|   |   |       mei-carefree.png
+|   |   |       mei-casual.png
+|   |   |       mei-confident.png
+|   |   |       mei-cute.png
+|   |   |       mei-dizzy.png
+|   |   |       mei-dragon-dance.png
+|   |   |       mei-explorer.png
+|   |   |       mei-eyes.png
+|   |   |       mei-fortune.png
+|   |   |       mei-frustration.png
+|   |   |       mei-hairpin.png
+|   |   |       mei-icon.png
+|   |   |       mei-joy.png
+|   |   |       mei-meis-journal.png
+|   |   |       mei-ornament.png
+|   |   |       mei-pajamas.png
+|   |   |       mei-pixel.png
+|   |   |       mei-popsicle.png
+|   |   |       mei-print.png
+|   |   |       mei-reading.png
+|   |   |       mei-sculpting.png
+|   |   |       mei-sketch.png
+|   |   |       mei-smile.png
+|   |   |       mei-snow-art.png
+|   |   |       mei-snowball.png
+|   |   |       mei-snowman.png
+|   |   |       mei-soft-serve.png
+|   |   |       mei-table-tennis.png
+|   |   |       mei-ten-of-diamonds.png
+|   |   |       mei-trick-or-treat.png
+|   |   |       mei-walled.png
+|   |   |       
+|   |   \---voicelines
+|   |           mei-ameizing.ogg
+|   |           mei-chill-out.ogg
+|   |           mei-fight-for-our-world.ogg
+|   |           mei-hang-in-there.ogg
+|   |           mei-i-got-you-something.ogg
+|   |           mei-i-tried-my-best.ogg
+|   |           mei-i-was-only-trying-to-help.ogg
+|   |           mei-learned-your-lesson.ogg
+|   |           mei-okay.ogg
+|   |           mei-ouch-are-you-okay.ogg
+|   |           mei-overcome-all-obstacles.ogg
+|   |           mei-scary.ogg
+|   |           mei-science-this.ogg
+|   |           mei-scientific-explanation.ogg
+|   |           mei-so-mean-honestly.ogg
+|   |           mei-sorry-sorry-sorry-sorry.ogg
+|   |           mei-that-was-great.ogg
+|   |           mei-wishing-you-prosperity.ogg
+|   |           mei-yay.ogg
+|   |           mei-you-have-to-let-it-go.ogg
+|   |           
+|   +---mercy
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       mercy-applause-hd.webm
+|   |   |       mercy-applause-hd.webm.png
+|   |   |       mercy-applause.webm
+|   |   |       mercy-applause.webm.png
+|   |   |       mercy-caduceus-hd.webm
+|   |   |       mercy-caduceus-hd.webm.png
+|   |   |       mercy-caduceus.webm
+|   |   |       mercy-caduceus.webm.png
+|   |   |       mercy-heroic-hd.webm
+|   |   |       mercy-heroic-hd.webm.png
+|   |   |       mercy-heroic.webm
+|   |   |       mercy-heroic.webm.png
+|   |   |       mercy-hustle-hd.webm
+|   |   |       mercy-hustle-hd.webm.png
+|   |   |       mercy-hustle.webm
+|   |   |       mercy-hustle.webm.png
+|   |   |       mercy-no-pulse-hd.webm
+|   |   |       mercy-no-pulse-hd.webm.png
+|   |   |       mercy-no-pulse.webm
+|   |   |       mercy-no-pulse.webm.png
+|   |   |       mercy-relax-hd.webm
+|   |   |       mercy-relax-hd.webm.png
+|   |   |       mercy-relax.webm
+|   |   |       mercy-relax.webm.png
+|   |   |       mercy-the-best-medicine-hd.webm
+|   |   |       mercy-the-best-medicine-hd.webm.png
+|   |   |       mercy-the-best-medicine.webm
+|   |   |       mercy-the-best-medicine.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       mercy-badminton.png
+|   |   |       mercy-combat-medic.png
+|   |   |       mercy-guardian-angel.png
+|   |   |       mercy-jahrestag.png
+|   |   |       mercy-mercy.png
+|   |   |       mercy-the-witch.png
+|   |   |       mercy-valkyrie.png
+|   |   |       
+|   |   +---intros
+|   |   |       mercy-battle-angel-hd.webm
+|   |   |       mercy-battle-angel-hd.webm.png
+|   |   |       mercy-battle-angel.webm
+|   |   |       mercy-battle-angel.webm.png
+|   |   |       mercy-fortune-hd.webm
+|   |   |       mercy-fortune-hd.webm.png
+|   |   |       mercy-fortune.webm
+|   |   |       mercy-fortune.webm.png
+|   |   |       mercy-guardian-angel-hd.webm
+|   |   |       mercy-guardian-angel-hd.webm.png
+|   |   |       mercy-guardian-angel.webm
+|   |   |       mercy-guardian-angel.webm.png
+|   |   |       mercy-heroes-never-die-hd.webm
+|   |   |       mercy-heroes-never-die-hd.webm.png
+|   |   |       mercy-heroes-never-die.webm
+|   |   |       mercy-heroes-never-die.webm.png
+|   |   |       mercy-heroic-hd.webm
+|   |   |       mercy-heroic-hd.webm.png
+|   |   |       mercy-heroic.webm
+|   |   |       mercy-heroic.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       mercy-angelic.jpg
+|   |   |       mercy-carefree.jpg
+|   |   |       mercy-heroic.jpg
+|   |   |       mercy-medal.jpg
+|   |   |       mercy-mistletoe.jpg
+|   |   |       mercy-ready-for-battle.jpg
+|   |   |       mercy-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       mercy-amber.jpg
+|   |   |       mercy-celestial.jpg
+|   |   |       mercy-classic.jpg
+|   |   |       mercy-cobalt.jpg
+|   |   |       mercy-combat-medic-ziegler.jpg
+|   |   |       mercy-devil.jpg
+|   |   |       mercy-eidgenossin.jpg
+|   |   |       mercy-fortune.jpg
+|   |   |       mercy-imp.jpg
+|   |   |       mercy-mist.jpg
+|   |   |       mercy-orchid.jpg
+|   |   |       mercy-sigrun.jpg
+|   |   |       mercy-valkyrie.jpg
+|   |   |       mercy-verdant.jpg
+|   |   |       mercy-winged-victory.jpg
+|   |   |       mercy-witch.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       mercy-arrow.png
+|   |   |       mercy-badminton.png
+|   |   |       mercy-bandage.png
+|   |   |       mercy-battle-ready.png
+|   |   |       mercy-blaster.png
+|   |   |       mercy-combat-medic.png
+|   |   |       mercy-cute.png
+|   |   |       mercy-dragon-dance.png
+|   |   |       mercy-emblem.png
+|   |   |       mercy-gauze.png
+|   |   |       mercy-halo.png
+|   |   |       mercy-heroes-never-die.png
+|   |   |       mercy-huge-rez.png
+|   |   |       mercy-icon.png
+|   |   |       mercy-light.png
+|   |   |       mercy-medic.png
+|   |   |       mercy-on-call.png
+|   |   |       mercy-ornament.png
+|   |   |       mercy-parasol.png
+|   |   |       mercy-patched-up.png
+|   |   |       mercy-pixel.png
+|   |   |       mercy-queen-of-clubs.png
+|   |   |       mercy-resurrect.png
+|   |   |       mercy-smile.png
+|   |   |       mercy-snow-angel.png
+|   |   |       mercy-stethoscope.png
+|   |   |       mercy-sting.png
+|   |   |       mercy-support.png
+|   |   |       mercy-swiss.png
+|   |   |       mercy-trick-or-treat.png
+|   |   |       mercy-valkyrie.png
+|   |   |       mercy-wings.png
+|   |   |       mercy-ziegler.png
+|   |   |       
+|   |   \---voicelines
+|   |           mercy-a-most-impressive-display.ogg
+|   |           mercy-consultation-fee.ogg
+|   |           mercy-doctors-orders.ogg
+|   |           mercy-how-barbaric.ogg
+|   |           mercy-i-have-my-eye-on-you.ogg
+|   |           mercy-miracle-worker.ogg
+|   |           mercy-need-a-second-opinion.ogg
+|   |           mercy-not-sure-why-i-bother.ogg
+|   |           mercy-on-a-scale-of-110.ogg
+|   |           mercy-piece-of-cake.ogg
+|   |           mercy-questionable-judgment.ogg
+|   |           mercy-sponge-or-spray.ogg
+|   |           mercy-super.ogg
+|   |           mercy-superstition.ogg
+|   |           mercy-take-care-of-yourself.ogg
+|   |           mercy-take-two.ogg
+|   |           mercy-the-doctor-is-in.ogg
+|   |           mercy-the-doctor-will-see-you.ogg
+|   |           mercy-your-guardian-angel.ogg
+|   |           mercy-youre-welcome.ogg
+|   |           
+|   +---orisa
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       orisa-cheer-hd.webm
+|   |   |       orisa-cheer-hd.webm.png
+|   |   |       orisa-cheer.webm
+|   |   |       orisa-cheer.webm.png
+|   |   |       orisa-dance-hd.webm
+|   |   |       orisa-dance-hd.webm.png
+|   |   |       orisa-dance.webm
+|   |   |       orisa-dance.webm.png
+|   |   |       orisa-halt-hd.webm
+|   |   |       orisa-halt-hd.webm.png
+|   |   |       orisa-halt.webm
+|   |   |       orisa-halt.webm.png
+|   |   |       orisa-heroic-hd.webm
+|   |   |       orisa-heroic-hd.webm.png
+|   |   |       orisa-heroic.webm
+|   |   |       orisa-heroic.webm.png
+|   |   |       orisa-kicking-dirt-hd.webm
+|   |   |       orisa-kicking-dirt-hd.webm.png
+|   |   |       orisa-kicking-dirt.webm
+|   |   |       orisa-kicking-dirt.webm.png
+|   |   |       orisa-laugh-hd.webm
+|   |   |       orisa-laugh-hd.webm.png
+|   |   |       orisa-laugh.webm
+|   |   |       orisa-laugh.webm.png
+|   |   |       orisa-sit-hd.webm
+|   |   |       orisa-sit-hd.webm.png
+|   |   |       orisa-sit.webm
+|   |   |       orisa-sit.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       orisa-aurisa.png
+|   |   |       orisa-efi.png
+|   |   |       orisa-javelin.png
+|   |   |       orisa-or14ns.png
+|   |   |       orisa-orisa.png
+|   |   |       orisa-protector.png
+|   |   |       
+|   |   +---intros
+|   |   |       orisa-heroic-hd.webm
+|   |   |       orisa-heroic-hd.webm.png
+|   |   |       orisa-heroic.webm
+|   |   |       orisa-heroic.webm.png
+|   |   |       orisa-keeping-you-safe-hd.webm
+|   |   |       orisa-keeping-you-safe-hd.webm.png
+|   |   |       orisa-keeping-you-safe.webm
+|   |   |       orisa-keeping-you-safe.webm.png
+|   |   |       orisa-oh-hd.webm
+|   |   |       orisa-oh-hd.webm.png
+|   |   |       orisa-oh.webm
+|   |   |       orisa-oh.webm.png
+|   |   |       orisa-supercharger-hd.webm
+|   |   |       orisa-supercharger-hd.webm.png
+|   |   |       orisa-supercharger.webm
+|   |   |       orisa-supercharger.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       orisa-confident.jpg
+|   |   |       orisa-flex.jpg
+|   |   |       orisa-halt.jpg
+|   |   |       orisa-heroic.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       orisa-camouflage.jpg
+|   |   |       orisa-carbon-fiber.jpg
+|   |   |       orisa-classic.jpg
+|   |   |       orisa-dawn.jpg
+|   |   |       orisa-dynastinae.jpg
+|   |   |       orisa-megasoma.jpg
+|   |   |       orisa-null-sector.jpg
+|   |   |       orisa-or15.jpg
+|   |   |       orisa-plains.jpg
+|   |   |       orisa-protector.jpg
+|   |   |       orisa-sunrise.jpg
+|   |   |       orisa-twilight.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       orisa-amused.png
+|   |   |       orisa-carving.png
+|   |   |       orisa-city-of-harmony.png
+|   |   |       orisa-cleaning.png
+|   |   |       orisa-companions.png
+|   |   |       orisa-construction.png
+|   |   |       orisa-crossing-guard.png
+|   |   |       orisa-cute.png
+|   |   |       orisa-drumming.png
+|   |   |       orisa-flower.png
+|   |   |       orisa-frustration.png
+|   |   |       orisa-guardian.png
+|   |   |       orisa-heroes.png
+|   |   |       orisa-icon.png
+|   |   |       orisa-javelin.png
+|   |   |       orisa-joy.png
+|   |   |       orisa-just-dessert.png
+|   |   |       orisa-kick.png
+|   |   |       orisa-nine-of-spades.png
+|   |   |       orisa-pixel.png
+|   |   |       orisa-protector.png
+|   |   |       orisa-shield.png
+|   |   |       orisa-stop.png
+|   |   |       orisa-supercharged.png
+|   |   |       orisa-swing.png
+|   |   |       orisa-tracks.png
+|   |   |       orisa-unmoving.png
+|   |   |       orisa-xing.png
+|   |   |       
+|   |   \---voicelines
+|   |           orisa-current-outlook.ogg
+|   |           orisa-do-you-need-a-hug.ogg
+|   |           orisa-efi-will-not-be-happy.ogg
+|   |           orisa-error-division-by-0.ogg
+|   |           orisa-error-sarcasm-module.ogg
+|   |           orisa-following-my-programming.ogg
+|   |           orisa-functionality-still-in-beta.ogg
+|   |           orisa-golden.ogg
+|   |           orisa-grease-to-your-elbow.ogg
+|   |           orisa-i-cant-do-that.ogg
+|   |           orisa-medical-assistance.ogg
+|   |           orisa-my-analysis.ogg
+|   |           orisa-no-parking.ogg
+|   |           orisa-satsified-with-protection.ogg
+|   |           orisa-shine-your-eyes.ogg
+|   |           orisa-that-does-not-compute.ogg
+|   |           orisa-your-compliance.ogg
+|   |           
+|   +---pharah
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       pharah-cheer-hd.webm
+|   |   |       pharah-cheer-hd.webm.png
+|   |   |       pharah-cheer.webm
+|   |   |       pharah-cheer.webm.png
+|   |   |       pharah-chuckle-hd.webm
+|   |   |       pharah-chuckle-hd.webm.png
+|   |   |       pharah-chuckle.webm
+|   |   |       pharah-chuckle.webm.png
+|   |   |       pharah-flair-hd.webm
+|   |   |       pharah-flair-hd.webm.png
+|   |   |       pharah-flair.webm
+|   |   |       pharah-flair.webm.png
+|   |   |       pharah-flourish-hd.webm
+|   |   |       pharah-flourish-hd.webm.png
+|   |   |       pharah-flourish.webm
+|   |   |       pharah-flourish.webm.png
+|   |   |       pharah-heroic-hd.webm
+|   |   |       pharah-heroic-hd.webm.png
+|   |   |       pharah-heroic.webm
+|   |   |       pharah-heroic.webm.png
+|   |   |       pharah-knuckles-hd.webm
+|   |   |       pharah-knuckles-hd.webm.png
+|   |   |       pharah-knuckles.webm
+|   |   |       pharah-knuckles.webm.png
+|   |   |       pharah-rocket-guitar-hd.webm
+|   |   |       pharah-rocket-guitar-hd.webm.png
+|   |   |       pharah-take-a-knee-hd.webm
+|   |   |       pharah-take-a-knee-hd.webm.png
+|   |   |       pharah-take-a-knee.webm
+|   |   |       pharah-take-a-knee.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       pharah-anniversareeha.png
+|   |   |       pharah-basketball.png
+|   |   |       pharah-pharah.png
+|   |   |       pharah-raptora.png
+|   |   |       pharah-wadjet.png
+|   |   |       
+|   |   +---intros
+|   |   |       pharah-barrage-hd.webm
+|   |   |       pharah-barrage-hd.webm.png
+|   |   |       pharah-barrage.webm
+|   |   |       pharah-barrage.webm.png
+|   |   |       pharah-heroic-hd.webm
+|   |   |       pharah-heroic-hd.webm.png
+|   |   |       pharah-heroic.webm
+|   |   |       pharah-heroic.webm.png
+|   |   |       pharah-mission-complete-hd.webm
+|   |   |       pharah-mission-complete-hd.webm.png
+|   |   |       pharah-mission-complete.webm
+|   |   |       pharah-mission-complete.webm.png
+|   |   |       pharah-touchdown-hd.webm
+|   |   |       pharah-touchdown-hd.webm.png
+|   |   |       pharah-touchdown.webm
+|   |   |       pharah-touchdown.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       pharah-guardian.jpg
+|   |   |       pharah-heroic.jpg
+|   |   |       pharah-jump-jet.jpg
+|   |   |       pharah-kneeling.jpg
+|   |   |       pharah-medal.jpg
+|   |   |       pharah-rip.jpg
+|   |   |       pharah-toast.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       pharah-amethyst.jpg
+|   |   |       pharah-anubis.jpg
+|   |   |       pharah-bedouin.jpg
+|   |   |       pharah-classic.jpg
+|   |   |       pharah-copper.jpg
+|   |   |       pharah-emerald.jpg
+|   |   |       pharah-frostbite.jpg
+|   |   |       pharah-jackal.jpg
+|   |   |       pharah-mechaqueen.jpg
+|   |   |       pharah-possessed.jpg
+|   |   |       pharah-raindancer.jpg
+|   |   |       pharah-raptorion.jpg
+|   |   |       pharah-security-chief.jpg
+|   |   |       pharah-thunderbird.jpg
+|   |   |       pharah-titanium.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       pharah-aerial-superiority.png
+|   |   |       pharah-amari.png
+|   |   |       pharah-ana.png
+|   |   |       pharah-basketball.png
+|   |   |       pharah-cobra.png
+|   |   |       pharah-concussive-blast.png
+|   |   |       pharah-cute.png
+|   |   |       pharah-dragon-dance.png
+|   |   |       pharah-guardian.png
+|   |   |       pharah-happy-new-year.png
+|   |   |       pharah-hieroglyph.png
+|   |   |       pharah-ice-fishing.png
+|   |   |       pharah-icon.png
+|   |   |       pharah-incoming.png
+|   |   |       pharah-justice.png
+|   |   |       pharah-on-guard.png
+|   |   |       pharah-ornament.png
+|   |   |       pharah-pixel.png
+|   |   |       pharah-play-pharah.png
+|   |   |       pharah-queen-of-diamonds.png
+|   |   |       pharah-raptora.png
+|   |   |       pharah-rocket-jump.png
+|   |   |       pharah-rocket-launcher.png
+|   |   |       pharah-salute.png
+|   |   |       pharah-scarab.png
+|   |   |       pharah-statue.png
+|   |   |       pharah-stone.png
+|   |   |       pharah-target-practice.png
+|   |   |       pharah-tattoo.png
+|   |   |       pharah-trick-or-treat.png
+|   |   |       pharah-wedjat.png
+|   |   |       pharah-wings.png
+|   |   |       pharah-wrist-launcher.png
+|   |   |       
+|   |   \---voicelines
+|   |           pharah-aerial-superiority-achieved.ogg
+|   |           pharah-clear-skies-full-hearts.ogg
+|   |           pharah-dead-or-alive.ogg
+|   |           pharah-dont-take-it-personally.ogg
+|   |           pharah-fly-casual.ogg
+|   |           pharah-fly-like-an-egyptian.ogg
+|   |           pharah-flying-the-friendly-skies.ogg
+|   |           pharah-got-you-on-my-radar.ogg
+|   |           pharah-i-am-the-rocket-queen.ogg
+|   |           pharah-i-keep-the-peace.ogg
+|   |           pharah-leave-this-to-a-professional.ogg
+|   |           pharah-not-a-chance.ogg
+|   |           pharah-play-nice-play-pharah.ogg
+|   |           pharah-rocket-jump.ogg
+|   |           pharah-security-in-my-hands.ogg
+|   |           pharah-shot-down.ogg
+|   |           pharah-sorry-but-i-need-to-jet.ogg
+|   |           pharah-the-forecast.ogg
+|   |           pharah-try-me.ogg
+|   |           pharah-we-are-in-this-together.ogg
+|   |           
+|   +---reaper
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       reaper-cackle-hd.webm
+|   |   |       reaper-cackle-hd.webm.png
+|   |   |       reaper-cackle.webm
+|   |   |       reaper-cackle.webm.png
+|   |   |       reaper-dance-hd.webm
+|   |   |       reaper-dance-hd.webm.png
+|   |   |       reaper-dance.webm
+|   |   |       reaper-dance.webm.png
+|   |   |       reaper-heroic-hd.webm
+|   |   |       reaper-heroic-hd.webm.png
+|   |   |       reaper-heroic.webm
+|   |   |       reaper-heroic.webm.png
+|   |   |       reaper-not-impressed-hd.webm
+|   |   |       reaper-not-impressed-hd.webm.png
+|   |   |       reaper-not-impressed.webm
+|   |   |       reaper-not-impressed.webm.png
+|   |   |       reaper-shrug-hd.webm
+|   |   |       reaper-shrug-hd.webm.png
+|   |   |       reaper-shrug.webm
+|   |   |       reaper-shrug.webm.png
+|   |   |       reaper-slice-hd.webm
+|   |   |       reaper-slice-hd.webm.png
+|   |   |       reaper-slice.webm
+|   |   |       reaper-slice.webm.png
+|   |   |       reaper-slow-clap-hd.webm
+|   |   |       reaper-slow-clap-hd.webm.png
+|   |   |       reaper-slow-clap.webm
+|   |   |       reaper-slow-clap.webm.png
+|   |   |       reaper-take-a-knee-hd.webm
+|   |   |       reaper-take-a-knee-hd.webm.png
+|   |   |       reaper-take-a-knee.webm
+|   |   |       reaper-take-a-knee.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       reaper-bmx.png
+|   |   |       reaper-emblem.png
+|   |   |       reaper-reaper.png
+|   |   |       reaper-reapiversary.png
+|   |   |       reaper-soul.png
+|   |   |       reaper-the-reaper.png
+|   |   |       
+|   |   +---intros
+|   |   |       reaper-death-blossom-hd.webm
+|   |   |       reaper-death-blossom-hd.webm.png
+|   |   |       reaper-death-blossom.webm
+|   |   |       reaper-death-blossom.webm.png
+|   |   |       reaper-eternal-rest-hd.webm
+|   |   |       reaper-eternal-rest-hd.webm.png
+|   |   |       reaper-eternal-rest.webm
+|   |   |       reaper-eternal-rest.webm.png
+|   |   |       reaper-executioner-hd.webm
+|   |   |       reaper-executioner-hd.webm.png
+|   |   |       reaper-executioner.webm
+|   |   |       reaper-executioner.webm.png
+|   |   |       reaper-heroic-hd.webm
+|   |   |       reaper-heroic-hd.webm.png
+|   |   |       reaper-heroic.webm
+|   |   |       reaper-heroic.webm.png
+|   |   |       reaper-shadow-step-hd.webm
+|   |   |       reaper-shadow-step-hd.webm.png
+|   |   |       reaper-shadow-step.webm
+|   |   |       reaper-shadow-step.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       reaper-casual.jpg
+|   |   |       reaper-enigmatic.jpg
+|   |   |       reaper-heroic.jpg
+|   |   |       reaper-medal.jpg
+|   |   |       reaper-menacing.jpg
+|   |   |       reaper-rip.jpg
+|   |   |       reaper-shrug.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       reaper-biker.jpg
+|   |   |       reaper-blackwatch-reyes.jpg
+|   |   |       reaper-blood.jpg
+|   |   |       reaper-classic.jpg
+|   |   |       reaper-desert.jpg
+|   |   |       reaper-el-blanco.jpg
+|   |   |       reaper-mariachi.jpg
+|   |   |       reaper-midnight.jpg
+|   |   |       reaper-moss.jpg
+|   |   |       reaper-nevermore.jpg
+|   |   |       reaper-plague-doctor.jpg
+|   |   |       reaper-pumpkin.jpg
+|   |   |       reaper-royal.jpg
+|   |   |       reaper-shiver.jpg
+|   |   |       reaper-wight.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       reaper-ace-of-clubs.png
+|   |   |       reaper-blackwatch.png
+|   |   |       reaper-blossom.png
+|   |   |       reaper-bmx.png
+|   |   |       reaper-cloaked.png
+|   |   |       reaper-commando.png
+|   |   |       reaper-cute.png
+|   |   |       reaper-death-blossom.png
+|   |   |       reaper-death-comes.png
+|   |   |       reaper-die-die-die.png
+|   |   |       reaper-dragon-dance.png
+|   |   |       reaper-everywhere.png
+|   |   |       reaper-fire-blossom.png
+|   |   |       reaper-grave.png
+|   |   |       reaper-hellfire.png
+|   |   |       reaper-hooded.png
+|   |   |       reaper-horns.png
+|   |   |       reaper-icon.png
+|   |   |       reaper-oops.png
+|   |   |       reaper-ornament.png
+|   |   |       reaper-pixel.png
+|   |   |       reaper-psst.png
+|   |   |       reaper-reap-on.png
+|   |   |       reaper-reaping.png
+|   |   |       reaper-revenge.png
+|   |   |       reaper-scythes.png
+|   |   |       reaper-shadow-step.png
+|   |   |       reaper-shadow.png
+|   |   |       reaper-shrug.png
+|   |   |       reaper-silent.png
+|   |   |       reaper-soul-globe.png
+|   |   |       reaper-stocking.png
+|   |   |       reaper-time-to-kill.png
+|   |   |       reaper-trick-or-treat.png
+|   |   |       
+|   |   \---voicelines
+|   |           reaper-amateur-hour.ogg
+|   |           reaper-dead-man-walking.ogg
+|   |           reaper-give-me-a-break.ogg
+|   |           reaper-havent-i-killed-you.ogg
+|   |           reaper-holiday-spirit.ogg
+|   |           reaper-i-work-the-graveyard-shift.ogg
+|   |           reaper-if-it-lives-i-can-kill-it.ogg
+|   |           reaper-ill-see-you-in-hell.ogg
+|   |           reaper-im-back-in-black.ogg
+|   |           reaper-its-in-the-refrigerator.ogg
+|   |           reaper-just-win.ogg
+|   |           reaper-moving-on.ogg
+|   |           reaper-next.ogg
+|   |           reaper-no-one-left-behind.ogg
+|   |           reaper-now-those-are-fireworks.ogg
+|   |           reaper-psychopath.ogg
+|   |           reaper-seen-a-ghost.ogg
+|   |           reaper-too-easy.ogg
+|   |           reaper-was-that-all.ogg
+|   |           reaper-what-are-you-looking-at.ogg
+|   |           
+|   +---reinhardt
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       reinhardt-flex-hd.webm
+|   |   |       reinhardt-flex-hd.webm.png
+|   |   |       reinhardt-flex.webm
+|   |   |       reinhardt-flex.webm.png
+|   |   |       reinhardt-heroic-hd.webm
+|   |   |       reinhardt-heroic-hd.webm.png
+|   |   |       reinhardt-heroic.webm
+|   |   |       reinhardt-heroic.webm.png
+|   |   |       reinhardt-kneel-hd.webm
+|   |   |       reinhardt-kneel-hd.webm.png
+|   |   |       reinhardt-kneel.webm
+|   |   |       reinhardt-kneel.webm.png
+|   |   |       reinhardt-pumpkin-smash-hd.webm
+|   |   |       reinhardt-pumpkin-smash-hd.webm.png
+|   |   |       reinhardt-pumpkin-smash.webm
+|   |   |       reinhardt-pumpkin-smash.webm.png
+|   |   |       reinhardt-sweethardt-hd.webm
+|   |   |       reinhardt-sweethardt-hd.webm.png
+|   |   |       reinhardt-sweethardt.webm
+|   |   |       reinhardt-sweethardt.webm.png
+|   |   |       reinhardt-taunt-hd.webm
+|   |   |       reinhardt-taunt-hd.webm.png
+|   |   |       reinhardt-taunt.webm
+|   |   |       reinhardt-taunt.webm.png
+|   |   |       reinhardt-uproarious-hd.webm
+|   |   |       reinhardt-uproarious-hd.webm.png
+|   |   |       reinhardt-uproarious.webm
+|   |   |       reinhardt-uproarious.webm.png
+|   |   |       reinhardt-warriors-salute-hd.webm
+|   |   |       reinhardt-warriors-salute-hd.webm.png
+|   |   |       reinhardt-warriors-salute.webm
+|   |   |       reinhardt-warriors-salute.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       reinhardt-goldhardt.png
+|   |   |       reinhardt-lieutenant.png
+|   |   |       reinhardt-lionhardt.png
+|   |   |       reinhardt-reinhardt.png
+|   |   |       reinhardt-sandy.png
+|   |   |       reinhardt-scar.png
+|   |   |       reinhardt-wrestling.png
+|   |   |       
+|   |   +---intros
+|   |   |       reinhardt-charge-hd.webm
+|   |   |       reinhardt-charge-hd.webm.png
+|   |   |       reinhardt-charge.webm
+|   |   |       reinhardt-charge.webm.png
+|   |   |       reinhardt-hammer-down-hd.webm
+|   |   |       reinhardt-hammer-down-hd.webm.png
+|   |   |       reinhardt-hammer-down.webm
+|   |   |       reinhardt-hammer-down.webm.png
+|   |   |       reinhardt-heroic-hd.webm
+|   |   |       reinhardt-heroic-hd.webm.png
+|   |   |       reinhardt-heroic.webm
+|   |   |       reinhardt-heroic.webm.png
+|   |   |       reinhardt-more-stretching-required-hd.webm
+|   |   |       reinhardt-more-stretching-required-hd.webm.png
+|   |   |       reinhardt-more-stretching-required.webm
+|   |   |       reinhardt-more-stretching-required.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       reinhardt-confident.jpg
+|   |   |       reinhardt-flex.jpg
+|   |   |       reinhardt-heroic.jpg
+|   |   |       reinhardt-legendary.jpg
+|   |   |       reinhardt-rip.jpg
+|   |   |       reinhardt-toast.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       reinhardt-balderich.jpg
+|   |   |       reinhardt-blackhardt.jpg
+|   |   |       reinhardt-bloodhardt.jpg
+|   |   |       reinhardt-brass.jpg
+|   |   |       reinhardt-bundeswehr.jpg
+|   |   |       reinhardt-classic.jpg
+|   |   |       reinhardt-cobalt.jpg
+|   |   |       reinhardt-coldhardt.jpg
+|   |   |       reinhardt-copper.jpg
+|   |   |       reinhardt-greifhardt.jpg
+|   |   |       reinhardt-lieutenant-wilhelm.jpg
+|   |   |       reinhardt-lionhardt.jpg
+|   |   |       reinhardt-paragon.jpg
+|   |   |       reinhardt-stonehardt.jpg
+|   |   |       reinhardt-viridian.jpg
+|   |   |       reinhardt-wujing.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       reinhardt-barrier.png
+|   |   |       reinhardt-charge.png
+|   |   |       reinhardt-cracks.png
+|   |   |       reinhardt-crusader.png
+|   |   |       reinhardt-cute.png
+|   |   |       reinhardt-dragon-dance.png
+|   |   |       reinhardt-earthshatter.png
+|   |   |       reinhardt-emblem.png
+|   |   |       reinhardt-fire-strike.png
+|   |   |       reinhardt-glorious.png
+|   |   |       reinhardt-hammer-down.png
+|   |   |       reinhardt-helm.png
+|   |   |       reinhardt-honor.png
+|   |   |       reinhardt-ice-fishing.png
+|   |   |       reinhardt-icon.png
+|   |   |       reinhardt-king-of-hearts.png
+|   |   |       reinhardt-knight.png
+|   |   |       reinhardt-lion-dance.png
+|   |   |       reinhardt-lion.png
+|   |   |       reinhardt-ornament.png
+|   |   |       reinhardt-pixel.png
+|   |   |       reinhardt-poster.png
+|   |   |       reinhardt-roar.png
+|   |   |       reinhardt-royal.png
+|   |   |       reinhardt-shield-up.png
+|   |   |       reinhardt-stein.png
+|   |   |       reinhardt-swing.png
+|   |   |       reinhardt-trick-or-treat.png
+|   |   |       reinhardt-vigilant.png
+|   |   |       reinhardt-white.png
+|   |   |       reinhardt-wilhelm.png
+|   |   |       reinhardt-wrestle.png
+|   |   |       reinhardt-wrestling.png
+|   |   |       
+|   |   \---voicelines
+|   |           reinhardt-100-german-power.ogg
+|   |           reinhardt-are-you-afraid.ogg
+|   |           reinhardt-are-you-chicken.ogg
+|   |           reinhardt-beer.ogg
+|   |           reinhardt-bring-me-another.ogg
+|   |           reinhardt-catch-phrase.ogg
+|   |           reinhardt-crusader-online.ogg
+|   |           reinhardt-crushing-machine.ogg
+|   |           reinhardt-easy-does-it.ogg
+|   |           reinhardt-german-engineering.ogg
+|   |           reinhardt-glittering-prizes.ogg
+|   |           reinhardt-honor-and-glory.ogg
+|   |           reinhardt-honor-justice-reinhardt.ogg
+|   |           reinhardt-i-salute-you.ogg
+|   |           reinhardt-respect-your-elders.ogg
+|   |           reinhardt-show-you-how-its-done.ogg
+|   |           reinhardt-smashing.ogg
+|   |           reinhardt-this-old-dog.ogg
+|   |           reinhardt-unstoppable.ogg
+|   |           reinhardt-youre-on-my-naughty-list.ogg
+|   |           
+|   +---roadhog
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       roadhog-belly-laugh-hd.webm
+|   |   |       roadhog-belly-laugh-hd.webm.png
+|   |   |       roadhog-belly-laugh.webm
+|   |   |       roadhog-belly-laugh.webm.png
+|   |   |       roadhog-boo-hd.webm
+|   |   |       roadhog-boo-hd.webm.png
+|   |   |       roadhog-boo.webm
+|   |   |       roadhog-boo.webm.png
+|   |   |       roadhog-can-crusher-hd.webm
+|   |   |       roadhog-can-crusher-hd.webm.png
+|   |   |       roadhog-can-crusher.webm
+|   |   |       roadhog-can-crusher.webm.png
+|   |   |       roadhog-dance-hd.webm
+|   |   |       roadhog-dance-hd.webm.png
+|   |   |       roadhog-dance.webm
+|   |   |       roadhog-dance.webm.png
+|   |   |       roadhog-headbanging-hd.webm
+|   |   |       roadhog-headbanging-hd.webm.png
+|   |   |       roadhog-headbanging.webm
+|   |   |       roadhog-headbanging.webm.png
+|   |   |       roadhog-heroic-hd.webm
+|   |   |       roadhog-heroic-hd.webm.png
+|   |   |       roadhog-heroic.webm
+|   |   |       roadhog-heroic.webm.png
+|   |   |       roadhog-tuckered-out-hd.webm
+|   |   |       roadhog-tuckered-out-hd.webm.png
+|   |   |       roadhog-tuckered-out.webm
+|   |   |       roadhog-tuckered-out.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       roadhog-diving.png
+|   |   |       roadhog-goldhog.png
+|   |   |       roadhog-hook.png
+|   |   |       roadhog-piggy.png
+|   |   |       roadhog-pigsy.png
+|   |   |       roadhog-roadhog.png
+|   |   |       roadhog-the-monster.png
+|   |   |       
+|   |   +---intros
+|   |   |       roadhog-feast-hd.webm
+|   |   |       roadhog-feast-hd.webm.png
+|   |   |       roadhog-feast.webm
+|   |   |       roadhog-feast.webm.png
+|   |   |       roadhog-heroic-hd.webm
+|   |   |       roadhog-heroic-hd.webm.png
+|   |   |       roadhog-heroic.webm
+|   |   |       roadhog-heroic.webm.png
+|   |   |       roadhog-little-piggy-hd.webm
+|   |   |       roadhog-little-piggy-hd.webm.png
+|   |   |       roadhog-little-piggy.webm
+|   |   |       roadhog-little-piggy.webm.png
+|   |   |       roadhog-say-cheese-hd.webm
+|   |   |       roadhog-say-cheese-hd.webm.png
+|   |   |       roadhog-say-cheese.webm
+|   |   |       roadhog-say-cheese.webm.png
+|   |   |       roadhog-whole-hog-hd.webm
+|   |   |       roadhog-whole-hog-hd.webm.png
+|   |   |       roadhog-whole-hog.webm
+|   |   |       roadhog-whole-hog.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       roadhog-heroic.jpg
+|   |   |       roadhog-medal.jpg
+|   |   |       roadhog-pointing-up-to-the-sky.jpg
+|   |   |       roadhog-rip.jpg
+|   |   |       roadhog-thumbs-up.jpg
+|   |   |       roadhog-tuckered-out.jpg
+|   |   |       roadhog-whats-mine-is-mine.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       roadhog-bajie.jpg
+|   |   |       roadhog-classic.jpg
+|   |   |       roadhog-islander.jpg
+|   |   |       roadhog-junkensteins-monster.jpg
+|   |   |       roadhog-kiwi.jpg
+|   |   |       roadhog-mako.jpg
+|   |   |       roadhog-mud.jpg
+|   |   |       roadhog-pigpen.jpg
+|   |   |       roadhog-rudolph.jpg
+|   |   |       roadhog-sand.jpg
+|   |   |       roadhog-sharkbait.jpg
+|   |   |       roadhog-stitched.jpg
+|   |   |       roadhog-thistle.jpg
+|   |   |       roadhog-toa.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       roadhog-breathin.png
+|   |   |       roadhog-chopper.png
+|   |   |       roadhog-cute.png
+|   |   |       roadhog-deep-thoughts.png
+|   |   |       roadhog-diving.png
+|   |   |       roadhog-dragon-dance.png
+|   |   |       roadhog-emblem.png
+|   |   |       roadhog-eyes.png
+|   |   |       roadhog-free-pig.png
+|   |   |       roadhog-fresh-meat.png
+|   |   |       roadhog-gotcha.png
+|   |   |       roadhog-grand-theft.png
+|   |   |       roadhog-helmet.png
+|   |   |       roadhog-here-piggy.png
+|   |   |       roadhog-hogpower.png
+|   |   |       roadhog-hooked.png
+|   |   |       roadhog-icon.png
+|   |   |       roadhog-joker.png
+|   |   |       roadhog-left.png
+|   |   |       roadhog-license.png
+|   |   |       roadhog-mako.png
+|   |   |       roadhog-no-pork.png
+|   |   |       roadhog-ornament.png
+|   |   |       roadhog-piggy.png
+|   |   |       roadhog-pixel.png
+|   |   |       roadhog-popper.png
+|   |   |       roadhog-steamed-buns.png
+|   |   |       roadhog-tails.png
+|   |   |       roadhog-toxic.png
+|   |   |       roadhog-trick-or-treat.png
+|   |   |       roadhog-wanted.png
+|   |   |       roadhog-wild-hog.png
+|   |   |       roadhog-winter.png
+|   |   |       
+|   |   \---voicelines
+|   |           roadhog-candy-from-a-baby.ogg
+|   |           roadhog-got-something-to-say.ogg
+|   |           roadhog-hahaha.ogg
+|   |           roadhog-ho-ho-ho.ogg
+|   |           roadhog-hook-line-and-sinker.ogg
+|   |           roadhog-i-dont-like-talkers.ogg
+|   |           roadhog-im-going-hog-wild.ogg
+|   |           roadhog-killed-for-less-than-that.ogg
+|   |           roadhog-life-is-pain-so-is-death.ogg
+|   |           roadhog-piece-of-cake.ogg
+|   |           roadhog-push-off.ogg
+|   |           roadhog-say-bacon.ogg
+|   |           roadhog-shell-be-right.ogg
+|   |           roadhog-the-apocalypse.ogg
+|   |           roadhog-theres-no-i-in-team.ogg
+|   |           roadhog-violence-is-the-answer.ogg
+|   |           roadhog-want-some-candy.ogg
+|   |           roadhog-were-all-animals.ogg
+|   |           roadhog-whats-mine-is-mine.ogg
+|   |           roadhog-you-chicken.ogg
+|   |           
+|   +---soldier-76
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       soldier-76-amused-hd.webm
+|   |   |       soldier-76-amused-hd.webm.png
+|   |   |       soldier-76-amused.webm
+|   |   |       soldier-76-amused.webm.png
+|   |   |       soldier-76-dance-hd.webm
+|   |   |       soldier-76-dance-hd.webm.png
+|   |   |       soldier-76-dance.webm
+|   |   |       soldier-76-dance.webm.png
+|   |   |       soldier-76-fist-hd.webm
+|   |   |       soldier-76-fist-hd.webm.png
+|   |   |       soldier-76-fist.webm
+|   |   |       soldier-76-fist.webm.png
+|   |   |       soldier-76-heroic-hd.webm
+|   |   |       soldier-76-heroic-hd.webm.png
+|   |   |       soldier-76-heroic.webm
+|   |   |       soldier-76-heroic.webm.png
+|   |   |       soldier-76-i-see-you-hd.webm
+|   |   |       soldier-76-i-see-you-hd.webm.png
+|   |   |       soldier-76-i-see-you.webm
+|   |   |       soldier-76-i-see-you.webm.png
+|   |   |       soldier-76-locked-and-loaded-hd.webm
+|   |   |       soldier-76-locked-and-loaded-hd.webm.png
+|   |   |       soldier-76-locked-and-loaded.webm
+|   |   |       soldier-76-locked-and-loaded.webm.png
+|   |   |       soldier-76-pushups-hd.webm
+|   |   |       soldier-76-pushups-hd.webm.png
+|   |   |       soldier-76-pushups.webm
+|   |   |       soldier-76-pushups.webm.png
+|   |   |       soldier-76-take-a-knee-hd.webm
+|   |   |       soldier-76-take-a-knee-hd.webm.png
+|   |   |       soldier-76-take-a-knee.webm
+|   |   |       soldier-76-take-a-knee.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       soldier-76-76.png
+|   |   |       soldier-76-gold-soldier.png
+|   |   |       soldier-76-golf.png
+|   |   |       soldier-76-soldier-76.png
+|   |   |       soldier-76-strike-commander.png
+|   |   |       soldier-76-strikecommander.png
+|   |   |       
+|   |   +---intros
+|   |   |       soldier-76-helix-hd.webm
+|   |   |       soldier-76-helix-hd.webm.png
+|   |   |       soldier-76-helix.webm
+|   |   |       soldier-76-helix.webm.png
+|   |   |       soldier-76-heroic-hd.webm
+|   |   |       soldier-76-heroic-hd.webm.png
+|   |   |       soldier-76-heroic.webm
+|   |   |       soldier-76-heroic.webm.png
+|   |   |       soldier-76-looking-at-you-hd.webm
+|   |   |       soldier-76-looking-at-you-hd.webm.png
+|   |   |       soldier-76-looking-at-you.webm
+|   |   |       soldier-76-looking-at-you.webm.png
+|   |   |       soldier-76-target-rich-environment-hd.webm
+|   |   |       soldier-76-target-rich-environment-hd.webm.png
+|   |   |       soldier-76-target-rich-environment.webm
+|   |   |       soldier-76-target-rich-environment.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       soldier-76-fist-pump.jpg
+|   |   |       soldier-76-golf-swing.jpg
+|   |   |       soldier-76-heroic.jpg
+|   |   |       soldier-76-locked-and-loaded.jpg
+|   |   |       soldier-76-rip.jpg
+|   |   |       soldier-76-soldier.jpg
+|   |   |       soldier-76-toast.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       soldier-76-bone.jpg
+|   |   |       soldier-76-classic.jpg
+|   |   |       soldier-76-commando-76.jpg
+|   |   |       soldier-76-cyborg-76.jpg
+|   |   |       soldier-76-daredevil-76.jpg
+|   |   |       soldier-76-golden.jpg
+|   |   |       soldier-76-grillmaster-76.jpg
+|   |   |       soldier-76-immortal.jpg
+|   |   |       soldier-76-jet.jpg
+|   |   |       soldier-76-night-ops-76.jpg
+|   |   |       soldier-76-olive.jpg
+|   |   |       soldier-76-russet.jpg
+|   |   |       soldier-76-smoke.jpg
+|   |   |       soldier-76-strike-commander-morrison.jpg
+|   |   |       soldier-76-strikecommander-morrison.jpg
+|   |   |       soldier-76-stunt-rider-76.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       soldier-76-76.png
+|   |   |       soldier-76-ace-of-spades.png
+|   |   |       soldier-76-all-soldiers.png
+|   |   |       soldier-76-american-hero.png
+|   |   |       soldier-76-army-man-76.png
+|   |   |       soldier-76-coin.png
+|   |   |       soldier-76-commando.png
+|   |   |       soldier-76-cute.png
+|   |   |       soldier-76-dragon-dance.png
+|   |   |       soldier-76-folded-hands.png
+|   |   |       soldier-76-golf.png
+|   |   |       soldier-76-grave.png
+|   |   |       soldier-76-grizzled.png
+|   |   |       soldier-76-heal-up.png
+|   |   |       soldier-76-helix.png
+|   |   |       soldier-76-hooah.png
+|   |   |       soldier-76-icon.png
+|   |   |       soldier-76-jacket-76.png
+|   |   |       soldier-76-move.png
+|   |   |       soldier-76-muzzle.png
+|   |   |       soldier-76-old-soldier.png
+|   |   |       soldier-76-ornament.png
+|   |   |       soldier-76-pixel.png
+|   |   |       soldier-76-pulse-rifle.png
+|   |   |       soldier-76-resolute.png
+|   |   |       soldier-76-rifle-76.png
+|   |   |       soldier-76-rockets.png
+|   |   |       soldier-76-salute.png
+|   |   |       soldier-76-strike-commander.png
+|   |   |       soldier-76-trick-or-treat.png
+|   |   |       soldier-76-vigilante.png
+|   |   |       soldier-76-visor.png
+|   |   |       soldier-76-wanted.png
+|   |   |       
+|   |   \---voicelines
+|   |           soldier-76-bring-the-noise.ogg
+|   |           soldier-76-get-off-my-lawn.ogg
+|   |           soldier-76-i-didnt-start-this-war.ogg
+|   |           soldier-76-im-an-army-of-one.ogg
+|   |           soldier-76-im-not-your-father.ogg
+|   |           soldier-76-ive-still-got-it.ogg
+|   |           soldier-76-knock-knock.ogg
+|   |           soldier-76-not-getting-any-younger.ogg
+|   |           soldier-76-not-on-my-watch.ogg
+|   |           soldier-76-old-soldiers.ogg
+|   |           soldier-76-smells-like-victory.ogg
+|   |           soldier-76-stay-frosty.ogg
+|   |           soldier-76-thats-sir-to-you.ogg
+|   |           soldier-76-the-rooster-crows.ogg
+|   |           soldier-76-what-are-you-lookin-at.ogg
+|   |           soldier-76-whatever-you-say.ogg
+|   |           soldier-76-you-didnt-make-the-cut.ogg
+|   |           soldier-76-you-want-a-medal.ogg
+|   |           soldier-76-youre-the-boss.ogg
+|   |           soldier-76-youre-the-other-one.ogg
+|   |           
+|   +---sombra
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       sombra-amused-hd.webm
+|   |   |       sombra-amused-hd.webm.png
+|   |   |       sombra-amused.webm
+|   |   |       sombra-amused.webm.png
+|   |   |       sombra-boop-hd.webm
+|   |   |       sombra-boop-hd.webm.png
+|   |   |       sombra-boop.webm
+|   |   |       sombra-boop.webm.png
+|   |   |       sombra-dance-hd.webm
+|   |   |       sombra-dance-hd.webm.png
+|   |   |       sombra-dance.webm
+|   |   |       sombra-dance.webm.png
+|   |   |       sombra-heroic-hd.webm
+|   |   |       sombra-heroic-hd.webm.png
+|   |   |       sombra-heroic.webm
+|   |   |       sombra-heroic.webm.png
+|   |   |       sombra-hold-on-hd.webm
+|   |   |       sombra-hold-on-hd.webm.png
+|   |   |       sombra-hold-on.webm
+|   |   |       sombra-hold-on.webm.png
+|   |   |       sombra-masterpiece-hd.webm
+|   |   |       sombra-masterpiece-hd.webm.png
+|   |   |       sombra-masterpiece.webm
+|   |   |       sombra-masterpiece.webm.png
+|   |   |       sombra-sit-hd.webm
+|   |   |       sombra-sit-hd.webm.png
+|   |   |       sombra-sit.webm
+|   |   |       sombra-sit.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       sombra-aniversario.png
+|   |   |       sombra-hacker.png
+|   |   |       sombra-high-jump.png
+|   |   |       sombra-skull.png
+|   |   |       sombra-sombra.png
+|   |   |       
+|   |   +---intros
+|   |   |       sombra-hacking-hd.webm
+|   |   |       sombra-hacking-hd.webm.png
+|   |   |       sombra-hacking.webm
+|   |   |       sombra-hacking.webm.png
+|   |   |       sombra-heroic-hd.webm
+|   |   |       sombra-heroic-hd.webm.png
+|   |   |       sombra-heroic.webm
+|   |   |       sombra-heroic.webm.png
+|   |   |       sombra-pulse-hd.webm
+|   |   |       sombra-pulse-hd.webm.png
+|   |   |       sombra-pulse.webm
+|   |   |       sombra-pulse.webm.png
+|   |   |       sombra-undetected-hd.webm
+|   |   |       sombra-undetected-hd.webm.png
+|   |   |       sombra-undetected.webm
+|   |   |       sombra-undetected.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       sombra-hacked.jpg
+|   |   |       sombra-heroic.jpg
+|   |   |       sombra-kneeling.jpg
+|   |   |       sombra-medal.jpg
+|   |   |       sombra-rising.jpg
+|   |   |       sombra-sparklers.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       sombra-augmented.jpg
+|   |   |       sombra-azucar.jpg
+|   |   |       sombra-cidro.jpg
+|   |   |       sombra-classic.jpg
+|   |   |       sombra-cyberspace.jpg
+|   |   |       sombra-glitch.jpg
+|   |   |       sombra-incendio.jpg
+|   |   |       sombra-los-muertos.jpg
+|   |   |       sombra-mar.jpg
+|   |   |       sombra-noche.jpg
+|   |   |       sombra-peppermint.jpg
+|   |   |       sombra-tulum.jpg
+|   |   |       sombra-virus.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       sombra-5kull.png
+|   |   |       sombra-agent.png
+|   |   |       sombra-behind-you.png
+|   |   |       sombra-calavera.png
+|   |   |       sombra-cute.png
+|   |   |       sombra-deafmute.png
+|   |   |       sombra-dragon-dance.png
+|   |   |       sombra-espresso.png
+|   |   |       sombra-eyes.png
+|   |   |       sombra-fortunate.png
+|   |   |       sombra-hacked-the-moon.png
+|   |   |       sombra-hacked.png
+|   |   |       sombra-hacker.png
+|   |   |       sombra-high-jump.png
+|   |   |       sombra-icon.png
+|   |   |       sombra-illusive.png
+|   |   |       sombra-key.png
+|   |   |       sombra-machine-pistol.png
+|   |   |       sombra-marionette.png
+|   |   |       sombra-neural.png
+|   |   |       sombra-ornament.png
+|   |   |       sombra-pixel.png
+|   |   |       sombra-power.png
+|   |   |       sombra-puppet.png
+|   |   |       sombra-puzzle.png
+|   |   |       sombra-queen-of-spades.png
+|   |   |       sombra-quien.png
+|   |   |       sombra-skull.png
+|   |   |       sombra-skycode.png
+|   |   |       sombra-superior.png
+|   |   |       sombra-tagged.png
+|   |   |       sombra-translocator.png
+|   |   |       sombra-unlocked.png
+|   |   |       sombra-virus.png
+|   |   |       sombra-web.png
+|   |   |       
+|   |   \---voicelines
+|   |           sombra-boop.ogg
+|   |           sombra-cool.ogg
+|   |           sombra-did-you-mean-to-do-that.ogg
+|   |           sombra-dont-be-a-coward.ogg
+|   |           sombra-glitch-in-the-system.ogg
+|   |           sombra-good-one.ogg
+|   |           sombra-hack-the-planet.ogg
+|   |           sombra-i-know-whos-been-naughty.ogg
+|   |           sombra-i-need-a-drink.ogg
+|   |           sombra-id-love-to-stay-and-chat.ogg
+|   |           sombra-in-over-your-head.ogg
+|   |           sombra-just-squishing-a-bug.ogg
+|   |           sombra-mess-with-the-best.ogg
+|   |           sombra-playing-fair.ogg
+|   |           sombra-show-me-what-you-got.ogg
+|   |           sombra-taking-this-very-seriously.ogg
+|   |           sombra-try-and-keep-up.ogg
+|   |           sombra-were-you-done-talking.ogg
+|   |           sombra-whats-up.ogg
+|   |           sombra-youre-easily-impressed.ogg
+|   |           
+|   +---symmetra
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       symmetra-clap-hd.webm
+|   |   |       symmetra-clap-hd.webm.png
+|   |   |       symmetra-clap.webm
+|   |   |       symmetra-clap.webm.png
+|   |   |       symmetra-dance-hd.webm
+|   |   |       symmetra-dance-hd.webm.png
+|   |   |       symmetra-dance.webm
+|   |   |       symmetra-dance.webm.png
+|   |   |       symmetra-flow-hd.webm
+|   |   |       symmetra-flow-hd.webm.png
+|   |   |       symmetra-flow.webm
+|   |   |       symmetra-flow.webm.png
+|   |   |       symmetra-have-a-seat-hd.webm
+|   |   |       symmetra-have-a-seat-hd.webm.png
+|   |   |       symmetra-have-a-seat.webm
+|   |   |       symmetra-have-a-seat.webm.png
+|   |   |       symmetra-heroic-hd.webm
+|   |   |       symmetra-heroic-hd.webm.png
+|   |   |       symmetra-heroic.webm
+|   |   |       symmetra-heroic.webm.png
+|   |   |       symmetra-insignificant-hd.webm
+|   |   |       symmetra-insignificant-hd.webm.png
+|   |   |       symmetra-insignificant.webm
+|   |   |       symmetra-insignificant.webm.png
+|   |   |       symmetra-ribbon-hd.webm
+|   |   |       symmetra-ribbon-hd.webm.png
+|   |   |       symmetra-ribbon.webm
+|   |   |       symmetra-ribbon.webm.png
+|   |   |       symmetra-snicker-hd.webm
+|   |   |       symmetra-snicker-hd.webm.png
+|   |   |       symmetra-snicker.webm
+|   |   |       symmetra-snicker.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       symmetra-rhythmic-gymnastics.png
+|   |   |       symmetra-sentry.png
+|   |   |       symmetra-symmetra.png
+|   |   |       symmetra-vaswanniversary.png
+|   |   |       symmetra-vishkar.png
+|   |   |       
+|   |   +---intros
+|   |   |       symmetra-askew-hd.webm
+|   |   |       symmetra-askew-hd.webm.png
+|   |   |       symmetra-askew.webm
+|   |   |       symmetra-askew.webm.png
+|   |   |       symmetra-dance-hd.webm
+|   |   |       symmetra-dance-hd.webm.png
+|   |   |       symmetra-dance.webm
+|   |   |       symmetra-dance.webm.png
+|   |   |       symmetra-heroic-hd.webm
+|   |   |       symmetra-heroic-hd.webm.png
+|   |   |       symmetra-heroic.webm
+|   |   |       symmetra-heroic.webm.png
+|   |   |       symmetra-my-reality-hd.webm
+|   |   |       symmetra-my-reality-hd.webm.png
+|   |   |       symmetra-my-reality.webm
+|   |   |       symmetra-my-reality.webm.png
+|   |   |       symmetra-snowflakes-hd.webm
+|   |   |       symmetra-snowflakes-hd.webm.png
+|   |   |       symmetra-snowflakes.webm
+|   |   |       symmetra-snowflakes.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       symmetra-balance.jpg
+|   |   |       symmetra-creation.jpg
+|   |   |       symmetra-dance.jpg
+|   |   |       symmetra-heroic.jpg
+|   |   |       symmetra-light-reading.jpg
+|   |   |       symmetra-medal.jpg
+|   |   |       symmetra-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       symmetra-architech.jpg
+|   |   |       symmetra-cardamom.jpg
+|   |   |       symmetra-classic.jpg
+|   |   |       symmetra-devi.jpg
+|   |   |       symmetra-goddess.jpg
+|   |   |       symmetra-hyacinth.jpg
+|   |   |       symmetra-oasis.jpg
+|   |   |       symmetra-qipao.jpg
+|   |   |       symmetra-regal.jpg
+|   |   |       symmetra-saffron.jpg
+|   |   |       symmetra-technomancer.jpg
+|   |   |       symmetra-utopaea.jpg
+|   |   |       symmetra-vampire.jpg
+|   |   |       symmetra-vishkar.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       symmetra-agent.png
+|   |   |       symmetra-architect.png
+|   |   |       symmetra-behold.png
+|   |   |       symmetra-blueprint.png
+|   |   |       symmetra-builder.png
+|   |   |       symmetra-car-wash.png
+|   |   |       symmetra-caution.png
+|   |   |       symmetra-cute.png
+|   |   |       symmetra-design.png
+|   |   |       symmetra-dragon-dance.png
+|   |   |       symmetra-glove.png
+|   |   |       symmetra-icon.png
+|   |   |       symmetra-lantern.png
+|   |   |       symmetra-light.png
+|   |   |       symmetra-lines.png
+|   |   |       symmetra-lotus.png
+|   |   |       symmetra-nine-of-diamonds.png
+|   |   |       symmetra-ornament.png
+|   |   |       symmetra-pixel.png
+|   |   |       symmetra-pose.png
+|   |   |       symmetra-projector.png
+|   |   |       symmetra-rhythmic.png
+|   |   |       symmetra-satya.png
+|   |   |       symmetra-snowflake.png
+|   |   |       symmetra-student.png
+|   |   |       symmetra-superior.png
+|   |   |       symmetra-the-path.png
+|   |   |       symmetra-trick-or-treat.png
+|   |   |       symmetra-vaswani.png
+|   |   |       symmetra-vishkar.png
+|   |   |       symmetra-visor.png
+|   |   |       symmetra-weaver.png
+|   |   |       symmetra-will.png
+|   |   |       
+|   |   \---voicelines
+|   |           symmetra-a-frightening-thought.ogg
+|   |           symmetra-everything-by-design.ogg
+|   |           symmetra-exquisite.ogg
+|   |           symmetra-good-fortune.ogg
+|   |           symmetra-hard-work-and-dedication.ogg
+|   |           symmetra-how-unsightly.ogg
+|   |           symmetra-i-dont-think-so.ogg
+|   |           symmetra-i-made-you-something.ogg
+|   |           symmetra-impressive.ogg
+|   |           symmetra-kindly-adjust.ogg
+|   |           symmetra-perfect-harmony.ogg
+|   |           symmetra-precisely.ogg
+|   |           symmetra-put-you-in-your-place.ogg
+|   |           symmetra-setting-up-the-car-wash.ogg
+|   |           symmetra-such-a-lack-of-imagination.ogg
+|   |           symmetra-taken-under-advisement.ogg
+|   |           symmetra-victory-is-everything.ogg
+|   |           symmetra-welcome-to-my-reality.ogg
+|   |           symmetra-why-do-you-struggle.ogg
+|   |           symmetra-your-mind-works.ogg
+|   |           
+|   +---torbjorn
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       torbjorn-clicking-heels-hd.webm
+|   |   |       torbjorn-clicking-heels-hd.webm.png
+|   |   |       torbjorn-clicking-heels.webm
+|   |   |       torbjorn-clicking-heels.webm.png
+|   |   |       torbjorn-dance-hd.webm
+|   |   |       torbjorn-dance-hd.webm.png
+|   |   |       torbjorn-dance.webm
+|   |   |       torbjorn-dance.webm.png
+|   |   |       torbjorn-fisticuffs-hd.webm
+|   |   |       torbjorn-fisticuffs-hd.webm.png
+|   |   |       torbjorn-fisticuffs.webm
+|   |   |       torbjorn-fisticuffs.webm.png
+|   |   |       torbjorn-guffaw-hd.webm
+|   |   |       torbjorn-guffaw-hd.webm.png
+|   |   |       torbjorn-guffaw.webm
+|   |   |       torbjorn-guffaw.webm.png
+|   |   |       torbjorn-heroic-hd.webm
+|   |   |       torbjorn-heroic-hd.webm.png
+|   |   |       torbjorn-heroic.webm
+|   |   |       torbjorn-heroic.webm.png
+|   |   |       torbjorn-overload-hd.webm
+|   |   |       torbjorn-overload-hd.webm.png
+|   |   |       torbjorn-overload.webm
+|   |   |       torbjorn-overload.webm.png
+|   |   |       torbjorn-taking-a-break-hd.webm
+|   |   |       torbjorn-taking-a-break-hd.webm.png
+|   |   |       torbjorn-taking-a-break.webm
+|   |   |       torbjorn-taking-a-break.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       torbjorn-chief-engineer.png
+|   |   |       torbjorn-forge.png
+|   |   |       torbjorn-gears.png
+|   |   |       torbjorn-goldclad.png
+|   |   |       torbjorn-santaclad.png
+|   |   |       torbjorn-torbjorn.png
+|   |   |       torbjorn-water-polo.png
+|   |   |       
+|   |   +---intros
+|   |   |       torbjorn-heroic-hd.webm
+|   |   |       torbjorn-heroic-hd.webm.png
+|   |   |       torbjorn-heroic.webm
+|   |   |       torbjorn-heroic.webm.png
+|   |   |       torbjorn-in-your-face-hd.webm
+|   |   |       torbjorn-in-your-face-hd.webm.png
+|   |   |       torbjorn-in-your-face.webm
+|   |   |       torbjorn-in-your-face.webm.png
+|   |   |       torbjorn-my-baby-hd.webm
+|   |   |       torbjorn-my-baby-hd.webm.png
+|   |   |       torbjorn-my-baby.webm
+|   |   |       torbjorn-my-baby.webm.png
+|   |   |       torbjorn-refreshing-hd.webm
+|   |   |       torbjorn-refreshing-hd.webm.png
+|   |   |       torbjorn-refreshing.webm
+|   |   |       torbjorn-refreshing.webm.png
+|   |   |       torbjorn-ride-em-hd.webm
+|   |   |       torbjorn-ride-em-hd.webm.png
+|   |   |       torbjorn-ride-em.webm
+|   |   |       torbjorn-ride-em.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       torbjorn-hammer.jpg
+|   |   |       torbjorn-heroic.jpg
+|   |   |       torbjorn-medal.jpg
+|   |   |       torbjorn-rip.jpg
+|   |   |       torbjorn-sitting-pretty.jpg
+|   |   |       torbjorn-take-five.jpg
+|   |   |       torbjorn-toast.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       torbjorn-barbarossa.jpg
+|   |   |       torbjorn-bla.jpg
+|   |   |       torbjorn-blackbeard.jpg
+|   |   |       torbjorn-cathode.jpg
+|   |   |       torbjorn-chief-engineer-lindholm.jpg
+|   |   |       torbjorn-chopper.jpg
+|   |   |       torbjorn-citron.jpg
+|   |   |       torbjorn-classic.jpg
+|   |   |       torbjorn-deadlock.jpg
+|   |   |       torbjorn-gron.jpg
+|   |   |       torbjorn-ironclad.jpg
+|   |   |       torbjorn-plommon.jpg
+|   |   |       torbjorn-santaclad.jpg
+|   |   |       torbjorn-tre-kronor.jpg
+|   |   |       torbjorn-woodclad.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       torbjorn-armor.png
+|   |   |       torbjorn-beard.png
+|   |   |       torbjorn-brigitte.png
+|   |   |       torbjorn-catch-a-ride.png
+|   |   |       torbjorn-chef.png
+|   |   |       torbjorn-claw.png
+|   |   |       torbjorn-cute.png
+|   |   |       torbjorn-dragon-dance.png
+|   |   |       torbjorn-fix-it-up.png
+|   |   |       torbjorn-forged.png
+|   |   |       torbjorn-gears.png
+|   |   |       torbjorn-get-ready.png
+|   |   |       torbjorn-gold.png
+|   |   |       torbjorn-hammer.png
+|   |   |       torbjorn-hot.png
+|   |   |       torbjorn-icon.png
+|   |   |       torbjorn-ironclad.png
+|   |   |       torbjorn-kanon.png
+|   |   |       torbjorn-king-of-clubs.png
+|   |   |       torbjorn-mask.png
+|   |   |       torbjorn-molten-core.png
+|   |   |       torbjorn-ornament.png
+|   |   |       torbjorn-pixel.png
+|   |   |       torbjorn-ready-to-work.png
+|   |   |       torbjorn-run.png
+|   |   |       torbjorn-smalt.png
+|   |   |       torbjorn-stoic.png
+|   |   |       torbjorn-trick-or-treat.png
+|   |   |       torbjorn-turret.png
+|   |   |       torbjorn-turrets.png
+|   |   |       torbjorn-uppgradera.png
+|   |   |       torbjorn-water-polo.png
+|   |   |       torbjorn-workshop.png
+|   |   |       
+|   |   \---voicelines
+|   |           torbjorn-a-chicken-out-of-a-feather.ogg
+|   |           torbjorn-completion-date.ogg
+|   |           torbjorn-dont-get-caught.ogg
+|   |           torbjorn-engineers.ogg
+|   |           torbjorn-hard-work-pays-off.ogg
+|   |           torbjorn-hear-me-baby.ogg
+|   |           torbjorn-if-you-build-it.ogg
+|   |           torbjorn-im-giving-it-all-ive-got.ogg
+|   |           torbjorn-im-swedish.ogg
+|   |           torbjorn-just-start-hammering.ogg
+|   |           torbjorn-leave-this-to-an-expert.ogg
+|   |           torbjorn-lets-not-buy-the-pig.ogg
+|   |           torbjorn-made-to-order.ogg
+|   |           torbjorn-more-where-that-came-from.ogg
+|   |           torbjorn-poor-craftsman.ogg
+|   |           torbjorn-some-assembly-required.ogg
+|   |           torbjorn-theres-no-prize-for-second.ogg
+|   |           torbjorn-too-hot-for-you.ogg
+|   |           torbjorn-trust-me.ogg
+|   |           torbjorn-working-as-intended.ogg
+|   |           
+|   +---tracer
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       tracer-charleston-hd.webm
+|   |   |       tracer-charleston-hd.webm.png
+|   |   |       tracer-charleston.webm
+|   |   |       tracer-charleston.webm.png
+|   |   |       tracer-cheer-hd.webm
+|   |   |       tracer-cheer-hd.webm.png
+|   |   |       tracer-cheer.webm
+|   |   |       tracer-cheer.webm.png
+|   |   |       tracer-finger-guns-hd.webm
+|   |   |       tracer-finger-guns-hd.webm.png
+|   |   |       tracer-finger-guns.webm
+|   |   |       tracer-finger-guns.webm.png
+|   |   |       tracer-having-a-laugh-hd.webm
+|   |   |       tracer-having-a-laugh-hd.webm.png
+|   |   |       tracer-having-a-laugh.webm
+|   |   |       tracer-having-a-laugh.webm.png
+|   |   |       tracer-heroic-hd.webm
+|   |   |       tracer-heroic-hd.webm.png
+|   |   |       tracer-heroic.webm
+|   |   |       tracer-heroic.webm.png
+|   |   |       tracer-sitting-around-hd.webm
+|   |   |       tracer-sitting-around-hd.webm.png
+|   |   |       tracer-sitting-around.webm
+|   |   |       tracer-sitting-around.webm.png
+|   |   |       tracer-spin-hd.webm
+|   |   |       tracer-spin-hd.webm.png
+|   |   |       tracer-spin.webm
+|   |   |       tracer-spin.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       tracer-auxton.png
+|   |   |       tracer-cadet.png
+|   |   |       tracer-jingle.png
+|   |   |       tracer-patch.png
+|   |   |       tracer-pulse-bomb.png
+|   |   |       tracer-tracer.png
+|   |   |       tracer-track.png
+|   |   |       
+|   |   +---intros
+|   |   |       tracer-backflip-hd.webm
+|   |   |       tracer-backflip-hd.webm.png
+|   |   |       tracer-backflip.webm
+|   |   |       tracer-backflip.webm.png
+|   |   |       tracer-heroic-hd.webm
+|   |   |       tracer-heroic-hd.webm.png
+|   |   |       tracer-heroic.webm
+|   |   |       tracer-heroic.webm.png
+|   |   |       tracer-hurdle-hd.webm
+|   |   |       tracer-hurdle-hd.webm.png
+|   |   |       tracer-hurdle.webm
+|   |   |       tracer-hurdle.webm.png
+|   |   |       tracer-just-in-time-hd.webm
+|   |   |       tracer-just-in-time-hd.webm.png
+|   |   |       tracer-just-in-time.webm
+|   |   |       tracer-just-in-time.webm.png
+|   |   |       tracer-lion-dance-hd.webm
+|   |   |       tracer-lion-dance-hd.webm.png
+|   |   |       tracer-lion-dance.webm
+|   |   |       tracer-lion-dance.webm.png
+|   |   |       tracer-serious-business-hd.webm
+|   |   |       tracer-serious-business-hd.webm.png
+|   |   |       tracer-serious-business.webm
+|   |   |       tracer-serious-business.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       tracer-heroic.jpg
+|   |   |       tracer-medal.jpg
+|   |   |       tracer-over-the-shoulder.jpg
+|   |   |       tracer-rip.jpg
+|   |   |       tracer-salute.jpg
+|   |   |       tracer-sitting.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       tracer-cadet-oxton.jpg
+|   |   |       tracer-classic.jpg
+|   |   |       tracer-electric-purple.jpg
+|   |   |       tracer-graffiti.jpg
+|   |   |       tracer-hot-pink.jpg
+|   |   |       tracer-jingle.jpg
+|   |   |       tracer-mach-t.jpg
+|   |   |       tracer-neon-green.jpg
+|   |   |       tracer-posh.jpg
+|   |   |       tracer-punk.jpg
+|   |   |       tracer-rose.jpg
+|   |   |       tracer-royal-blue.jpg
+|   |   |       tracer-slipstream.jpg
+|   |   |       tracer-sporty.jpg
+|   |   |       tracer-sprinter.jpg
+|   |   |       tracer-t-racer.jpg
+|   |   |       tracer-track-and-field.jpg
+|   |   |       tracer-ultraviolet.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       tracer-ace-of-diamonds.png
+|   |   |       tracer-blink.png
+|   |   |       tracer-bombs-away.png
+|   |   |       tracer-cavalrys-here.png
+|   |   |       tracer-cheers-love.png
+|   |   |       tracer-cheers.png
+|   |   |       tracer-clocks-tickin.png
+|   |   |       tracer-confident.png
+|   |   |       tracer-cute.png
+|   |   |       tracer-dragon-dance.png
+|   |   |       tracer-fan-dance.png
+|   |   |       tracer-fighter.png
+|   |   |       tracer-icon.png
+|   |   |       tracer-kneeling.png
+|   |   |       tracer-lena.png
+|   |   |       tracer-orange.png
+|   |   |       tracer-ornament.png
+|   |   |       tracer-pew-pew-pew.png
+|   |   |       tracer-pistols.png
+|   |   |       tracer-pixel.png
+|   |   |       tracer-portrait.png
+|   |   |       tracer-poster.png
+|   |   |       tracer-pulse-bomb.png
+|   |   |       tracer-ready-for-action.png
+|   |   |       tracer-salute.png
+|   |   |       tracer-shaded.png
+|   |   |       tracer-slipstream.png
+|   |   |       tracer-snowboarding.png
+|   |   |       tracer-tagged.png
+|   |   |       tracer-track.png
+|   |   |       tracer-trick-or-treat.png
+|   |   |       tracer-whatcha-lookin-at.png
+|   |   |       tracer-wings.png
+|   |   |       
+|   |   \---voicelines
+|   |           tracer-aw-rubbish.ogg
+|   |           tracer-be-right-back.ogg
+|   |           tracer-check-me-out.ogg
+|   |           tracer-cheers-love.ogg
+|   |           tracer-deja-vu.ogg
+|   |           tracer-did-i-miss-something.ogg
+|   |           tracer-dont-be-daft.ogg
+|   |           tracer-eat-my-dust.ogg
+|   |           tracer-its-in-the-bag.ogg
+|   |           tracer-keep-calm.ogg
+|   |           tracer-ooh-scary.ogg
+|   |           tracer-ready-for-some-fireworks.ogg
+|   |           tracer-she-shoots-she-scores.ogg
+|   |           tracer-sorry-im-late.ogg
+|   |           tracer-the-world-needs-heroes.ogg
+|   |           tracer-time-out.ogg
+|   |           tracer-too-slow.ogg
+|   |           tracer-under-control.ogg
+|   |           tracer-you-got-it.ogg
+|   |           tracer-you-need-a-time-out.ogg
+|   |           
+|   +---widowmaker
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       widowmaker-at-rest-hd.webm
+|   |   |       widowmaker-at-rest-hd.webm.png
+|   |   |       widowmaker-at-rest.webm
+|   |   |       widowmaker-at-rest.webm.png
+|   |   |       widowmaker-ballet-hd.webm
+|   |   |       widowmaker-ballet-hd.webm.png
+|   |   |       widowmaker-ballet.webm
+|   |   |       widowmaker-ballet.webm.png
+|   |   |       widowmaker-curtain-call-hd.webm
+|   |   |       widowmaker-curtain-call-hd.webm.png
+|   |   |       widowmaker-curtain-call.webm
+|   |   |       widowmaker-curtain-call.webm.png
+|   |   |       widowmaker-delighted-hd.webm
+|   |   |       widowmaker-delighted-hd.webm.png
+|   |   |       widowmaker-delighted.webm
+|   |   |       widowmaker-delighted.webm.png
+|   |   |       widowmaker-heroic-hd.webm
+|   |   |       widowmaker-heroic-hd.webm.png
+|   |   |       widowmaker-heroic.webm
+|   |   |       widowmaker-heroic.webm.png
+|   |   |       widowmaker-shot-dead-hd.webm
+|   |   |       widowmaker-shot-dead-hd.webm.png
+|   |   |       widowmaker-shot-dead.webm
+|   |   |       widowmaker-shot-dead.webm.png
+|   |   |       widowmaker-widows-kiss-hd.webm
+|   |   |       widowmaker-widows-kiss-hd.webm.png
+|   |   |       widowmaker-widows-kiss.webm
+|   |   |       widowmaker-widows-kiss.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       widowmaker-baiser.png
+|   |   |       widowmaker-dor.png
+|   |   |       widowmaker-grappling-hook.png
+|   |   |       widowmaker-gymnastics.png
+|   |   |       widowmaker-lacroix.png
+|   |   |       widowmaker-widowmaker.png
+|   |   |       
+|   |   +---intros
+|   |   |       widowmaker-hanging-around-hd.webm
+|   |   |       widowmaker-hanging-around-hd.webm.png
+|   |   |       widowmaker-hanging-around.webm
+|   |   |       widowmaker-hanging-around.webm.png
+|   |   |       widowmaker-heroic-hd.webm
+|   |   |       widowmaker-heroic-hd.webm.png
+|   |   |       widowmaker-heroic.webm
+|   |   |       widowmaker-heroic.webm.png
+|   |   |       widowmaker-i-see-you-hd.webm
+|   |   |       widowmaker-i-see-you-hd.webm.png
+|   |   |       widowmaker-i-see-you.webm
+|   |   |       widowmaker-i-see-you.webm.png
+|   |   |       widowmaker-swinging-into-action-hd.webm
+|   |   |       widowmaker-swinging-into-action-hd.webm.png
+|   |   |       widowmaker-swinging-into-action.webm
+|   |   |       widowmaker-swinging-into-action.webm.png
+|   |   |       widowmaker-under-the-mistletoe-hd.webm
+|   |   |       widowmaker-under-the-mistletoe-hd.webm.png
+|   |   |       widowmaker-under-the-mistletoe.webm
+|   |   |       widowmaker-under-the-mistletoe.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       widowmaker-activating-visor.jpg
+|   |   |       widowmaker-gaze.jpg
+|   |   |       widowmaker-heroic.jpg
+|   |   |       widowmaker-medal.jpg
+|   |   |       widowmaker-over-the-shoulder.jpg
+|   |   |       widowmaker-rip.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       widowmaker-ciel.jpg
+|   |   |       widowmaker-classic.jpg
+|   |   |       widowmaker-comtesse.jpg
+|   |   |       widowmaker-cote-dazur.jpg
+|   |   |       widowmaker-huntress.jpg
+|   |   |       widowmaker-noire.jpg
+|   |   |       widowmaker-nuit.jpg
+|   |   |       widowmaker-odette.jpg
+|   |   |       widowmaker-odile.jpg
+|   |   |       widowmaker-patina.jpg
+|   |   |       widowmaker-rose.jpg
+|   |   |       widowmaker-talon.jpg
+|   |   |       widowmaker-tricolore.jpg
+|   |   |       widowmaker-vert.jpg
+|   |   |       widowmaker-winter.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       widowmaker-baiser.png
+|   |   |       widowmaker-black-widow.png
+|   |   |       widowmaker-blood.png
+|   |   |       widowmaker-crouch.png
+|   |   |       widowmaker-cute.png
+|   |   |       widowmaker-detected.png
+|   |   |       widowmaker-dragon-dance.png
+|   |   |       widowmaker-emblem.png
+|   |   |       widowmaker-gaze.png
+|   |   |       widowmaker-gymnastics.png
+|   |   |       widowmaker-hairpin.png
+|   |   |       widowmaker-hourglass.png
+|   |   |       widowmaker-icon.png
+|   |   |       widowmaker-in-my-sights.png
+|   |   |       widowmaker-je-te-vois.png
+|   |   |       widowmaker-kneeling.png
+|   |   |       widowmaker-no-one-escapes.png
+|   |   |       widowmaker-noire.png
+|   |   |       widowmaker-ornament.png
+|   |   |       widowmaker-pixel.png
+|   |   |       widowmaker-portrait.png
+|   |   |       widowmaker-queen-of-hearts.png
+|   |   |       widowmaker-scope.png
+|   |   |       widowmaker-skiing.png
+|   |   |       widowmaker-sniper.png
+|   |   |       widowmaker-spider.png
+|   |   |       widowmaker-swing.png
+|   |   |       widowmaker-trick-or-treat.png
+|   |   |       widowmaker-une-balle.png
+|   |   |       widowmaker-veuve.png
+|   |   |       widowmaker-wedding.png
+|   |   |       widowmaker-widow.png
+|   |   |       widowmaker-widows-kiss.png
+|   |   |       
+|   |   \---voicelines
+|   |           widowmaker-a-perfect-10.ogg
+|   |           widowmaker-a-single-death.ogg
+|   |           widowmaker-encore.ogg
+|   |           widowmaker-exquisite.ogg
+|   |           widowmaker-i-dont-miss.ogg
+|   |           widowmaker-let-them-eat-cake.ogg
+|   |           widowmaker-look-for-the-woman.ogg
+|   |           widowmaker-magnifique.ogg
+|   |           widowmaker-one-shot-one-kill.ogg
+|   |           widowmaker-ouh-la-la.ogg
+|   |           widowmaker-sorry.ogg
+|   |           widowmaker-step-into-my-parlor.ogg
+|   |           widowmaker-thats-how-it-is.ogg
+|   |           widowmaker-the-party-is-over.ogg
+|   |           widowmaker-the-performance-begins.ogg
+|   |           widowmaker-to-life-to-death.ogg
+|   |           widowmaker-what-a-bore.ogg
+|   |           widowmaker-whats-an-aimbot.ogg
+|   |           widowmaker-you-have-my-attention.ogg
+|   |           widowmaker-your-emotions.ogg
+|   |           
+|   +---winston
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       winston-dance-hd.webm
+|   |   |       winston-dance-hd.webm.png
+|   |   |       winston-dance.webm
+|   |   |       winston-dance.webm.png
+|   |   |       winston-heroic-hd.webm
+|   |   |       winston-heroic-hd.webm.png
+|   |   |       winston-heroic.webm
+|   |   |       winston-heroic.webm.png
+|   |   |       winston-laughing-matter-hd.webm
+|   |   |       winston-laughing-matter-hd.webm.png
+|   |   |       winston-laughing-matter.webm
+|   |   |       winston-laughing-matter.webm.png
+|   |   |       winston-monkey-business-hd.webm
+|   |   |       winston-monkey-business-hd.webm.png
+|   |   |       winston-monkey-business.webm
+|   |   |       winston-monkey-business.webm.png
+|   |   |       winston-peanut-butter-hd.webm
+|   |   |       winston-peanut-butter-hd.webm.png
+|   |   |       winston-peanut-butter.webm
+|   |   |       winston-peanut-butter.webm.png
+|   |   |       winston-roar-hd.webm
+|   |   |       winston-roar-hd.webm.png
+|   |   |       winston-roar.webm
+|   |   |       winston-roar.webm.png
+|   |   |       winston-shadow-puppets-hd.webm
+|   |   |       winston-shadow-puppets-hd.webm.png
+|   |   |       winston-shadow-puppets.webm
+|   |   |       winston-shadow-puppets.webm.png
+|   |   |       winston-sitting-around-hd.webm
+|   |   |       winston-sitting-around-hd.webm.png
+|   |   |       winston-sitting-around.webm
+|   |   |       winston-sitting-around.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       winston-goldrilla.png
+|   |   |       winston-lunar-ops.png
+|   |   |       winston-monkey.png
+|   |   |       winston-peanut-butter.png
+|   |   |       winston-volleyball.png
+|   |   |       winston-winston.png
+|   |   |       winston-yeti.png
+|   |   |       
+|   |   +---intros
+|   |   |       winston-excuse-me-hd.webm
+|   |   |       winston-excuse-me-hd.webm.png
+|   |   |       winston-excuse-me.webm
+|   |   |       winston-excuse-me.webm.png
+|   |   |       winston-glasses-hd.webm
+|   |   |       winston-glasses-hd.webm.png
+|   |   |       winston-glasses.webm
+|   |   |       winston-glasses.webm.png
+|   |   |       winston-heroic-hd.webm
+|   |   |       winston-heroic-hd.webm.png
+|   |   |       winston-heroic.webm
+|   |   |       winston-heroic.webm.png
+|   |   |       winston-primal-rage-hd.webm
+|   |   |       winston-primal-rage-hd.webm.png
+|   |   |       winston-primal-rage.webm
+|   |   |       winston-primal-rage.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       winston-beast.jpg
+|   |   |       winston-glasses.jpg
+|   |   |       winston-heroic.jpg
+|   |   |       winston-medal.jpg
+|   |   |       winston-peanut-butter.jpg
+|   |   |       winston-rip.jpg
+|   |   |       winston-the-thinker.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       winston-atmosphere.jpg
+|   |   |       winston-banana.jpg
+|   |   |       winston-classic.jpg
+|   |   |       winston-desert.jpg
+|   |   |       winston-explorer.jpg
+|   |   |       winston-forest.jpg
+|   |   |       winston-frogston.jpg
+|   |   |       winston-horizon.jpg
+|   |   |       winston-red-planet.jpg
+|   |   |       winston-safari.jpg
+|   |   |       winston-undersea.jpg
+|   |   |       winston-wukong.jpg
+|   |   |       winston-yeti.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       winston-angry.png
+|   |   |       winston-ape-crossing.png
+|   |   |       winston-baby.png
+|   |   |       winston-banana.png
+|   |   |       winston-building.png
+|   |   |       winston-cute.png
+|   |   |       winston-dragon-dance.png
+|   |   |       winston-explorer.png
+|   |   |       winston-fastball.png
+|   |   |       winston-harold.png
+|   |   |       winston-horizon.png
+|   |   |       winston-icon.png
+|   |   |       winston-jack-of-hearts.png
+|   |   |       winston-kite.png
+|   |   |       winston-lexigrams.png
+|   |   |       winston-lightning.png
+|   |   |       winston-mine.png
+|   |   |       winston-ornament.png
+|   |   |       winston-pb.png
+|   |   |       winston-pixel.png
+|   |   |       winston-presents.png
+|   |   |       winston-primal-rage.png
+|   |   |       winston-qed.png
+|   |   |       winston-rage.png
+|   |   |       winston-research.png
+|   |   |       winston-roar.png
+|   |   |       winston-science.png
+|   |   |       winston-serious.png
+|   |   |       winston-swing.png
+|   |   |       winston-trick-or-treat.png
+|   |   |       winston-volleyball.png
+|   |   |       winston-white.png
+|   |   |       winston-wow.png
+|   |   |       
+|   |   \---voicelines
+|   |           winston-curious.ogg
+|   |           winston-dont-get-me-angry.ogg
+|   |           winston-excuse-me.ogg
+|   |           winston-have-you-seen-my-glasses.ogg
+|   |           winston-how-embarrassing.ogg
+|   |           winston-i-do-not-want-a-banana.ogg
+|   |           winston-i-got-you-something.ogg
+|   |           winston-i-have-the-right-stuff.ogg
+|   |           winston-its-my-time-to-shine.ogg
+|   |           winston-natural-selection.ogg
+|   |           winston-no-monkey-business.ogg
+|   |           winston-oh-its-on.ogg
+|   |           winston-oh-yeah.ogg
+|   |           winston-peanut-butter.ogg
+|   |           winston-playtimes-over.ogg
+|   |           winston-sorry-about-that.ogg
+|   |           winston-that-was-awesome.ogg
+|   |           winston-the-power-of-science.ogg
+|   |           winston-this-is-not-a-costume.ogg
+|   |           winston-we-have-a-problem.ogg
+|   |           
+|   +---zarya
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       zarya-bring-it-on-hd.webm
+|   |   |       zarya-bring-it-on-hd.webm.png
+|   |   |       zarya-bring-it-on.webm
+|   |   |       zarya-bring-it-on.webm.png
+|   |   |       zarya-comedy-gold-hd.webm
+|   |   |       zarya-comedy-gold-hd.webm.png
+|   |   |       zarya-comedy-gold.webm
+|   |   |       zarya-comedy-gold.webm.png
+|   |   |       zarya-crush-you-hd.webm
+|   |   |       zarya-crush-you-hd.webm.png
+|   |   |       zarya-crush-you.webm
+|   |   |       zarya-crush-you.webm.png
+|   |   |       zarya-dance-hd.webm
+|   |   |       zarya-dance-hd.webm.png
+|   |   |       zarya-dance.webm
+|   |   |       zarya-dance.webm.png
+|   |   |       zarya-heroic-hd.webm
+|   |   |       zarya-heroic-hd.webm.png
+|   |   |       zarya-heroic.webm
+|   |   |       zarya-heroic.webm.png
+|   |   |       zarya-mystery-gift-hd.webm
+|   |   |       zarya-mystery-gift-hd.webm.png
+|   |   |       zarya-mystery-gift.webm
+|   |   |       zarya-mystery-gift.webm.png
+|   |   |       zarya-pumping-iron-hd.webm
+|   |   |       zarya-pumping-iron-hd.webm.png
+|   |   |       zarya-pumping-iron.webm
+|   |   |       zarya-pumping-iron.webm.png
+|   |   |       zarya-take-a-knee-hd.webm
+|   |   |       zarya-take-a-knee-hd.webm.png
+|   |   |       zarya-take-a-knee.webm
+|   |   |       zarya-take-a-knee.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       zarya-512.png
+|   |   |       zarya-particle-barrier.png
+|   |   |       zarya-weightlifting.png
+|   |   |       zarya-zarya.png
+|   |   |       zarya-zaryanoversary.png
+|   |   |       
+|   |   +---intros
+|   |   |       zarya-deadlift-hd.webm
+|   |   |       zarya-deadlift-hd.webm.png
+|   |   |       zarya-deadlift.webm
+|   |   |       zarya-deadlift.webm.png
+|   |   |       zarya-heroic-hd.webm
+|   |   |       zarya-heroic-hd.webm.png
+|   |   |       zarya-heroic.webm
+|   |   |       zarya-heroic.webm.png
+|   |   |       zarya-maximum-charge-hd.webm
+|   |   |       zarya-maximum-charge-hd.webm.png
+|   |   |       zarya-maximum-charge.webm
+|   |   |       zarya-maximum-charge.webm.png
+|   |   |       zarya-this-is-strength-hd.webm
+|   |   |       zarya-this-is-strength-hd.webm.png
+|   |   |       zarya-this-is-strength.webm
+|   |   |       zarya-this-is-strength.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       zarya-casual.jpg
+|   |   |       zarya-check-out-this-gun.jpg
+|   |   |       zarya-flexing.jpg
+|   |   |       zarya-heroic.jpg
+|   |   |       zarya-rip.jpg
+|   |   |       zarya-this-is-strength.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       zarya-arctic.jpg
+|   |   |       zarya-brick.jpg
+|   |   |       zarya-champion.jpg
+|   |   |       zarya-classic.jpg
+|   |   |       zarya-cybergoth.jpg
+|   |   |       zarya-cyberian.jpg
+|   |   |       zarya-dawn.jpg
+|   |   |       zarya-frosted.jpg
+|   |   |       zarya-goldenrod.jpg
+|   |   |       zarya-industrial.jpg
+|   |   |       zarya-midnight.jpg
+|   |   |       zarya-siberian-front.jpg
+|   |   |       zarya-taiga.jpg
+|   |   |       zarya-violet.jpg
+|   |   |       zarya-weightlifter.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       zarya-512.png
+|   |   |       zarya-alexandra.png
+|   |   |       zarya-avenger.png
+|   |   |       zarya-barrier.png
+|   |   |       zarya-bear.png
+|   |   |       zarya-calories.png
+|   |   |       zarya-cannon.png
+|   |   |       zarya-champion.png
+|   |   |       zarya-cute.png
+|   |   |       zarya-defender.png
+|   |   |       zarya-dragon-dance.png
+|   |   |       zarya-focused.png
+|   |   |       zarya-for-the-people.png
+|   |   |       zarya-gun-show.png
+|   |   |       zarya-icon.png
+|   |   |       zarya-lift.png
+|   |   |       zarya-matryoshka.png
+|   |   |       zarya-ornament.png
+|   |   |       zarya-pink.png
+|   |   |       zarya-pixel.png
+|   |   |       zarya-pumped.png
+|   |   |       zarya-shield.png
+|   |   |       zarya-smile.png
+|   |   |       zarya-strength.png
+|   |   |       zarya-surge.png
+|   |   |       zarya-ten-of-spades.png
+|   |   |       zarya-tobelstein.png
+|   |   |       zarya-trick-or-treat.png
+|   |   |       zarya-we-are-strong.png
+|   |   |       zarya-we-can.png
+|   |   |       zarya-weightlifting.png
+|   |   |       zarya-weights.png
+|   |   |       zarya-wrestle.png
+|   |   |       
+|   |   \---voicelines
+|   |           zarya-for-the-motherland.ogg
+|   |           zarya-get-down-give-me-20.ogg
+|   |           zarya-get-pumped.ogg
+|   |           zarya-i-am-mother-russia.ogg
+|   |           zarya-i-can-bench-more-than-you.ogg
+|   |           zarya-i-was-born-in-battle.ogg
+|   |           zarya-i-will-break-you.ogg
+|   |           zarya-in-russia-game-plays-you.ogg
+|   |           zarya-is-that-all.ogg
+|   |           zarya-its-only-a-game.ogg
+|   |           zarya-need-personal-training.ogg
+|   |           zarya-never-forget-the-fallen.ogg
+|   |           zarya-no-mercy.ogg
+|   |           zarya-no-pain-no-gain.ogg
+|   |           zarya-peace-through-firepower.ogg
+|   |           zarya-ready-to-give-up.ogg
+|   |           zarya-siberian-bear.ogg
+|   |           zarya-strong-as-the-mountain.ogg
+|   |           zarya-together-we-are-strong.ogg
+|   |           zarya-welcome-to-the-gun-show.ogg
+|   |           
+|   \---zenyatta
+|       |   career-portrait.png
+|       |   icon.png
+|       |   portrait.png
+|       |   
+|       +---emotes
+|       |       zenyatta-dance-hd.webm
+|       |       zenyatta-dance-hd.webm.png
+|       |       zenyatta-dance.webm
+|       |       zenyatta-dance.webm.png
+|       |       zenyatta-focusing-hd.webm
+|       |       zenyatta-focusing-hd.webm.png
+|       |       zenyatta-focusing.webm
+|       |       zenyatta-focusing.webm.png
+|       |       zenyatta-heroic-hd.webm
+|       |       zenyatta-heroic-hd.webm.png
+|       |       zenyatta-heroic.webm
+|       |       zenyatta-heroic.webm.png
+|       |       zenyatta-meditate-hd.webm
+|       |       zenyatta-meditate-hd.webm.png
+|       |       zenyatta-meditate.webm
+|       |       zenyatta-meditate.webm.png
+|       |       zenyatta-round-of-applause-hd.webm
+|       |       zenyatta-round-of-applause-hd.webm.png
+|       |       zenyatta-round-of-applause.webm
+|       |       zenyatta-round-of-applause.webm.png
+|       |       zenyatta-taunt-hd.webm
+|       |       zenyatta-taunt-hd.webm.png
+|       |       zenyatta-taunt.webm
+|       |       zenyatta-taunt.webm.png
+|       |       zenyatta-tickled-hd.webm
+|       |       zenyatta-tickled-hd.webm.png
+|       |       zenyatta-tickled.webm
+|       |       zenyatta-tickled.webm.png
+|       |       
+|       +---icons
+|       |       zenyatta-harmony.png
+|       |       zenyatta-meditation.png
+|       |       zenyatta-nutcracker.png
+|       |       zenyatta-sanzang.png
+|       |       zenyatta-taekwondo.png
+|       |       zenyatta-zeniversary.png
+|       |       zenyatta-zenyatta.png
+|       |       
+|       +---intros
+|       |       zenyatta-focused-hd.webm
+|       |       zenyatta-focused-hd.webm.png
+|       |       zenyatta-focused.webm
+|       |       zenyatta-focused.webm.png
+|       |       zenyatta-harmony-and-discord-hd.webm
+|       |       zenyatta-harmony-and-discord-hd.webm.png
+|       |       zenyatta-harmony-and-discord.webm
+|       |       zenyatta-harmony-and-discord.webm.png
+|       |       zenyatta-heroic-hd.webm
+|       |       zenyatta-heroic-hd.webm.png
+|       |       zenyatta-heroic.webm
+|       |       zenyatta-heroic.webm.png
+|       |       zenyatta-perspective-hd.webm
+|       |       zenyatta-perspective-hd.webm.png
+|       |       zenyatta-perspective.webm
+|       |       zenyatta-perspective.webm.png
+|       |       zenyatta-transcendence-hd.webm
+|       |       zenyatta-transcendence-hd.webm.png
+|       |       zenyatta-transcendence.webm
+|       |       zenyatta-transcendence.webm.png
+|       |       
+|       +---poses
+|       |       zenyatta-balance.jpg
+|       |       zenyatta-harmony.jpg
+|       |       zenyatta-heroic.jpg
+|       |       zenyatta-medals.jpg
+|       |       zenyatta-peace.jpg
+|       |       zenyatta-rip.jpg
+|       |       
+|       +---skins
+|       |       zenyatta-air.jpg
+|       |       zenyatta-ascendant.jpg
+|       |       zenyatta-classic.jpg
+|       |       zenyatta-djinnyatta.jpg
+|       |       zenyatta-earth.jpg
+|       |       zenyatta-harmonious.jpg
+|       |       zenyatta-ifrit.jpg
+|       |       zenyatta-leaf.jpg
+|       |       zenyatta-nutcracker.jpg
+|       |       zenyatta-ra.jpg
+|       |       zenyatta-sanzang.jpg
+|       |       zenyatta-skullyatta.jpg
+|       |       zenyatta-sunyatta.jpg
+|       |       zenyatta-water.jpg
+|       |       
+|       +---sprays
+|       |       zenyatta-adorable.png
+|       |       zenyatta-aura.png
+|       |       zenyatta-balance.png
+|       |       zenyatta-contemplative.png
+|       |       zenyatta-cute.png
+|       |       zenyatta-discord.png
+|       |       zenyatta-dragon-dance.png
+|       |       zenyatta-enlightened.png
+|       |       zenyatta-fist-bump.png
+|       |       zenyatta-flow.png
+|       |       zenyatta-foot.png
+|       |       zenyatta-graphic.png
+|       |       zenyatta-guru.png
+|       |       zenyatta-hand.png
+|       |       zenyatta-harmony.png
+|       |       zenyatta-icon.png
+|       |       zenyatta-inner-fire.png
+|       |       zenyatta-king-of-spades.png
+|       |       zenyatta-nine.png
+|       |       zenyatta-orb.png
+|       |       zenyatta-orbs.png
+|       |       zenyatta-ornament.png
+|       |       zenyatta-peace.png
+|       |       zenyatta-pixel.png
+|       |       zenyatta-shell.png
+|       |       zenyatta-snowball-fight.png
+|       |       zenyatta-taekwondo.png
+|       |       zenyatta-taunt.png
+|       |       zenyatta-tekhartha.png
+|       |       zenyatta-throw.png
+|       |       zenyatta-together.png
+|       |       zenyatta-trick-or-treat.png
+|       |       zenyatta-yut-nori.png
+|       |       
+|       \---voicelines
+|               zenyatta-death-is-whimsical-today.ogg
+|               zenyatta-do-i-think.ogg
+|               zenyatta-every-rooster-crows.ogg
+|               zenyatta-existence-is-mysterious.ogg
+|               zenyatta-form-is-temporary.ogg
+|               zenyatta-free-your-mind.ogg
+|               zenyatta-hello-world.ogg
+|               zenyatta-how-disappointing.ogg
+|               zenyatta-i-dreamt-i-was-a-butterfly.ogg
+|               zenyatta-i-think-therefore-i-am.ogg
+|               zenyatta-i-will-not-juggle.ogg
+|               zenyatta-no-snowflake.ogg
+|               zenyatta-ones-and-zeroes.ogg
+|               zenyatta-path-to-enlightenment.ogg
+|               zenyatta-peace-and-blessings.ogg
+|               zenyatta-strive-for-improvement.ogg
+|               zenyatta-the-iris-embraces-you.ogg
+|               zenyatta-trick-or-treat.ogg
+|               zenyatta-we-are-in-harmony.ogg
+|               zenyatta-where-youre-headed.ogg
+|               
+
