@@ -1,7 +1,4 @@
 +---heroes
-|   |   404-1.png
-|   |   test.sh
-|   |   
 |   +---all
 |   |   +---icons
 |   |   |       16bit-hero.png
