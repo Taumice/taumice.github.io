@@ -1,9 +1,13 @@
 +---heroes
+|   |   404-1.png
+|   |   test.sh
+|   |   
 |   +---all
 |   |   +---icons
 |   |   |       16bit-hero.png
 |   |   |       2017.png
 |   |   |       2018.png
+|   |   |       2019.png
 |   |   |       anniversary-2017.png
 |   |   |       anniversary-2018.png
 |   |   |       anubis.png
@@ -43,6 +47,8 @@
 |   |   |       competitive-ctf-hero.png
 |   |   |       competitive-deathmatch-competitor.png
 |   |   |       competitive-deathmatch-hero.png
+|   |   |       competitive-team-deathmatch-competitor.png
+|   |   |       competitive-team-deathmatch-hero.png
 |   |   |       copa-lucioball-competitor-2018.png
 |   |   |       copa-lucioball-competitor.png
 |   |   |       copa-lucioball-hero-2018.png
@@ -81,6 +87,7 @@
 |   |   |       greece.png
 |   |   |       halloween-terror-2016.png
 |   |   |       halloween-terror-2017.png
+|   |   |       halloween-terror-2018.png
 |   |   |       happy-squid.png
 |   |   |       have-fish.png
 |   |   |       hearthstone.png
@@ -138,6 +145,7 @@
 |   |   |       overwatch-dark.png
 |   |   |       overwatch-league.png
 |   |   |       overwatch-light.png
+|   |   |       pachicracker.png
 |   |   |       pachilantern.png
 |   |   |       pachimari.png
 |   |   |       pachimerry.png
@@ -154,6 +162,7 @@
 |   |   |       portugal.png
 |   |   |       present.png
 |   |   |       protoss.png
+|   |   |       pumpkimari.png
 |   |   |       qinglong.png
 |   |   |       queen-of-blades.png
 |   |   |       ramen.png
@@ -174,6 +183,10 @@
 |   |   |       season-11-hero.png
 |   |   |       season-12-competitor.png
 |   |   |       season-12-hero.png
+|   |   |       season-13-competitor.png
+|   |   |       season-13-hero.png
+|   |   |       season-14-competitor.png
+|   |   |       season-14-hero.png
 |   |   |       season-2-competitor.png
 |   |   |       season-2-hero.png
 |   |   |       season-3-competitor.png
@@ -195,9 +208,11 @@
 |   |   |       shanghai-dragons.png
 |   |   |       siege-mode.png
 |   |   |       sixgun-killer.png
+|   |   |       skelemari.png
 |   |   |       sniper.png
 |   |   |       snorkelmari.png
 |   |   |       snow-globe.png
+|   |   |       snowimari.png
 |   |   |       snowman.png
 |   |   |       south-korea.png
 |   |   |       spain.png
@@ -226,9 +241,11 @@
 |   |   |       vivi.png
 |   |   |       winter-wonderland-2016.png
 |   |   |       winter-wonderland-2017.png
+|   |   |       winter-wonderland-2018.png
 |   |   |       witch-doctor.png
 |   |   |       witchs-brew.png
 |   |   |       witchs-hat.png
+|   |   |       witchymari.png
 |   |   |       wizard.png
 |   |   |       wolf.png
 |   |   |       wreath.png
@@ -255,6 +272,7 @@
 |   |           bats.png
 |   |           beyond-the-moon.png
 |   |           bicycle-kick.png
+|   |           bonk.png
 |   |           boo.png
 |   |           boop.png
 |   |           boston-uprising-logo.png
@@ -269,6 +287,8 @@
 |   |           competitive-ctf-hero.png
 |   |           competitive-deathmatch-competitor.png
 |   |           competitive-deathmatch-hero.png
+|   |           competitive-team-deathmatch-competitor.png
+|   |           competitive-team-deathmatch-hero.png
 |   |           copa-lucioball-competitor-2018.png
 |   |           copa-lucioball-competitor.png
 |   |           copa-lucioball-hero-2018.png
@@ -285,9 +305,11 @@
 |   |           droppachi.png
 |   |           eradicator.png
 |   |           fangs.png
+|   |           flaming-pumpkin.png
 |   |           florida-mayhem-logo.png
 |   |           forge-onward.png
 |   |           fots2.png
+|   |           frozen-throne.png
 |   |           fuji.png
 |   |           gl-hf.png
 |   |           goal-blossom.png
@@ -352,6 +374,10 @@
 |   |           season-11-hero.png
 |   |           season-12-competitor.png
 |   |           season-12-hero.png
+|   |           season-13-competitor.png
+|   |           season-13-hero.png
+|   |           season-14-competitor.png
+|   |           season-14-hero.png
 |   |           season-2-competitor.png
 |   |           season-2-hero.png
 |   |           season-3-competitor.png
@@ -409,8 +435,11 @@
 |   |           year-of-the-rooster-2017.png
 |   |           year-of-the-rooster.png
 |   |           yeti-hunter.png
+|   |           yeti-rage.png
 |   |           yeti.png
 |   |           you-are-not-prepared.png
+|   |           zombardier.png
+|   |           zomnic.png
 |   |           
 |   +---ana
 |   |   |   career-portrait.png
@@ -552,34 +581,118 @@
 |   |   |       ana-wrist-launcher.png
 |   |   |       ana-zzz.png
 |   |   |       
-|   |   \---voicelines
-|   |           ana-are-you-scared.ogg
-|   |           ana-better-than-retirement.ogg
-|   |           ana-children-behave.ogg
-|   |           ana-damn.ogg
-|   |           ana-dont-be-scared.ogg
-|   |           ana-everyone-dies.ogg
-|   |           ana-follow-me.ogg
-|   |           ana-go-on-i-can-wait.ogg
-|   |           ana-i-make-my-own-luck.ogg
-|   |           ana-im-too-old-for-surprises.ogg
-|   |           ana-im-watching-out-for-you.ogg
-|   |           ana-it-takes-a-woman-to-know.ogg
-|   |           ana-justice-delivered.ogg
-|   |           ana-justice-rains-from-above.ogg
-|   |           ana-learn-from-the-pain.ogg
-|   |           ana-mother-knows-best.ogg
-|   |           ana-no-scope-needed.ogg
-|   |           ana-someone-to-tuck-you-in.ogg
-|   |           ana-the-adults-are-talking.ogg
-|   |           ana-the-ghost-watches.ogg
-|   |           ana-the-moon-in-winter.ogg
-|   |           ana-were-not-keeping-score.ogg
-|   |           ana-what-are-you-thinking.ogg
-|   |           ana-witness-me.ogg
-|   |           ana-you-know-nothing.ogg
-|   |           ana-you-need-to-learn-to-relax.ogg
-|   |           ana-you-seem-stressed.ogg
+|   |   +---voicelines
+|   |   |       ana-are-you-scared.ogg
+|   |   |       ana-better-than-retirement.ogg
+|   |   |       ana-children-behave.ogg
+|   |   |       ana-damn.ogg
+|   |   |       ana-dont-be-scared.ogg
+|   |   |       ana-everyone-dies.ogg
+|   |   |       ana-follow-me.ogg
+|   |   |       ana-go-on-i-can-wait.ogg
+|   |   |       ana-i-make-my-own-luck.ogg
+|   |   |       ana-im-too-old-for-surprises.ogg
+|   |   |       ana-im-watching-out-for-you.ogg
+|   |   |       ana-it-takes-a-woman-to-know.ogg
+|   |   |       ana-justice-delivered.ogg
+|   |   |       ana-justice-rains-from-above.ogg
+|   |   |       ana-learn-from-the-pain.ogg
+|   |   |       ana-mother-knows-best.ogg
+|   |   |       ana-no-scope-needed.ogg
+|   |   |       ana-someone-to-tuck-you-in.ogg
+|   |   |       ana-the-adults-are-talking.ogg
+|   |   |       ana-the-ghost-watches.ogg
+|   |   |       ana-the-moon-in-winter.ogg
+|   |   |       ana-were-not-keeping-score.ogg
+|   |   |       ana-what-are-you-thinking.ogg
+|   |   |       ana-witness-me.ogg
+|   |   |       ana-you-know-nothing.ogg
+|   |   |       ana-you-need-to-learn-to-relax.ogg
+|   |   |       ana-you-seem-stressed.ogg
+|   |   |       
+|   |   \---weapons
+|   |           ana-golden.png
+|   |           
+|   +---ashe
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---icons
+|   |   |       ashe-ashe.png
+|   |   |       ashe-bob.png
+|   |   |       ashe-deadlock-rebels.png
+|   |   |       
+|   |   +---poses
+|   |   |       ashe-heroic.jpg
+|   |   |       ashe-kneeling.jpg
+|   |   |       ashe-over-the-shoulder.jpg
+|   |   |       ashe-relaxing.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       ashe-classic.jpg
+|   |   |       ashe-gangster.jpg
+|   |   |       ashe-jungle.jpg
+|   |   |       ashe-mobster.jpg
+|   |   |       ashe-paintbrush.jpg
+|   |   |       ashe-posh.jpg
+|   |   |       ashe-safari.jpg
+|   |   |       ashe-sunflower.jpg
+|   |   |       ashe-tansy.jpg
+|   |   |       ashe-thorn.jpg
+|   |   |       ashe-winter.jpg
+|   |   |       ashe-yucca.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       ashe-backtoback.png
+|   |   |       ashe-bandit.png
+|   |   |       ashe-bike.png
+|   |   |       ashe-bowler.png
+|   |   |       ashe-bullet.png
+|   |   |       ashe-butler.png
+|   |   |       ashe-cute.png
+|   |   |       ashe-dashing.png
+|   |   |       ashe-exchange.png
+|   |   |       ashe-fire-in-the-hole.png
+|   |   |       ashe-firing.png
+|   |   |       ashe-getaway.png
+|   |   |       ashe-gotcha.png
+|   |   |       ashe-hurry.png
+|   |   |       ashe-icon.png
+|   |   |       ashe-loot.png
+|   |   |       ashe-moustache.png
+|   |   |       ashe-ornament.png
+|   |   |       ashe-outline.png
+|   |   |       ashe-pixel.png
+|   |   |       ashe-rebels.png
+|   |   |       ashe-relaxed.png
+|   |   |       ashe-road-closed.png
+|   |   |       ashe-snowball-fight.png
+|   |   |       ashe-sweat.png
+|   |   |       ashe-taking-aim.png
+|   |   |       ashe-tea-time.png
+|   |   |       ashe-tie.png
+|   |   |       ashe-triplets.png
+|   |   |       ashe-wanted.png
+|   |   |       
+|   |   +---voicelines
+|   |   |       ashe-burn-it-all-down.ogg
+|   |   |       ashe-girl-who-has-everything.ogg
+|   |   |       ashe-how-do-you-even-live.ogg
+|   |   |       ashe-i-run-this-show.ogg
+|   |   |       ashe-im-a-rebel.ogg
+|   |   |       ashe-its-a-giving-time-of-year.ogg
+|   |   |       ashe-just-taking-out-the-trash.ogg
+|   |   |       ashe-lifes-little-pleasures.ogg
+|   |   |       ashe-need-me-to-repeat-myself.ogg
+|   |   |       ashe-thats-rich.ogg
+|   |   |       ashe-this-is-a-stick-up.ogg
+|   |   |       ashe-try-and-keep-it-together.ogg
+|   |   |       ashe-watch-your-language.ogg
+|   |   |       ashe-we-have-an-understanding.ogg
+|   |   |       
+|   |   \---weapons
+|   |           ashe-golden.png
 |   |           
 |   +---bastion
 |   |   |   career-portrait.png
@@ -620,6 +733,10 @@
 |   |   |       bastion-robot-hd.webm.png
 |   |   |       bastion-robot.webm
 |   |   |       bastion-robot.webm.png
+|   |   |       bastion-zombie-hd.webm
+|   |   |       bastion-zombie-hd.webm.png
+|   |   |       bastion-zombie.webm
+|   |   |       bastion-zombie.webm.png
 |   |   |       
 |   |   +---icons
 |   |   |       bastion-avalanche.png
@@ -672,6 +789,7 @@
 |   |   |       bastion-defense-matrix.jpg
 |   |   |       bastion-dune-buggy.jpg
 |   |   |       bastion-gearbot.jpg
+|   |   |       bastion-gift-wrap.jpg
 |   |   |       bastion-meadow.jpg
 |   |   |       bastion-null-sector.jpg
 |   |   |       bastion-omnic-crisis.jpg
@@ -720,33 +838,36 @@
 |   |   |       bastion-trick-or-treat.png
 |   |   |       bastion-wood-and-stone.png
 |   |   |       
-|   |   \---voicelines
-|   |           bastion-beeple.ogg
-|   |           bastion-bewwoo-bewwoo.ogg
-|   |           bastion-boo-boo-doo-de-doo.ogg
-|   |           bastion-bweeeeeeeeeee.ogg
-|   |           bastion-bwoo-bwoo-bwoo.ogg
-|   |           bastion-chirr-chirr-chirr.ogg
-|   |           bastion-dahdah-weeeee.ogg
-|   |           bastion-doo-dun-dun-woo.ogg
-|   |           bastion-doo-wee-doo-wee-woo.ogg
-|   |           bastion-doododoo-dee.ogg
-|   |           bastion-doowoo.ogg
-|   |           bastion-dun-dun-boop-boop.ogg
-|   |           bastion-dwee-doo-hoo.ogg
-|   |           bastion-dwee-wee-woh.ogg
-|   |           bastion-dweet-dweet-dweet.ogg
-|   |           bastion-hee-hoo-hoo.ogg
-|   |           bastion-oohooohoohoo.ogg
-|   |           bastion-oooooooooooo.ogg
-|   |           bastion-shshsh.ogg
-|   |           bastion-whoovweeeeee.ogg
-|   |           bastion-woop-doo-woo-dun-woop.ogg
-|   |           bastion-wwwooooo.ogg
-|   |           bastion-zur-zur-ee-num.ogg
-|   |           bastion-zwee.ogg
-|   |           bastion-zweeah-wheee-doo-woo.ogg
-|   |           bastion-zwing-zwing-zwing.ogg
+|   |   +---voicelines
+|   |   |       bastion-beeple.ogg
+|   |   |       bastion-bewwoo-bewwoo.ogg
+|   |   |       bastion-boo-boo-doo-de-doo.ogg
+|   |   |       bastion-bweeeeeeeeeee.ogg
+|   |   |       bastion-bwoo-bwoo-bwoo.ogg
+|   |   |       bastion-chirr-chirr-chirr.ogg
+|   |   |       bastion-dahdah-weeeee.ogg
+|   |   |       bastion-doo-dun-dun-woo.ogg
+|   |   |       bastion-doo-wee-doo-wee-woo.ogg
+|   |   |       bastion-doododoo-dee.ogg
+|   |   |       bastion-doowoo.ogg
+|   |   |       bastion-dun-dun-boop-boop.ogg
+|   |   |       bastion-dwee-doo-hoo.ogg
+|   |   |       bastion-dwee-wee-woh.ogg
+|   |   |       bastion-dweet-dweet-dweet.ogg
+|   |   |       bastion-hee-hoo-hoo.ogg
+|   |   |       bastion-oohooohoohoo.ogg
+|   |   |       bastion-oooooooooooo.ogg
+|   |   |       bastion-shshsh.ogg
+|   |   |       bastion-whoovweeeeee.ogg
+|   |   |       bastion-woop-doo-woo-dun-woop.ogg
+|   |   |       bastion-wwwooooo.ogg
+|   |   |       bastion-zur-zur-ee-num.ogg
+|   |   |       bastion-zwee.ogg
+|   |   |       bastion-zweeah-wheee-doo-woo.ogg
+|   |   |       bastion-zwing-zwing-zwing.ogg
+|   |   |       
+|   |   \---weapons
+|   |           bastion-golden.png
 |   |           
 |   +---brigitte
 |   |   |   career-portrait.png
@@ -808,11 +929,16 @@
 |   |   |       brigitte-rally-hd.webm.png
 |   |   |       brigitte-rally.webm
 |   |   |       brigitte-rally.webm.png
+|   |   |       brigitte-shield-bash-hd.webm
+|   |   |       brigitte-shield-bash-hd.webm.png
+|   |   |       brigitte-shield-bash.webm
+|   |   |       brigitte-shield-bash.webm.png
 |   |   |       
 |   |   +---poses
 |   |   |       brigitte-confident.jpg
 |   |   |       brigitte-heroic.jpg
 |   |   |       brigitte-kneel.jpg
+|   |   |       brigitte-pumpkin.jpg
 |   |   |       brigitte-rally.jpg
 |   |   |       brigitte-relaxed.jpg
 |   |   |       
@@ -829,6 +955,7 @@
 |   |   |       brigitte-rod.jpg
 |   |   |       brigitte-shieldmaiden.jpg
 |   |   |       brigitte-sol.jpg
+|   |   |       brigitte-toast.jpg
 |   |   |       brigitte-tre-kronor.jpg
 |   |   |       
 |   |   +---sprays
@@ -848,8 +975,10 @@
 |   |   |       brigitte-heraldry.png
 |   |   |       brigitte-high-five.png
 |   |   |       brigitte-icon.png
+|   |   |       brigitte-knitting.png
 |   |   |       brigitte-lindholms.png
 |   |   |       brigitte-mounted-combat.png
+|   |   |       brigitte-ornament.png
 |   |   |       brigitte-paj.png
 |   |   |       brigitte-pixel.png
 |   |   |       brigitte-prints.png
@@ -858,29 +987,37 @@
 |   |   |       brigitte-skal.png
 |   |   |       brigitte-stories.png
 |   |   |       brigitte-training.png
+|   |   |       brigitte-trick-or-treat.png
 |   |   |       brigitte-wink.png
 |   |   |       brigitte-wrestle.png
 |   |   |       
-|   |   \---voicelines
-|   |           brigitte-a-chicken-out-of-a-feather.ogg
-|   |           brigitte-be-reasonable.ogg
-|   |           brigitte-dare-to-lindholm.ogg
-|   |           brigitte-dont-get-caught.ogg
-|   |           brigitte-get-lost.ogg
-|   |           brigitte-its-just-a-flesh-wound.ogg
-|   |           brigitte-leave-this-to-an-expert.ogg
-|   |           brigitte-leave-this-to-the-experts.ogg
-|   |           brigitte-mace-to-the-face.ogg
-|   |           brigitte-no-problem.ogg
-|   |           brigitte-no-shortcuts.ogg
-|   |           brigitte-scandinavian-style.ogg
-|   |           brigitte-swedish-engineering.ogg
-|   |           brigitte-this-is-pie.ogg
-|   |           brigitte-time-to-roll-up-my-sleeves.ogg
-|   |           brigitte-trust-me.ogg
-|   |           brigitte-what-are-you-doing.ogg
-|   |           brigitte-working-as-intended.ogg
-|   |           brigitte-you-wont-be-disappointed.ogg
+|   |   +---voicelines
+|   |   |       brigitte-a-chicken-out-of-a-feather.ogg
+|   |   |       brigitte-be-reasonable.ogg
+|   |   |       brigitte-dare-to-lindholm.ogg
+|   |   |       brigitte-dont-get-caught.ogg
+|   |   |       brigitte-get-lost.ogg
+|   |   |       brigitte-i-made-that-just-for-you.ogg
+|   |   |       brigitte-its-just-a-flesh-wound.ogg
+|   |   |       brigitte-leave-this-to-an-expert.ogg
+|   |   |       brigitte-leave-this-to-the-experts.ogg
+|   |   |       brigitte-mace-to-the-face.ogg
+|   |   |       brigitte-merry-christmas.ogg
+|   |   |       brigitte-no-problem.ogg
+|   |   |       brigitte-no-shortcuts.ogg
+|   |   |       brigitte-not-scared-are-you.ogg
+|   |   |       brigitte-scandinavian-style.ogg
+|   |   |       brigitte-supposed-to-scare-me.ogg
+|   |   |       brigitte-swedish-engineering.ogg
+|   |   |       brigitte-this-is-pie.ogg
+|   |   |       brigitte-time-to-roll-up-my-sleeves.ogg
+|   |   |       brigitte-trust-me.ogg
+|   |   |       brigitte-what-are-you-doing.ogg
+|   |   |       brigitte-working-as-intended.ogg
+|   |   |       brigitte-you-wont-be-disappointed.ogg
+|   |   |       
+|   |   \---weapons
+|   |           brigitte-golden.png
 |   |           
 |   +---doomfist
 |   |   |   career-portrait.png
@@ -930,6 +1067,7 @@
 |   |   |       doomfist-initials.png
 |   |   |       doomfist-ogundimu.png
 |   |   |       doomfist-shotput.png
+|   |   |       doomfist-swamp-monster.png
 |   |   |       
 |   |   +---intros
 |   |   |       doomfist-combo-hd.webm
@@ -958,6 +1096,7 @@
 |   |   |       doomfist-heroic.jpg
 |   |   |       doomfist-intense.jpg
 |   |   |       doomfist-medal.jpg
+|   |   |       doomfist-pumpkin.jpg
 |   |   |       doomfist-seismic-slam.jpg
 |   |   |       doomfist-superior.jpg
 |   |   |       
@@ -975,7 +1114,9 @@
 |   |   |       doomfist-plains.jpg
 |   |   |       doomfist-spirit.jpg
 |   |   |       doomfist-sunset.jpg
+|   |   |       doomfist-swamp-monster.jpg
 |   |   |       doomfist-talon.jpg
+|   |   |       doomfist-toast.jpg
 |   |   |       
 |   |   +---sprays
 |   |   |       doomfist-akande.png
@@ -1004,6 +1145,7 @@
 |   |   |       doomfist-sonic-boom.png
 |   |   |       doomfist-stance.png
 |   |   |       doomfist-successor.png
+|   |   |       doomfist-swamp-monster.png
 |   |   |       doomfist-the-greatest.png
 |   |   |       doomfist-they-said.png
 |   |   |       doomfist-thumbs-down.png
@@ -1013,35 +1155,38 @@
 |   |   |       doomfist-wrapped.png
 |   |   |       doomfist-wrestle.png
 |   |   |       
-|   |   \---voicelines
-|   |           doomfist-and-they-say-chivalry-is-dead.ogg
-|   |           doomfist-combo-breaker.ogg
-|   |           doomfist-did-you-bring-me-a-present.ogg
-|   |           doomfist-dont-get-back-up.ogg
-|   |           doomfist-fortune-favors-the-bold.ogg
-|   |           doomfist-go-and-sit-down.ogg
-|   |           doomfist-i-am-not-your-savior.ogg
-|   |           doomfist-i-didnt-ask-for-your-opinion.ogg
-|   |           doomfist-i-have-something-for-you.ogg
-|   |           doomfist-i-havent-even-started.ogg
-|   |           doomfist-i-know-you-can-do-better.ogg
-|   |           doomfist-i-make-medicine-sick.ogg
-|   |           doomfist-ill-throw-you-a-bone.ogg
-|   |           doomfist-ko.ogg
-|   |           doomfist-make-you-punch-drunk.ogg
-|   |           doomfist-one-punch-is-all-i-need.ogg
-|   |           doomfist-spare-me-the-commentary.ogg
-|   |           doomfist-step-into-the-ring.ogg
-|   |           doomfist-take-it-on-the-chin.ogg
-|   |           doomfist-talk-to-the-fist.ogg
-|   |           doomfist-they-say-chivalry-is-dead.ogg
-|   |           doomfist-try-me.ogg
-|   |           doomfist-you-cant-win.ogg
-|   |           doomfist-you-must-be-joking.ogg
-|   |           doomfist-you-should-be-scared.ogg
-|   |           doomfist-you-test-my-patience.ogg
-|   |           doomfist-your-lack-of-belief.ogg
-|   |           doomfist-youre-not-bad.ogg
+|   |   +---voicelines
+|   |   |       doomfist-and-they-say-chivalry-is-dead.ogg
+|   |   |       doomfist-combo-breaker.ogg
+|   |   |       doomfist-did-you-bring-me-a-present.ogg
+|   |   |       doomfist-dont-get-back-up.ogg
+|   |   |       doomfist-fortune-favors-the-bold.ogg
+|   |   |       doomfist-go-and-sit-down.ogg
+|   |   |       doomfist-i-am-not-your-savior.ogg
+|   |   |       doomfist-i-didnt-ask-for-your-opinion.ogg
+|   |   |       doomfist-i-have-something-for-you.ogg
+|   |   |       doomfist-i-havent-even-started.ogg
+|   |   |       doomfist-i-know-you-can-do-better.ogg
+|   |   |       doomfist-i-make-medicine-sick.ogg
+|   |   |       doomfist-ill-throw-you-a-bone.ogg
+|   |   |       doomfist-ko.ogg
+|   |   |       doomfist-make-you-punch-drunk.ogg
+|   |   |       doomfist-one-punch-is-all-i-need.ogg
+|   |   |       doomfist-spare-me-the-commentary.ogg
+|   |   |       doomfist-step-into-the-ring.ogg
+|   |   |       doomfist-take-it-on-the-chin.ogg
+|   |   |       doomfist-talk-to-the-fist.ogg
+|   |   |       doomfist-they-say-chivalry-is-dead.ogg
+|   |   |       doomfist-try-me.ogg
+|   |   |       doomfist-you-cant-win.ogg
+|   |   |       doomfist-you-must-be-joking.ogg
+|   |   |       doomfist-you-should-be-scared.ogg
+|   |   |       doomfist-you-test-my-patience.ogg
+|   |   |       doomfist-your-lack-of-belief.ogg
+|   |   |       doomfist-youre-not-bad.ogg
+|   |   |       
+|   |   \---weapons
+|   |           doomfist-golden.png
 |   |           
 |   +---dva
 |   |   |   career-portrait.png
@@ -1092,6 +1237,7 @@
 |   |   |       dva-hanaversary.png
 |   |   |       dva-hanbok.png
 |   |   |       dva-law.png
+|   |   |       dva-nano-cola.png
 |   |   |       dva-waveracer.png
 |   |   |       
 |   |   +---intros
@@ -1122,6 +1268,7 @@
 |   |   |       dva-i-heart-you.jpg
 |   |   |       dva-lucky-pouch.jpg
 |   |   |       dva-peace.jpg
+|   |   |       dva-pumpkin-selfie.jpg
 |   |   |       dva-rip.jpg
 |   |   |       dva-sitting.jpg
 |   |   |       
@@ -1135,6 +1282,7 @@
 |   |   |       dva-junebug.jpg
 |   |   |       dva-junker.jpg
 |   |   |       dva-lemonlime.jpg
+|   |   |       dva-nano.jpg
 |   |   |       dva-officer.jpg
 |   |   |       dva-palanquin.jpg
 |   |   |       dva-scavenger.jpg
@@ -1145,6 +1293,8 @@
 |   |   |       dva-white-rabbit.jpg
 |   |   |       
 |   |   +---sprays
+|   |   |       dva-angry.png
+|   |   |       dva-astonished.png
 |   |   |       dva-badge.png
 |   |   |       dva-bang.png
 |   |   |       dva-black-cat.png
@@ -1157,57 +1307,68 @@
 |   |   |       dva-cycling.png
 |   |   |       dva-diva.png
 |   |   |       dva-dragon-dance.png
+|   |   |       dva-enjoy.png
 |   |   |       dva-gg.png
+|   |   |       dva-grabs-a-popcorn.png
 |   |   |       dva-hana.png
 |   |   |       dva-handheld.png
 |   |   |       dva-headset.png
 |   |   |       dva-heart.png
+|   |   |       dva-hi.png
 |   |   |       dva-icon.png
 |   |   |       dva-light-gun.png
 |   |   |       dva-love-dva.png
 |   |   |       dva-meka.png
 |   |   |       dva-nano-cola.png
 |   |   |       dva-ornament.png
+|   |   |       dva-pat-pat.png
 |   |   |       dva-photo.png
 |   |   |       dva-pixel-bunny.png
 |   |   |       dva-pixel.png
 |   |   |       dva-power-up.png
+|   |   |       dva-refreshment.png
 |   |   |       dva-salt.png
 |   |   |       dva-seesaw.png
+|   |   |       dva-sleepy.png
 |   |   |       dva-star.png
 |   |   |       dva-ten-of-hearts.png
 |   |   |       dva-trick-or-treat.png
+|   |   |       dva-twinkle.png
 |   |   |       dva-unload.png
+|   |   |       dva-victory.png
 |   |   |       dva-walk-of-fame.png
 |   |   |       dva-watching.png
 |   |   |       
-|   |   \---voicelines
-|   |           dva-a-new-challenger.ogg
-|   |           dva-afk.ogg
-|   |           dva-amazing.ogg
-|   |           dva-aw-yeah.ogg
-|   |           dva-aw-you-shouldnt-have.ogg
-|   |           dva-dva-1-bad-guys-0.ogg
-|   |           dva-gg.ogg
-|   |           dva-happy-halloween.ogg
-|   |           dva-happy-holidays.ogg
-|   |           dva-happy-new-year.ogg
-|   |           dva-i-play-to-win.ogg
-|   |           dva-im-1.ogg
-|   |           dva-im-not-scared.ogg
-|   |           dva-is-this-easy-mode.ogg
-|   |           dva-level-up.ogg
-|   |           dva-lol.ogg
-|   |           dva-love-dva.ogg
-|   |           dva-nice-try.ogg
-|   |           dva-no-hacks-required.ogg
-|   |           dva-no-problem.ogg
-|   |           dva-no-way.ogg
-|   |           dva-not-taking-me-seriously.ogg
-|   |           dva-scoreboard.ogg
-|   |           dva-the-best-things-in-life.ogg
-|   |           dva-try-and-keep-up.ogg
-|   |           dva-winkyface.ogg
+|   |   +---voicelines
+|   |   |       dva-a-new-challenger.ogg
+|   |   |       dva-afk.ogg
+|   |   |       dva-amazing.ogg
+|   |   |       dva-aw-yeah.ogg
+|   |   |       dva-aw-you-shouldnt-have.ogg
+|   |   |       dva-dva-1-bad-guys-0.ogg
+|   |   |       dva-gg.ogg
+|   |   |       dva-happy-halloween.ogg
+|   |   |       dva-happy-holidays.ogg
+|   |   |       dva-happy-new-year.ogg
+|   |   |       dva-i-play-to-win.ogg
+|   |   |       dva-im-1.ogg
+|   |   |       dva-im-not-scared.ogg
+|   |   |       dva-is-this-easy-mode.ogg
+|   |   |       dva-level-up.ogg
+|   |   |       dva-lol.ogg
+|   |   |       dva-love-dva.ogg
+|   |   |       dva-nice-try.ogg
+|   |   |       dva-no-hacks-required.ogg
+|   |   |       dva-no-problem.ogg
+|   |   |       dva-no-way.ogg
+|   |   |       dva-not-taking-me-seriously.ogg
+|   |   |       dva-scoreboard.ogg
+|   |   |       dva-the-best-things-in-life.ogg
+|   |   |       dva-try-and-keep-up.ogg
+|   |   |       dva-winkyface.ogg
+|   |   |       
+|   |   \---weapons
+|   |           dva-golden.png
 |   |           
 |   +---genji
 |   |   |   career-portrait.png
@@ -1239,6 +1400,10 @@
 |   |   |       genji-meditate-hd.webm.png
 |   |   |       genji-meditate.webm
 |   |   |       genji-meditate.webm.png
+|   |   |       genji-paper-stars-hd.webm
+|   |   |       genji-paper-stars-hd.webm.png
+|   |   |       genji-paper-stars.webm
+|   |   |       genji-paper-stars.webm.png
 |   |   |       genji-salute-hd.webm
 |   |   |       genji-salute-hd.webm.png
 |   |   |       genji-salute.webm
@@ -1344,34 +1509,38 @@
 |   |   |       genji-trick-or-treat.png
 |   |   |       genji-warrior.png
 |   |   |       
-|   |   \---voicelines
-|   |           genji-a-steady-blade.ogg
-|   |           genji-all-bark-no-bite.ogg
-|   |           genji-another.ogg
-|   |           genji-come-on.ogg
-|   |           genji-count-your-blessings.ogg
-|   |           genji-damn.ogg
-|   |           genji-happy-halloween.ogg
-|   |           genji-hoping-for-a-challenge.ogg
-|   |           genji-i-am-prepared.ogg
-|   |           genji-i-was-hoping-for-a-challenge.ogg
-|   |           genji-im-not-impressed.ogg
-|   |           genji-lets-fight.ogg
-|   |           genji-life-and-death-balance.ogg
-|   |           genji-measure-twice-cut-once.ogg
-|   |           genji-merry-christmas.ogg
-|   |           genji-my-halloween-costume.ogg
-|   |           genji-my-soul-seeks-balance.ogg
-|   |           genji-my-work-here-is-done.ogg
-|   |           genji-not-good-enough.ogg
-|   |           genji-simple.ogg
-|   |           genji-to-know-yourself.ogg
-|   |           genji-touche.ogg
-|   |           genji-yeah.ogg
-|   |           genji-you-are-only-human.ogg
-|   |           genji-you-need-healing.ogg
-|   |           genji-you-seem-nice.ogg
-|   |           genji-your-eyes-deceive-you.ogg
+|   |   +---voicelines
+|   |   |       genji-a-steady-blade.ogg
+|   |   |       genji-all-bark-no-bite.ogg
+|   |   |       genji-another.ogg
+|   |   |       genji-come-on.ogg
+|   |   |       genji-count-your-blessings.ogg
+|   |   |       genji-damn.ogg
+|   |   |       genji-happy-halloween.ogg
+|   |   |       genji-hoping-for-a-challenge.ogg
+|   |   |       genji-i-am-prepared.ogg
+|   |   |       genji-i-was-hoping-for-a-challenge.ogg
+|   |   |       genji-im-not-impressed.ogg
+|   |   |       genji-lets-fight.ogg
+|   |   |       genji-life-and-death-balance.ogg
+|   |   |       genji-measure-twice-cut-once.ogg
+|   |   |       genji-merry-christmas.ogg
+|   |   |       genji-my-halloween-costume.ogg
+|   |   |       genji-my-soul-seeks-balance.ogg
+|   |   |       genji-my-work-here-is-done.ogg
+|   |   |       genji-not-good-enough.ogg
+|   |   |       genji-simple.ogg
+|   |   |       genji-to-know-yourself.ogg
+|   |   |       genji-touche.ogg
+|   |   |       genji-trick-or-treat.ogg
+|   |   |       genji-yeah.ogg
+|   |   |       genji-you-are-only-human.ogg
+|   |   |       genji-you-need-healing.ogg
+|   |   |       genji-you-seem-nice.ogg
+|   |   |       genji-your-eyes-deceive-you.ogg
+|   |   |       
+|   |   \---weapons
+|   |           genji-golden.png
 |   |           
 |   +---hanzo
 |   |   |   career-portrait.png
@@ -1507,34 +1676,37 @@
 |   |   |       hanzo-wanderer.png
 |   |   |       hanzo-yellow.png
 |   |   |       
-|   |   \---voicelines
-|   |           hanzo-a-gift-for-you.ogg
-|   |           hanzo-an-error-in-judgment.ogg
-|   |           hanzo-beauty-in-simplicity.ogg
-|   |           hanzo-cold-as-ice.ogg
-|   |           hanzo-defeat-is-the-first-step.ogg
-|   |           hanzo-do-not-rouse-the-dragon.ogg
-|   |           hanzo-expect-nothing-less.ogg
-|   |           hanzo-flow-like-water.ogg
-|   |           hanzo-from-one-thing.ogg
-|   |           hanzo-hm.ogg
-|   |           hanzo-i-do-what-i-must.ogg
-|   |           hanzo-ignore-all-distractions.ogg
-|   |           hanzo-insolent-cur.ogg
-|   |           hanzo-just-so.ogg
-|   |           hanzo-master-your-fears.ogg
-|   |           hanzo-my-fate-is-written-in-blood.ogg
-|   |           hanzo-never-in-doubt.ogg
-|   |           hanzo-never-second-best.ogg
-|   |           hanzo-remember-this-moment.ogg
-|   |           hanzo-sake.ogg
-|   |           hanzo-simple-geometry.ogg
-|   |           hanzo-spirit-dragon.ogg
-|   |           hanzo-step-into-the-dojo.ogg
-|   |           hanzo-unacceptable.ogg
-|   |           hanzo-when-the-moon-is-full.ogg
-|   |           hanzo-you-are-already-dead.ogg
-|   |           hanzo-you-fought-well.ogg
+|   |   +---voicelines
+|   |   |       hanzo-a-gift-for-you.ogg
+|   |   |       hanzo-an-error-in-judgment.ogg
+|   |   |       hanzo-beauty-in-simplicity.ogg
+|   |   |       hanzo-cold-as-ice.ogg
+|   |   |       hanzo-defeat-is-the-first-step.ogg
+|   |   |       hanzo-do-not-rouse-the-dragon.ogg
+|   |   |       hanzo-expect-nothing-less.ogg
+|   |   |       hanzo-flow-like-water.ogg
+|   |   |       hanzo-from-one-thing.ogg
+|   |   |       hanzo-hm.ogg
+|   |   |       hanzo-i-do-what-i-must.ogg
+|   |   |       hanzo-ignore-all-distractions.ogg
+|   |   |       hanzo-insolent-cur.ogg
+|   |   |       hanzo-just-so.ogg
+|   |   |       hanzo-master-your-fears.ogg
+|   |   |       hanzo-my-fate-is-written-in-blood.ogg
+|   |   |       hanzo-never-in-doubt.ogg
+|   |   |       hanzo-never-second-best.ogg
+|   |   |       hanzo-remember-this-moment.ogg
+|   |   |       hanzo-sake.ogg
+|   |   |       hanzo-simple-geometry.ogg
+|   |   |       hanzo-spirit-dragon.ogg
+|   |   |       hanzo-step-into-the-dojo.ogg
+|   |   |       hanzo-unacceptable.ogg
+|   |   |       hanzo-when-the-moon-is-full.ogg
+|   |   |       hanzo-you-are-already-dead.ogg
+|   |   |       hanzo-you-fought-well.ogg
+|   |   |       
+|   |   \---weapons
+|   |           hanzo-golden.png
 |   |           
 |   +---junkrat
 |   |   |   career-portrait.png
@@ -1583,6 +1755,7 @@
 |   |   |       junkrat-goldrat.png
 |   |   |       junkrat-have-a-nice-day.png
 |   |   |       junkrat-junkrat.png
+|   |   |       junkrat-krampus.png
 |   |   |       junkrat-tennis.png
 |   |   |       junkrat-the-doctor.png
 |   |   |       
@@ -1634,8 +1807,10 @@
 |   |   |       junkrat-irradiated.jpg
 |   |   |       junkrat-jailbird.jpg
 |   |   |       junkrat-jester.jpg
+|   |   |       junkrat-krampus.jpg
 |   |   |       junkrat-rusted.jpg
 |   |   |       junkrat-scarecrow.jpg
+|   |   |       junkrat-toast.jpg
 |   |   |       junkrat-toasted.jpg
 |   |   |       
 |   |   +---sprays
@@ -1674,33 +1849,37 @@
 |   |   |       junkrat-wanted.png
 |   |   |       junkrat-winter.png
 |   |   |       
-|   |   \---voicelines
-|   |           junkrat-anyone-want-some-bbq.ogg
-|   |           junkrat-blow-it-up-again.ogg
-|   |           junkrat-brrring.ogg
-|   |           junkrat-come-the-raw-prawn.ogg
-|   |           junkrat-coming-up-explodey.ogg
-|   |           junkrat-dipstick.ogg
-|   |           junkrat-go-on-give-it-a-shake.ogg
-|   |           junkrat-gong-xi-fa-cai.ogg
-|   |           junkrat-good-morning.ogg
-|   |           junkrat-happy-birthday.ogg
-|   |           junkrat-happy-halloween.ogg
-|   |           junkrat-have-a-nice-day.ogg
-|   |           junkrat-i-give-it-a-10.ogg
-|   |           junkrat-i-give-it-a-3.ogg
-|   |           junkrat-i-really-blew-that-one.ogg
-|   |           junkrat-im-alive.ogg
-|   |           junkrat-inconspicuous.ogg
-|   |           junkrat-its-the-little-things.ogg
-|   |           junkrat-kaboom.ogg
-|   |           junkrat-merry-christmas.ogg
-|   |           junkrat-my-dog-is-barking.ogg
-|   |           junkrat-ooh-shiny.ogg
-|   |           junkrat-oops-dropped-something.ogg
-|   |           junkrat-smile.ogg
-|   |           junkrat-ticktockticktock.ogg
-|   |           junkrat-too-right.ogg
+|   |   +---voicelines
+|   |   |       junkrat-anyone-want-some-bbq.ogg
+|   |   |       junkrat-blow-it-up-again.ogg
+|   |   |       junkrat-brrring.ogg
+|   |   |       junkrat-come-the-raw-prawn.ogg
+|   |   |       junkrat-coming-up-explodey.ogg
+|   |   |       junkrat-dipstick.ogg
+|   |   |       junkrat-go-on-give-it-a-shake.ogg
+|   |   |       junkrat-gong-xi-fa-cai.ogg
+|   |   |       junkrat-good-morning.ogg
+|   |   |       junkrat-happy-birthday.ogg
+|   |   |       junkrat-happy-halloween.ogg
+|   |   |       junkrat-happy-holidays.ogg
+|   |   |       junkrat-have-a-nice-day.ogg
+|   |   |       junkrat-i-give-it-a-10.ogg
+|   |   |       junkrat-i-give-it-a-3.ogg
+|   |   |       junkrat-i-really-blew-that-one.ogg
+|   |   |       junkrat-im-alive.ogg
+|   |   |       junkrat-inconspicuous.ogg
+|   |   |       junkrat-its-the-little-things.ogg
+|   |   |       junkrat-kaboom.ogg
+|   |   |       junkrat-merry-christmas.ogg
+|   |   |       junkrat-my-dog-is-barking.ogg
+|   |   |       junkrat-ooh-shiny.ogg
+|   |   |       junkrat-oops-dropped-something.ogg
+|   |   |       junkrat-smile.ogg
+|   |   |       junkrat-ticktockticktock.ogg
+|   |   |       junkrat-too-right.ogg
+|   |   |       
+|   |   \---weapons
+|   |           junkrat-golden.png
 |   |           
 |   +---lucio
 |   |   |   career-portrait.png
@@ -1753,6 +1932,7 @@
 |   |   |       lucio-kambo.png
 |   |   |       lucio-lucio.png
 |   |   |       lucio-luciouro.png
+|   |   |       lucio-snow-fox.png
 |   |   |       
 |   |   +---intros
 |   |   |       lucio-bicycle-kick-hd.webm
@@ -1802,6 +1982,7 @@
 |   |   |       lucio-roxo.jpg
 |   |   |       lucio-selecao.jpg
 |   |   |       lucio-slapshot.jpg
+|   |   |       lucio-snow-fox.jpg
 |   |   |       lucio-striker.jpg
 |   |   |       lucio-synaesthesia.jpg
 |   |   |       lucio-vermelho.jpg
@@ -1842,34 +2023,38 @@
 |   |   |       lucio-walk-of-fame.png
 |   |   |       lucio-wave.png
 |   |   |       
-|   |   \---voicelines
-|   |           lucio-be-champions.ogg
-|   |           lucio-boop.ogg
-|   |           lucio-can-you-hear-me-now.ogg
-|   |           lucio-cant-stop-wont-stop.ogg
-|   |           lucio-check-this-out.ogg
-|   |           lucio-climbing-the-charts.ogg
-|   |           lucio-come-on-ref.ogg
-|   |           lucio-everyone-gets-their-1.ogg
-|   |           lucio-happy-holidays.ogg
-|   |           lucio-have-some-lucioohs.ogg
-|   |           lucio-hit-me.ogg
-|   |           lucio-i-could-do-this-all-day.ogg
-|   |           lucio-i-make-this-look-good.ogg
-|   |           lucio-im-on-top-of-the-world.ogg
-|   |           lucio-jackpot.ogg
-|   |           lucio-just-how-i-like-it.ogg
-|   |           lucio-killed-it.ogg
-|   |           lucio-learn-to-take-it-easy.ogg
-|   |           lucio-not-hearing-that-noise.ogg
-|   |           lucio-oh-yeah.ogg
-|   |           lucio-so-good-its-scary.ogg
-|   |           lucio-suboptimal.ogg
-|   |           lucio-tinnitus.ogg
-|   |           lucio-to-the-rhythm.ogg
-|   |           lucio-turn-it-up-in-my-headphones.ogg
-|   |           lucio-why-are-you-so-angry.ogg
-|   |           lucio-you-gotta-believe.ogg
+|   |   +---voicelines
+|   |   |       lucio-be-champions.ogg
+|   |   |       lucio-boop.ogg
+|   |   |       lucio-can-you-hear-me-now.ogg
+|   |   |       lucio-cant-stop-wont-stop.ogg
+|   |   |       lucio-check-this-out.ogg
+|   |   |       lucio-climbing-the-charts.ogg
+|   |   |       lucio-come-on-ref.ogg
+|   |   |       lucio-everyone-gets-their-1.ogg
+|   |   |       lucio-happy-holidays.ogg
+|   |   |       lucio-have-some-lucioohs.ogg
+|   |   |       lucio-hit-me.ogg
+|   |   |       lucio-i-could-do-this-all-day.ogg
+|   |   |       lucio-i-make-this-look-good.ogg
+|   |   |       lucio-im-on-top-of-the-world.ogg
+|   |   |       lucio-jackpot.ogg
+|   |   |       lucio-just-how-i-like-it.ogg
+|   |   |       lucio-killed-it.ogg
+|   |   |       lucio-learn-to-take-it-easy.ogg
+|   |   |       lucio-not-hearing-that-noise.ogg
+|   |   |       lucio-oh-yeah.ogg
+|   |   |       lucio-so-good-its-scary.ogg
+|   |   |       lucio-suboptimal.ogg
+|   |   |       lucio-tinnitus.ogg
+|   |   |       lucio-to-the-rhythm.ogg
+|   |   |       lucio-trick-or-treat.ogg
+|   |   |       lucio-turn-it-up-in-my-headphones.ogg
+|   |   |       lucio-why-are-you-so-angry.ogg
+|   |   |       lucio-you-gotta-believe.ogg
+|   |   |       
+|   |   \---weapons
+|   |           lucio-golden.png
 |   |           
 |   +---mccree
 |   |   |   career-portrait.png
@@ -1970,6 +2155,7 @@
 |   |   |       mccree-sage.jpg
 |   |   |       mccree-scrooge.jpg
 |   |   |       mccree-sherlock.jpg
+|   |   |       mccree-undead.jpg
 |   |   |       mccree-van-helsing.jpg
 |   |   |       mccree-vigilante.jpg
 |   |   |       mccree-wheat.jpg
@@ -2011,33 +2197,37 @@
 |   |   |       mccree-wanted.png
 |   |   |       mccree-your-face-here.png
 |   |   |       
-|   |   \---voicelines
-|   |           mccree-a-mans-gotta-have-rules.ogg
-|   |           mccree-after-you.ogg
-|   |           mccree-aint-i-killed-you-before.ogg
-|   |           mccree-boom-goes-the-dynamite.ogg
-|   |           mccree-buckle-up.ogg
-|   |           mccree-calls-for-a-celebration.ogg
-|   |           mccree-dont-sass-me.ogg
-|   |           mccree-had-to-break-the-ice.ogg
-|   |           mccree-hair-of-the-dog.ogg
-|   |           mccree-happens-to-the-best-of-us.ogg
-|   |           mccree-how-do-you-like-me-now.ogg
-|   |           mccree-i-dont-much-like-losing.ogg
-|   |           mccree-i-hear-you-pumpkin.ogg
-|   |           mccree-i-tried-being-reasonable.ogg
-|   |           mccree-im-the-quick.ogg
-|   |           mccree-im-your-huckleberry.ogg
-|   |           mccree-its-your-funeral.ogg
-|   |           mccree-ive-got-a-bullet.ogg
-|   |           mccree-next-rounds-on-me.ogg
-|   |           mccree-reach-for-the-sky.ogg
-|   |           mccree-sure-as-hell-aint-ugly.ogg
-|   |           mccree-the-old-fashioned-way.ogg
-|   |           mccree-wanted-dead-or-alive.ogg
-|   |           mccree-watch-and-learn.ogg
-|   |           mccree-you-done.ogg
-|   |           mccree-youve-been-snowed-in.ogg
+|   |   +---voicelines
+|   |   |       mccree-a-mans-gotta-have-rules.ogg
+|   |   |       mccree-after-you.ogg
+|   |   |       mccree-aint-i-killed-you-before.ogg
+|   |   |       mccree-boom-goes-the-dynamite.ogg
+|   |   |       mccree-buckle-up.ogg
+|   |   |       mccree-calls-for-a-celebration.ogg
+|   |   |       mccree-dont-sass-me.ogg
+|   |   |       mccree-had-to-break-the-ice.ogg
+|   |   |       mccree-hair-of-the-dog.ogg
+|   |   |       mccree-happens-to-the-best-of-us.ogg
+|   |   |       mccree-how-do-you-like-me-now.ogg
+|   |   |       mccree-i-dont-much-like-losing.ogg
+|   |   |       mccree-i-hear-you-pumpkin.ogg
+|   |   |       mccree-i-tried-being-reasonable.ogg
+|   |   |       mccree-im-the-quick.ogg
+|   |   |       mccree-im-your-huckleberry.ogg
+|   |   |       mccree-its-your-funeral.ogg
+|   |   |       mccree-ive-got-a-bullet.ogg
+|   |   |       mccree-next-rounds-on-me.ogg
+|   |   |       mccree-reach-for-the-sky.ogg
+|   |   |       mccree-sure-as-hell-aint-ugly.ogg
+|   |   |       mccree-the-old-fashioned-way.ogg
+|   |   |       mccree-trick-or-treat.ogg
+|   |   |       mccree-wanted-dead-or-alive.ogg
+|   |   |       mccree-watch-and-learn.ogg
+|   |   |       mccree-you-done.ogg
+|   |   |       mccree-youve-been-snowed-in.ogg
+|   |   |       
+|   |   \---weapons
+|   |           mccree-golden.png
 |   |           
 |   +---mei
 |   |   |   career-portrait.png
@@ -2151,6 +2341,7 @@
 |   |   |       mei-meirry.jpg
 |   |   |       mei-pajamei.jpg
 |   |   |       mei-persimmon.jpg
+|   |   |       mei-pumpkin.jpg
 |   |   |       mei-rescue-mei.jpg
 |   |   |       mei-snow-plum.jpg
 |   |   |       mei-yeti-hunter.jpg
@@ -2191,34 +2382,37 @@
 |   |   |       mei-trick-or-treat.png
 |   |   |       mei-walled.png
 |   |   |       
-|   |   \---voicelines
-|   |           mei-ameizing.ogg
-|   |           mei-chill-out.ogg
-|   |           mei-did-you-hear-something.ogg
-|   |           mei-dont-you-just-love-surprises.ogg
-|   |           mei-dont-you-love-surprises.ogg
-|   |           mei-fight-for-our-world.ogg
-|   |           mei-give-me-a-red-envelope.ogg
-|   |           mei-hang-in-there.ogg
-|   |           mei-i-got-you-something.ogg
-|   |           mei-i-tried-my-best.ogg
-|   |           mei-i-was-only-trying-to-help.ogg
-|   |           mei-im-just-a-scientist.ogg
-|   |           mei-learned-your-lesson.ogg
-|   |           mei-okay.ogg
-|   |           mei-ouch-are-you-okay.ogg
-|   |           mei-overcome-all-obstacles.ogg
-|   |           mei-scary.ogg
-|   |           mei-science-this.ogg
-|   |           mei-scientific-explanation.ogg
-|   |           mei-so-mean-honestly.ogg
-|   |           mei-sorry-sorry-sorry-sorry.ogg
-|   |           mei-that-looked-like-it-hurt.ogg
-|   |           mei-that-was-great.ogg
-|   |           mei-wake-up-sleepyhead.ogg
-|   |           mei-wishing-you-prosperity.ogg
-|   |           mei-yay.ogg
-|   |           mei-you-have-to-let-it-go.ogg
+|   |   +---voicelines
+|   |   |       mei-ameizing.ogg
+|   |   |       mei-chill-out.ogg
+|   |   |       mei-did-you-hear-something.ogg
+|   |   |       mei-dont-you-just-love-surprises.ogg
+|   |   |       mei-dont-you-love-surprises.ogg
+|   |   |       mei-fight-for-our-world.ogg
+|   |   |       mei-give-me-a-red-envelope.ogg
+|   |   |       mei-hang-in-there.ogg
+|   |   |       mei-i-got-you-something.ogg
+|   |   |       mei-i-tried-my-best.ogg
+|   |   |       mei-i-was-only-trying-to-help.ogg
+|   |   |       mei-im-just-a-scientist.ogg
+|   |   |       mei-learned-your-lesson.ogg
+|   |   |       mei-okay.ogg
+|   |   |       mei-ouch-are-you-okay.ogg
+|   |   |       mei-overcome-all-obstacles.ogg
+|   |   |       mei-scary.ogg
+|   |   |       mei-science-this.ogg
+|   |   |       mei-scientific-explanation.ogg
+|   |   |       mei-so-mean-honestly.ogg
+|   |   |       mei-sorry-sorry-sorry-sorry.ogg
+|   |   |       mei-that-looked-like-it-hurt.ogg
+|   |   |       mei-that-was-great.ogg
+|   |   |       mei-wake-up-sleepyhead.ogg
+|   |   |       mei-wishing-you-prosperity.ogg
+|   |   |       mei-yay.ogg
+|   |   |       mei-you-have-to-let-it-go.ogg
+|   |   |       
+|   |   \---weapons
+|   |           mei-golden.png
 |   |           
 |   +---mercy
 |   |   |   career-portrait.png
@@ -2268,6 +2462,7 @@
 |   |   |       mercy-mercy.png
 |   |   |       mercy-pink.png
 |   |   |       mercy-ribbon.png
+|   |   |       mercy-sugar-plum-fairy.png
 |   |   |       mercy-the-witch.png
 |   |   |       mercy-valkyrie.png
 |   |   |       
@@ -2300,6 +2495,7 @@
 |   |   |       mercy-medal.jpg
 |   |   |       mercy-mistletoe.jpg
 |   |   |       mercy-parasol.jpg
+|   |   |       mercy-pumpkin.jpg
 |   |   |       mercy-ready-for-battle.jpg
 |   |   |       mercy-rip.jpg
 |   |   |       mercy-toast.jpg
@@ -2318,6 +2514,7 @@
 |   |   |       mercy-orchid.jpg
 |   |   |       mercy-pink.jpg
 |   |   |       mercy-sigrun.jpg
+|   |   |       mercy-sugar-plum-fairy.jpg
 |   |   |       mercy-valkyrie.jpg
 |   |   |       mercy-verdant.jpg
 |   |   |       mercy-winged-victory.jpg
@@ -2366,33 +2563,36 @@
 |   |   |       mercy-wings.png
 |   |   |       mercy-ziegler.png
 |   |   |       
-|   |   \---voicelines
-|   |           mercy-a-most-impressive-display.ogg
-|   |           mercy-a-timely-intervention.ogg
-|   |           mercy-consultation-fee.ogg
-|   |           mercy-doctors-orders.ogg
-|   |           mercy-how-barbaric.ogg
-|   |           mercy-how-lucky-for-you.ogg
-|   |           mercy-i-could-use-the-time-off.ogg
-|   |           mercy-i-have-my-eye-on-you.ogg
-|   |           mercy-ive-seen-worse.ogg
-|   |           mercy-miracle-worker.ogg
-|   |           mercy-need-a-second-opinion.ogg
-|   |           mercy-not-sure-why-i-bother.ogg
-|   |           mercy-on-a-scale-of-110.ogg
-|   |           mercy-piece-of-cake.ogg
-|   |           mercy-questionable-judgment.ogg
-|   |           mercy-should-get-that-looked-at.ogg
-|   |           mercy-sometimes-you-scare-me.ogg
-|   |           mercy-sponge-or-spray.ogg
-|   |           mercy-super.ogg
-|   |           mercy-superstition.ogg
-|   |           mercy-take-care-of-yourself.ogg
-|   |           mercy-take-two.ogg
-|   |           mercy-the-doctor-is-in.ogg
-|   |           mercy-the-doctor-will-see-you.ogg
-|   |           mercy-your-guardian-angel.ogg
-|   |           mercy-youre-welcome.ogg
+|   |   +---voicelines
+|   |   |       mercy-a-most-impressive-display.ogg
+|   |   |       mercy-a-timely-intervention.ogg
+|   |   |       mercy-consultation-fee.ogg
+|   |   |       mercy-doctors-orders.ogg
+|   |   |       mercy-how-barbaric.ogg
+|   |   |       mercy-how-lucky-for-you.ogg
+|   |   |       mercy-i-could-use-the-time-off.ogg
+|   |   |       mercy-i-have-my-eye-on-you.ogg
+|   |   |       mercy-ive-seen-worse.ogg
+|   |   |       mercy-miracle-worker.ogg
+|   |   |       mercy-need-a-second-opinion.ogg
+|   |   |       mercy-not-sure-why-i-bother.ogg
+|   |   |       mercy-on-a-scale-of-110.ogg
+|   |   |       mercy-piece-of-cake.ogg
+|   |   |       mercy-questionable-judgment.ogg
+|   |   |       mercy-should-get-that-looked-at.ogg
+|   |   |       mercy-sometimes-you-scare-me.ogg
+|   |   |       mercy-sponge-or-spray.ogg
+|   |   |       mercy-super.ogg
+|   |   |       mercy-superstition.ogg
+|   |   |       mercy-take-care-of-yourself.ogg
+|   |   |       mercy-take-two.ogg
+|   |   |       mercy-the-doctor-is-in.ogg
+|   |   |       mercy-the-doctor-will-see-you.ogg
+|   |   |       mercy-your-guardian-angel.ogg
+|   |   |       mercy-youre-welcome.ogg
+|   |   |       
+|   |   \---weapons
+|   |           mercy-golden.png
 |   |           
 |   +---moira
 |   |   |   career-portrait.png
@@ -2434,6 +2634,7 @@
 |   |   |       moira-waiting.webm.png
 |   |   |       
 |   |   +---icons
+|   |   |       moira-banshee.png
 |   |   |       moira-cothrom-an-lae.png
 |   |   |       moira-cute-moira.png
 |   |   |       moira-erlenmeyer.png
@@ -2470,9 +2671,11 @@
 |   |   |       moira-medal.jpg
 |   |   |       moira-orbs.jpg
 |   |   |       moira-prim.jpg
+|   |   |       moira-pumpkin.jpg
 |   |   |       moira-steepling.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       moira-banshee.jpg
 |   |   |       moira-blackwatch.jpg
 |   |   |       moira-classic.jpg
 |   |   |       moira-eireannach.jpg
@@ -2485,9 +2688,11 @@
 |   |   |       moira-pale.jpg
 |   |   |       moira-royal.jpg
 |   |   |       moira-selkie.jpg
+|   |   |       moira-toast.jpg
 |   |   |       moira-whiskey.jpg
 |   |   |       
 |   |   +---sprays
+|   |   |       moira-banshee.png
 |   |   |       moira-biohazard.png
 |   |   |       moira-burner.png
 |   |   |       moira-cell.png
@@ -2521,32 +2726,38 @@
 |   |   |       moira-syringe.png
 |   |   |       moira-take.png
 |   |   |       moira-test-murloc.png
+|   |   |       moira-trick-or-treat.png
 |   |   |       
-|   |   \---voicelines
-|   |           moira-absolute-zero.ogg
-|   |           moira-are-you-finished.ogg
-|   |           moira-better-living-through-science.ogg
-|   |           moira-biologys-habits.ogg
-|   |           moira-brilliant.ogg
-|   |           moira-get-off-the-stage.ogg
-|   |           moira-good-news-everyone.ogg
-|   |           moira-grand.ogg
-|   |           moira-happy-christmas.ogg
-|   |           moira-idle-hands.ogg
-|   |           moira-im-working.ogg
-|   |           moira-one-hand-gives.ogg
-|   |           moira-performance-enhanced.ogg
-|   |           moira-slinte.ogg
-|   |           moira-stupidity-is-not-a-right.ogg
-|   |           moira-the-state-of-you.ogg
-|   |           moira-this-is-to-my-liking.ogg
-|   |           moira-this-was-a-triumph.ogg
-|   |           moira-unbelievable.ogg
-|   |           moira-what-an-interesting-hypothesis.ogg
-|   |           moira-what-are-you-on-about.ogg
-|   |           moira-youre-a-chancer.ogg
-|   |           moira-youre-mistaken.ogg
-|   |           moira-youve-made-a-dogs-breakfast.ogg
+|   |   +---voicelines
+|   |   |       moira-absolute-zero.ogg
+|   |   |       moira-are-you-finished.ogg
+|   |   |       moira-better-living-through-science.ogg
+|   |   |       moira-biologys-habits.ogg
+|   |   |       moira-brilliant.ogg
+|   |   |       moira-despair-has-its-own-calms.ogg
+|   |   |       moira-get-off-the-stage.ogg
+|   |   |       moira-good-news-everyone.ogg
+|   |   |       moira-grand.ogg
+|   |   |       moira-happy-christmas.ogg
+|   |   |       moira-happy-halloween.ogg
+|   |   |       moira-idle-hands.ogg
+|   |   |       moira-im-working.ogg
+|   |   |       moira-one-hand-gives.ogg
+|   |   |       moira-performance-enhanced.ogg
+|   |   |       moira-slinte.ogg
+|   |   |       moira-stupidity-is-not-a-right.ogg
+|   |   |       moira-the-state-of-you.ogg
+|   |   |       moira-this-is-to-my-liking.ogg
+|   |   |       moira-this-was-a-triumph.ogg
+|   |   |       moira-unbelievable.ogg
+|   |   |       moira-what-an-interesting-hypothesis.ogg
+|   |   |       moira-what-are-you-on-about.ogg
+|   |   |       moira-youre-a-chancer.ogg
+|   |   |       moira-youre-mistaken.ogg
+|   |   |       moira-youve-made-a-dogs-breakfast.ogg
+|   |   |       
+|   |   \---weapons
+|   |           moira-golden.png
 |   |           
 |   +---orisa
 |   |   |   career-portrait.png
@@ -2683,34 +2894,37 @@
 |   |   |       orisa-unmoving.png
 |   |   |       orisa-xing.png
 |   |   |       
-|   |   \---voicelines
-|   |           orisa-annual-performance-analysis.ogg
-|   |           orisa-be-careful.ogg
-|   |           orisa-cant-i-guide-your-way-tonight.ogg
-|   |           orisa-current-outlook.ogg
-|   |           orisa-do-you-need-a-hug.ogg
-|   |           orisa-efi-will-not-be-happy.ogg
-|   |           orisa-error-division-by-0.ogg
-|   |           orisa-error-sarcasm-module.ogg
-|   |           orisa-following-my-programming.ogg
-|   |           orisa-functionality-still-in-beta.ogg
-|   |           orisa-golden.ogg
-|   |           orisa-grease-to-your-elbow.ogg
-|   |           orisa-have-a-bad-feeling-about-this.ogg
-|   |           orisa-i-cant-do-that.ogg
-|   |           orisa-i-was-only-trying-to-help.ogg
-|   |           orisa-medical-assistance.ogg
-|   |           orisa-my-analysis.ogg
-|   |           orisa-no-parking.ogg
-|   |           orisa-satisfied-with-protection.ogg
-|   |           orisa-satsified-with-protection.ogg
-|   |           orisa-shine-your-eyes.ogg
-|   |           orisa-that-does-not-compute.ogg
-|   |           orisa-the-moon-that-wanes.ogg
-|   |           orisa-who-is-ready-to-party.ogg
-|   |           orisa-your-compliance.ogg
-|   |           orisa-your-pulse-has-increased.ogg
-|   |           orisa-your-security.ogg
+|   |   +---voicelines
+|   |   |       orisa-annual-performance-analysis.ogg
+|   |   |       orisa-be-careful.ogg
+|   |   |       orisa-cant-i-guide-your-way-tonight.ogg
+|   |   |       orisa-current-outlook.ogg
+|   |   |       orisa-do-you-need-a-hug.ogg
+|   |   |       orisa-efi-will-not-be-happy.ogg
+|   |   |       orisa-error-division-by-0.ogg
+|   |   |       orisa-error-sarcasm-module.ogg
+|   |   |       orisa-following-my-programming.ogg
+|   |   |       orisa-functionality-still-in-beta.ogg
+|   |   |       orisa-golden.ogg
+|   |   |       orisa-grease-to-your-elbow.ogg
+|   |   |       orisa-have-a-bad-feeling-about-this.ogg
+|   |   |       orisa-i-cant-do-that.ogg
+|   |   |       orisa-i-was-only-trying-to-help.ogg
+|   |   |       orisa-medical-assistance.ogg
+|   |   |       orisa-my-analysis.ogg
+|   |   |       orisa-no-parking.ogg
+|   |   |       orisa-satisfied-with-protection.ogg
+|   |   |       orisa-satsified-with-protection.ogg
+|   |   |       orisa-shine-your-eyes.ogg
+|   |   |       orisa-that-does-not-compute.ogg
+|   |   |       orisa-the-moon-that-wanes.ogg
+|   |   |       orisa-who-is-ready-to-party.ogg
+|   |   |       orisa-your-compliance.ogg
+|   |   |       orisa-your-pulse-has-increased.ogg
+|   |   |       orisa-your-security.ogg
+|   |   |       
+|   |   \---weapons
+|   |           orisa-golden.png
 |   |           
 |   +---pharah
 |   |   |   career-portrait.png
@@ -2753,6 +2967,7 @@
 |   |   |       pharah-anniversareeha.png
 |   |   |       pharah-basketball.png
 |   |   |       pharah-cute-pharah.png
+|   |   |       pharah-enchanted.png
 |   |   |       pharah-pharah.png
 |   |   |       pharah-raptora.png
 |   |   |       pharah-wadjet.png
@@ -2796,6 +3011,7 @@
 |   |   |       pharah-classic.jpg
 |   |   |       pharah-copper.jpg
 |   |   |       pharah-emerald.jpg
+|   |   |       pharah-enchanted-armor.jpg
 |   |   |       pharah-frostbite.jpg
 |   |   |       pharah-jackal.jpg
 |   |   |       pharah-mechaqueen.jpg
@@ -2817,6 +3033,7 @@
 |   |   |       pharah-concussive-blast.png
 |   |   |       pharah-cute.png
 |   |   |       pharah-dragon-dance.png
+|   |   |       pharah-enchanted.png
 |   |   |       pharah-guardian.png
 |   |   |       pharah-happy-new-year.png
 |   |   |       pharah-hieroglyph.png
@@ -2843,33 +3060,37 @@
 |   |   |       pharah-wings.png
 |   |   |       pharah-wrist-launcher.png
 |   |   |       
-|   |   \---voicelines
-|   |           pharah-aerial-superiority-achieved.ogg
-|   |           pharah-at-ease.ogg
-|   |           pharah-clear-skies-full-hearts.ogg
-|   |           pharah-dead-or-alive.ogg
-|   |           pharah-dont-take-it-personally.ogg
-|   |           pharah-fly-casual.ogg
-|   |           pharah-fly-like-an-egyptian.ogg
-|   |           pharah-flying-the-friendly-skies.ogg
-|   |           pharah-got-you-on-my-radar.ogg
-|   |           pharah-i-am-the-rocket-queen.ogg
-|   |           pharah-i-keep-the-peace.ogg
-|   |           pharah-i-live-for-a-good-fight.ogg
-|   |           pharah-im-so-scared.ogg
-|   |           pharah-leave-this-to-a-professional.ogg
-|   |           pharah-not-a-chance.ogg
-|   |           pharah-play-nice-play-pharah.ogg
-|   |           pharah-ready-for-some-fireworks.ogg
-|   |           pharah-rocket-jump.ogg
-|   |           pharah-security-in-my-hands.ogg
-|   |           pharah-shot-down.ogg
-|   |           pharah-sorry-but-i-need-to-jet.ogg
-|   |           pharah-stay-on-target.ogg
-|   |           pharah-the-forecast.ogg
-|   |           pharah-the-skies-are-clear.ogg
-|   |           pharah-try-me.ogg
-|   |           pharah-we-are-in-this-together.ogg
+|   |   +---voicelines
+|   |   |       pharah-aerial-superiority-achieved.ogg
+|   |   |       pharah-are-you-frightened.ogg
+|   |   |       pharah-at-ease.ogg
+|   |   |       pharah-clear-skies-full-hearts.ogg
+|   |   |       pharah-dead-or-alive.ogg
+|   |   |       pharah-dont-take-it-personally.ogg
+|   |   |       pharah-fly-casual.ogg
+|   |   |       pharah-fly-like-an-egyptian.ogg
+|   |   |       pharah-flying-the-friendly-skies.ogg
+|   |   |       pharah-got-you-on-my-radar.ogg
+|   |   |       pharah-i-am-the-rocket-queen.ogg
+|   |   |       pharah-i-keep-the-peace.ogg
+|   |   |       pharah-i-live-for-a-good-fight.ogg
+|   |   |       pharah-im-so-scared.ogg
+|   |   |       pharah-leave-this-to-a-professional.ogg
+|   |   |       pharah-not-a-chance.ogg
+|   |   |       pharah-play-nice-play-pharah.ogg
+|   |   |       pharah-ready-for-some-fireworks.ogg
+|   |   |       pharah-rocket-jump.ogg
+|   |   |       pharah-security-in-my-hands.ogg
+|   |   |       pharah-shot-down.ogg
+|   |   |       pharah-sorry-but-i-need-to-jet.ogg
+|   |   |       pharah-stay-on-target.ogg
+|   |   |       pharah-the-forecast.ogg
+|   |   |       pharah-the-skies-are-clear.ogg
+|   |   |       pharah-try-me.ogg
+|   |   |       pharah-we-are-in-this-together.ogg
+|   |   |       
+|   |   \---weapons
+|   |           pharah-golden.png
 |   |           
 |   +---reaper
 |   |   |   career-portrait.png
@@ -2970,6 +3191,7 @@
 |   |   |       reaper-royal.jpg
 |   |   |       reaper-shiver.jpg
 |   |   |       reaper-soldier-24.jpg
+|   |   |       reaper-toast.jpg
 |   |   |       reaper-wight.jpg
 |   |   |       
 |   |   +---sprays
@@ -3009,33 +3231,37 @@
 |   |   |       reaper-time-to-kill.png
 |   |   |       reaper-trick-or-treat.png
 |   |   |       
-|   |   \---voicelines
-|   |           reaper-amateur-hour.ogg
-|   |           reaper-any-last-words.ogg
-|   |           reaper-dead-man-walking.ogg
-|   |           reaper-give-me-a-break.ogg
-|   |           reaper-havent-i-killed-you.ogg
-|   |           reaper-holiday-spirit.ogg
-|   |           reaper-i-have-the-devils-own-luck.ogg
-|   |           reaper-i-work-the-graveyard-shift.ogg
-|   |           reaper-if-it-lives-i-can-kill-it.ogg
-|   |           reaper-ill-see-you-in-hell.ogg
-|   |           reaper-im-back-in-black.ogg
-|   |           reaper-its-in-the-refrigerator.ogg
-|   |           reaper-just-win.ogg
-|   |           reaper-moving-on.ogg
-|   |           reaper-next.ogg
-|   |           reaper-no-one-left-behind.ogg
-|   |           reaper-now-those-are-fireworks.ogg
-|   |           reaper-pathetic.ogg
-|   |           reaper-psychopath.ogg
-|   |           reaper-revenge-is-sweet.ogg
-|   |           reaper-seen-a-ghost.ogg
-|   |           reaper-things-are-looking-grim.ogg
-|   |           reaper-too-easy.ogg
-|   |           reaper-was-that-all.ogg
-|   |           reaper-what-are-you-looking-at.ogg
-|   |           reaper-youre-on-ice.ogg
+|   |   +---voicelines
+|   |   |       reaper-amateur-hour.ogg
+|   |   |       reaper-any-last-words.ogg
+|   |   |       reaper-dead-man-walking.ogg
+|   |   |       reaper-give-me-a-break.ogg
+|   |   |       reaper-havent-i-killed-you.ogg
+|   |   |       reaper-holiday-spirit.ogg
+|   |   |       reaper-i-have-the-devils-own-luck.ogg
+|   |   |       reaper-i-work-the-graveyard-shift.ogg
+|   |   |       reaper-if-it-lives-i-can-kill-it.ogg
+|   |   |       reaper-ill-see-you-in-hell.ogg
+|   |   |       reaper-im-back-in-black.ogg
+|   |   |       reaper-im-dressed-to-kill.ogg
+|   |   |       reaper-its-in-the-refrigerator.ogg
+|   |   |       reaper-just-win.ogg
+|   |   |       reaper-moving-on.ogg
+|   |   |       reaper-next.ogg
+|   |   |       reaper-no-one-left-behind.ogg
+|   |   |       reaper-now-those-are-fireworks.ogg
+|   |   |       reaper-pathetic.ogg
+|   |   |       reaper-psychopath.ogg
+|   |   |       reaper-revenge-is-sweet.ogg
+|   |   |       reaper-seen-a-ghost.ogg
+|   |   |       reaper-things-are-looking-grim.ogg
+|   |   |       reaper-too-easy.ogg
+|   |   |       reaper-was-that-all.ogg
+|   |   |       reaper-what-are-you-looking-at.ogg
+|   |   |       reaper-youre-on-ice.ogg
+|   |   |       
+|   |   \---weapons
+|   |           reaper-golden.png
 |   |           
 |   +---reinhardt
 |   |   |   career-portrait.png
@@ -3129,6 +3355,7 @@
 |   |   |       reinhardt-coldhardt.jpg
 |   |   |       reinhardt-copper.jpg
 |   |   |       reinhardt-crusader.jpg
+|   |   |       reinhardt-festive.jpg
 |   |   |       reinhardt-greifhardt.jpg
 |   |   |       reinhardt-gridironhardt.jpg
 |   |   |       reinhardt-lieutenant-wilhelm.jpg
@@ -3174,33 +3401,36 @@
 |   |   |       reinhardt-wrestle.png
 |   |   |       reinhardt-wrestling.png
 |   |   |       
-|   |   \---voicelines
-|   |           reinhardt-100-german-power.ogg
-|   |           reinhardt-are-you-afraid.ogg
-|   |           reinhardt-are-you-chicken.ogg
-|   |           reinhardt-beer.ogg
-|   |           reinhardt-bring-me-another.ogg
-|   |           reinhardt-catch-phrase.ogg
-|   |           reinhardt-come-here.ogg
-|   |           reinhardt-crusader-online.ogg
-|   |           reinhardt-crushing-machine.ogg
-|   |           reinhardt-easy-does-it.ogg
-|   |           reinhardt-forgive-and-forget.ogg
-|   |           reinhardt-fortune-favors-the-bold.ogg
-|   |           reinhardt-german-engineering.ogg
-|   |           reinhardt-glittering-prizes.ogg
-|   |           reinhardt-honor-and-glory.ogg
-|   |           reinhardt-honor-justice-reinhardt.ogg
-|   |           reinhardt-i-salute-you.ogg
-|   |           reinhardt-prost.ogg
-|   |           reinhardt-respect-your-elders.ogg
-|   |           reinhardt-show-you-how-its-done.ogg
-|   |           reinhardt-smashing.ogg
-|   |           reinhardt-this-old-dog.ogg
-|   |           reinhardt-unstoppable.ogg
-|   |           reinhardt-what-do-we-have-here.ogg
-|   |           reinhardt-you-shame-yourself.ogg
-|   |           reinhardt-youre-on-my-naughty-list.ogg
+|   |   +---voicelines
+|   |   |       reinhardt-100-german-power.ogg
+|   |   |       reinhardt-are-you-afraid.ogg
+|   |   |       reinhardt-are-you-chicken.ogg
+|   |   |       reinhardt-beer.ogg
+|   |   |       reinhardt-bring-me-another.ogg
+|   |   |       reinhardt-catch-phrase.ogg
+|   |   |       reinhardt-come-here.ogg
+|   |   |       reinhardt-crusader-online.ogg
+|   |   |       reinhardt-crushing-machine.ogg
+|   |   |       reinhardt-easy-does-it.ogg
+|   |   |       reinhardt-forgive-and-forget.ogg
+|   |   |       reinhardt-fortune-favors-the-bold.ogg
+|   |   |       reinhardt-german-engineering.ogg
+|   |   |       reinhardt-glittering-prizes.ogg
+|   |   |       reinhardt-honor-and-glory.ogg
+|   |   |       reinhardt-honor-justice-reinhardt.ogg
+|   |   |       reinhardt-i-salute-you.ogg
+|   |   |       reinhardt-prost.ogg
+|   |   |       reinhardt-respect-your-elders.ogg
+|   |   |       reinhardt-show-you-how-its-done.ogg
+|   |   |       reinhardt-smashing.ogg
+|   |   |       reinhardt-this-old-dog.ogg
+|   |   |       reinhardt-unstoppable.ogg
+|   |   |       reinhardt-what-do-we-have-here.ogg
+|   |   |       reinhardt-you-shame-yourself.ogg
+|   |   |       reinhardt-youre-on-my-naughty-list.ogg
+|   |   |       
+|   |   \---weapons
+|   |           reinhardt-golden.png
 |   |           
 |   +---roadhog
 |   |   |   career-portrait.png
@@ -3346,33 +3576,36 @@
 |   |   |       roadhog-wild-hog.png
 |   |   |       roadhog-winter.png
 |   |   |       
-|   |   \---voicelines
-|   |           roadhog-boo.ogg
-|   |           roadhog-candy-from-a-baby.ogg
-|   |           roadhog-eat-this.ogg
-|   |           roadhog-got-something-to-say.ogg
-|   |           roadhog-hahaha.ogg
-|   |           roadhog-ho-ho-ho.ogg
-|   |           roadhog-hook-line-and-sinker.ogg
-|   |           roadhog-i-dont-like-talkers.ogg
-|   |           roadhog-i-have-your-present-right-here.ogg
-|   |           roadhog-im-going-hog-wild.ogg
-|   |           roadhog-its-all-gone-to-the-dogs.ogg
-|   |           roadhog-killed-for-less-than-that.ogg
-|   |           roadhog-life-is-pain-so-is-death.ogg
-|   |           roadhog-piece-of-cake.ogg
-|   |           roadhog-push-off.ogg
-|   |           roadhog-say-bacon.ogg
-|   |           roadhog-shell-be-right.ogg
-|   |           roadhog-thats-my-business.ogg
-|   |           roadhog-the-apocalypse.ogg
-|   |           roadhog-theres-no-i-in-team.ogg
-|   |           roadhog-violence-is-the-answer.ogg
-|   |           roadhog-want-some-candy.ogg
-|   |           roadhog-were-all-animals.ogg
-|   |           roadhog-whats-mine-is-mine.ogg
-|   |           roadhog-you-chicken.ogg
-|   |           roadhog-you-wanna-scrap-with-me.ogg
+|   |   +---voicelines
+|   |   |       roadhog-boo.ogg
+|   |   |       roadhog-candy-from-a-baby.ogg
+|   |   |       roadhog-eat-this.ogg
+|   |   |       roadhog-got-something-to-say.ogg
+|   |   |       roadhog-hahaha.ogg
+|   |   |       roadhog-ho-ho-ho.ogg
+|   |   |       roadhog-hook-line-and-sinker.ogg
+|   |   |       roadhog-i-dont-like-talkers.ogg
+|   |   |       roadhog-i-have-your-present-right-here.ogg
+|   |   |       roadhog-im-going-hog-wild.ogg
+|   |   |       roadhog-its-all-gone-to-the-dogs.ogg
+|   |   |       roadhog-killed-for-less-than-that.ogg
+|   |   |       roadhog-life-is-pain-so-is-death.ogg
+|   |   |       roadhog-piece-of-cake.ogg
+|   |   |       roadhog-push-off.ogg
+|   |   |       roadhog-say-bacon.ogg
+|   |   |       roadhog-shell-be-right.ogg
+|   |   |       roadhog-thats-my-business.ogg
+|   |   |       roadhog-the-apocalypse.ogg
+|   |   |       roadhog-theres-no-i-in-team.ogg
+|   |   |       roadhog-violence-is-the-answer.ogg
+|   |   |       roadhog-want-some-candy.ogg
+|   |   |       roadhog-were-all-animals.ogg
+|   |   |       roadhog-whats-mine-is-mine.ogg
+|   |   |       roadhog-you-chicken.ogg
+|   |   |       roadhog-you-wanna-scrap-with-me.ogg
+|   |   |       
+|   |   \---weapons
+|   |           roadhog-golden.png
 |   |           
 |   +---soldier-76
 |   |   |   career-portrait.png
@@ -3419,6 +3652,7 @@
 |   |   |       soldier-76-cute-soldier-76.png
 |   |   |       soldier-76-gold-soldier.png
 |   |   |       soldier-76-golf.png
+|   |   |       soldier-76-slasher.png
 |   |   |       soldier-76-soldier-76.png
 |   |   |       soldier-76-strike-commander.png
 |   |   |       soldier-76-strikecommander.png
@@ -3469,6 +3703,7 @@
 |   |   |       soldier-76-night-ops-76.jpg
 |   |   |       soldier-76-olive.jpg
 |   |   |       soldier-76-russet.jpg
+|   |   |       soldier-76-slasher-76.jpg
 |   |   |       soldier-76-smoke.jpg
 |   |   |       soldier-76-strike-commander-morrison.jpg
 |   |   |       soldier-76-strikecommander-morrison.jpg
@@ -3505,39 +3740,43 @@
 |   |   |       soldier-76-rifle-76.png
 |   |   |       soldier-76-rockets.png
 |   |   |       soldier-76-salute.png
+|   |   |       soldier-76-slasher.png
 |   |   |       soldier-76-strike-commander.png
 |   |   |       soldier-76-trick-or-treat.png
 |   |   |       soldier-76-vigilante.png
 |   |   |       soldier-76-visor.png
 |   |   |       soldier-76-wanted.png
 |   |   |       
-|   |   \---voicelines
-|   |           soldier-76-bring-the-noise.ogg
-|   |           soldier-76-dont-call-me-a-hero.ogg
-|   |           soldier-76-get-off-my-lawn.ogg
-|   |           soldier-76-i-didnt-start-this-war.ogg
-|   |           soldier-76-im-an-army-of-one.ogg
-|   |           soldier-76-im-not-your-father.ogg
-|   |           soldier-76-ive-still-got-it.ogg
-|   |           soldier-76-knock-knock.ogg
-|   |           soldier-76-merry-christmas.ogg
-|   |           soldier-76-not-getting-any-younger.ogg
-|   |           soldier-76-not-on-my-watch.ogg
-|   |           soldier-76-old-soldiers.ogg
-|   |           soldier-76-respect-your-elders.ogg
-|   |           soldier-76-sit-down.ogg
-|   |           soldier-76-smells-like-victory.ogg
-|   |           soldier-76-stay-frosty.ogg
-|   |           soldier-76-thats-sir-to-you.ogg
-|   |           soldier-76-the-rooster-crows.ogg
-|   |           soldier-76-trick-or-treat.ogg
-|   |           soldier-76-want-something-done-right.ogg
-|   |           soldier-76-what-are-you-lookin-at.ogg
-|   |           soldier-76-whatever-you-say.ogg
-|   |           soldier-76-you-didnt-make-the-cut.ogg
-|   |           soldier-76-you-want-a-medal.ogg
-|   |           soldier-76-youre-the-boss.ogg
-|   |           soldier-76-youre-the-other-one.ogg
+|   |   +---voicelines
+|   |   |       soldier-76-bring-the-noise.ogg
+|   |   |       soldier-76-dont-call-me-a-hero.ogg
+|   |   |       soldier-76-get-off-my-lawn.ogg
+|   |   |       soldier-76-i-didnt-start-this-war.ogg
+|   |   |       soldier-76-im-an-army-of-one.ogg
+|   |   |       soldier-76-im-not-your-father.ogg
+|   |   |       soldier-76-ive-still-got-it.ogg
+|   |   |       soldier-76-knock-knock.ogg
+|   |   |       soldier-76-merry-christmas.ogg
+|   |   |       soldier-76-not-getting-any-younger.ogg
+|   |   |       soldier-76-not-on-my-watch.ogg
+|   |   |       soldier-76-old-soldiers.ogg
+|   |   |       soldier-76-respect-your-elders.ogg
+|   |   |       soldier-76-sit-down.ogg
+|   |   |       soldier-76-smells-like-victory.ogg
+|   |   |       soldier-76-stay-frosty.ogg
+|   |   |       soldier-76-thats-sir-to-you.ogg
+|   |   |       soldier-76-the-rooster-crows.ogg
+|   |   |       soldier-76-trick-or-treat.ogg
+|   |   |       soldier-76-want-something-done-right.ogg
+|   |   |       soldier-76-what-are-you-lookin-at.ogg
+|   |   |       soldier-76-whatever-you-say.ogg
+|   |   |       soldier-76-you-didnt-make-the-cut.ogg
+|   |   |       soldier-76-you-want-a-medal.ogg
+|   |   |       soldier-76-youre-the-boss.ogg
+|   |   |       soldier-76-youre-the-other-one.ogg
+|   |   |       
+|   |   \---weapons
+|   |           soldier-76-golden.png
 |   |           
 |   +---sombra
 |   |   |   career-portrait.png
@@ -3580,6 +3819,7 @@
 |   |   |       
 |   |   +---icons
 |   |   |       sombra-aniversario.png
+|   |   |       sombra-bride.png
 |   |   |       sombra-colomar.png
 |   |   |       sombra-cute-sombra.png
 |   |   |       sombra-hacker.png
@@ -3619,9 +3859,11 @@
 |   |   +---skins
 |   |   |       sombra-augmented.jpg
 |   |   |       sombra-azucar.jpg
+|   |   |       sombra-bride.jpg
 |   |   |       sombra-cidro.jpg
 |   |   |       sombra-classic.jpg
 |   |   |       sombra-cyberspace.jpg
+|   |   |       sombra-demon-hunter.jpg
 |   |   |       sombra-glitch.jpg
 |   |   |       sombra-incendio.jpg
 |   |   |       sombra-los-muertos.jpg
@@ -3663,6 +3905,7 @@
 |   |   |       sombra-puzzle.png
 |   |   |       sombra-queen-of-spades.png
 |   |   |       sombra-quien.png
+|   |   |       sombra-servants.png
 |   |   |       sombra-skull.png
 |   |   |       sombra-skycode.png
 |   |   |       sombra-superior.png
@@ -3673,34 +3916,37 @@
 |   |   |       sombra-virus.png
 |   |   |       sombra-web.png
 |   |   |       
-|   |   \---voicelines
-|   |           sombra-aw-isnt-that-sweet.ogg
-|   |           sombra-back-to-la-medianoche.ogg
-|   |           sombra-boop.ogg
-|   |           sombra-cool.ogg
-|   |           sombra-did-you-mean-to-do-that.ogg
-|   |           sombra-dont-be-a-coward.ogg
-|   |           sombra-glitch-in-the-system.ogg
-|   |           sombra-good-one.ogg
-|   |           sombra-hack-the-planet.ogg
-|   |           sombra-i-can-be-nice.ogg
-|   |           sombra-i-know-whos-been-naughty.ogg
-|   |           sombra-i-need-a-drink.ogg
-|   |           sombra-id-love-to-stay-and-chat.ogg
-|   |           sombra-if-you-hold-the-information.ogg
-|   |           sombra-in-over-your-head.ogg
-|   |           sombra-just-squishing-a-bug.ogg
-|   |           sombra-lets-not-do-that-again.ogg
-|   |           sombra-mess-with-the-best.ogg
-|   |           sombra-playing-fair.ogg
-|   |           sombra-show-me-what-you-got.ogg
-|   |           sombra-taking-this-very-seriously.ogg
-|   |           sombra-try-and-keep-up.ogg
-|   |           sombra-were-you-done-talking.ogg
-|   |           sombra-whats-up.ogg
-|   |           sombra-you-trying-to-be-scary.ogg
-|   |           sombra-youre-easily-impressed.ogg
-|   |           sombra-youre-in-the-doghouse.ogg
+|   |   +---voicelines
+|   |   |       sombra-aw-isnt-that-sweet.ogg
+|   |   |       sombra-back-to-la-medianoche.ogg
+|   |   |       sombra-boop.ogg
+|   |   |       sombra-cool.ogg
+|   |   |       sombra-did-you-mean-to-do-that.ogg
+|   |   |       sombra-dont-be-a-coward.ogg
+|   |   |       sombra-glitch-in-the-system.ogg
+|   |   |       sombra-good-one.ogg
+|   |   |       sombra-hack-the-planet.ogg
+|   |   |       sombra-i-can-be-nice.ogg
+|   |   |       sombra-i-know-whos-been-naughty.ogg
+|   |   |       sombra-i-need-a-drink.ogg
+|   |   |       sombra-id-love-to-stay-and-chat.ogg
+|   |   |       sombra-if-you-hold-the-information.ogg
+|   |   |       sombra-in-over-your-head.ogg
+|   |   |       sombra-just-squishing-a-bug.ogg
+|   |   |       sombra-lets-not-do-that-again.ogg
+|   |   |       sombra-mess-with-the-best.ogg
+|   |   |       sombra-playing-fair.ogg
+|   |   |       sombra-show-me-what-you-got.ogg
+|   |   |       sombra-taking-this-very-seriously.ogg
+|   |   |       sombra-try-and-keep-up.ogg
+|   |   |       sombra-were-you-done-talking.ogg
+|   |   |       sombra-whats-up.ogg
+|   |   |       sombra-you-trying-to-be-scary.ogg
+|   |   |       sombra-youre-easily-impressed.ogg
+|   |   |       sombra-youre-in-the-doghouse.ogg
+|   |   |       
+|   |   \---weapons
+|   |           sombra-golden.png
 |   |           
 |   +---symmetra
 |   |   |   career-portrait.png
@@ -3743,6 +3989,7 @@
 |   |   |       
 |   |   +---icons
 |   |   |       symmetra-cute-symmetra.png
+|   |   |       symmetra-figure-skater.png
 |   |   |       symmetra-magician.png
 |   |   |       symmetra-rhythmic-gymnastics.png
 |   |   |       symmetra-sentry.png
@@ -3789,6 +4036,7 @@
 |   |   |       symmetra-classic.jpg
 |   |   |       symmetra-devi.jpg
 |   |   |       symmetra-dragon.jpg
+|   |   |       symmetra-figure-skater.jpg
 |   |   |       symmetra-goddess.jpg
 |   |   |       symmetra-hyacinth.jpg
 |   |   |       symmetra-magician.jpg
@@ -3838,34 +4086,37 @@
 |   |   |       symmetra-weaver.png
 |   |   |       symmetra-will.png
 |   |   |       
-|   |   \---voicelines
-|   |           symmetra-a-frightening-thought.ogg
-|   |           symmetra-cause-for-celebration.ogg
-|   |           symmetra-everything-by-design.ogg
-|   |           symmetra-expecting-a-miracle.ogg
-|   |           symmetra-exquisite.ogg
-|   |           symmetra-good-fortune.ogg
-|   |           symmetra-hard-work-and-dedication.ogg
-|   |           symmetra-how-unsightly.ogg
-|   |           symmetra-i-dont-think-so.ogg
-|   |           symmetra-i-made-you-something.ogg
-|   |           symmetra-impressive.ogg
-|   |           symmetra-kindly-adjust.ogg
-|   |           symmetra-let-us-discuss-your-failures.ogg
-|   |           symmetra-perfect-harmony.ogg
-|   |           symmetra-precisely.ogg
-|   |           symmetra-put-you-in-your-place.ogg
-|   |           symmetra-setting-up-the-car-wash.ogg
-|   |           symmetra-such-a-lack-of-imagination.ogg
-|   |           symmetra-supposed-to-be-impressed.ogg
-|   |           symmetra-taken-under-advisement.ogg
-|   |           symmetra-the-treat-is-a-lie.ogg
-|   |           symmetra-timepass.ogg
-|   |           symmetra-victory-is-everything.ogg
-|   |           symmetra-welcome-to-my-reality.ogg
-|   |           symmetra-were-you-expecting-a-miracle.ogg
-|   |           symmetra-why-do-you-struggle.ogg
-|   |           symmetra-your-mind-works.ogg
+|   |   +---voicelines
+|   |   |       symmetra-a-frightening-thought.ogg
+|   |   |       symmetra-cause-for-celebration.ogg
+|   |   |       symmetra-everything-by-design.ogg
+|   |   |       symmetra-expecting-a-miracle.ogg
+|   |   |       symmetra-exquisite.ogg
+|   |   |       symmetra-good-fortune.ogg
+|   |   |       symmetra-hard-work-and-dedication.ogg
+|   |   |       symmetra-how-unsightly.ogg
+|   |   |       symmetra-i-dont-think-so.ogg
+|   |   |       symmetra-i-made-you-something.ogg
+|   |   |       symmetra-impressive.ogg
+|   |   |       symmetra-kindly-adjust.ogg
+|   |   |       symmetra-let-us-discuss-your-failures.ogg
+|   |   |       symmetra-perfect-harmony.ogg
+|   |   |       symmetra-precisely.ogg
+|   |   |       symmetra-put-you-in-your-place.ogg
+|   |   |       symmetra-setting-up-the-car-wash.ogg
+|   |   |       symmetra-such-a-lack-of-imagination.ogg
+|   |   |       symmetra-supposed-to-be-impressed.ogg
+|   |   |       symmetra-taken-under-advisement.ogg
+|   |   |       symmetra-the-treat-is-a-lie.ogg
+|   |   |       symmetra-timepass.ogg
+|   |   |       symmetra-victory-is-everything.ogg
+|   |   |       symmetra-welcome-to-my-reality.ogg
+|   |   |       symmetra-were-you-expecting-a-miracle.ogg
+|   |   |       symmetra-why-do-you-struggle.ogg
+|   |   |       symmetra-your-mind-works.ogg
+|   |   |       
+|   |   \---weapons
+|   |           symmetra-golden.png
 |   |           
 |   +---torbjorn
 |   |   |   career-portrait.png
@@ -3897,6 +4148,10 @@
 |   |   |       torbjorn-heroic-hd.webm.png
 |   |   |       torbjorn-heroic.webm
 |   |   |       torbjorn-heroic.webm.png
+|   |   |       torbjorn-my-babies-hd.webm
+|   |   |       torbjorn-my-babies-hd.webm.png
+|   |   |       torbjorn-my-babies.webm
+|   |   |       torbjorn-my-babies.webm.png
 |   |   |       torbjorn-overload-hd.webm
 |   |   |       torbjorn-overload-hd.webm.png
 |   |   |       torbjorn-overload.webm
@@ -4005,35 +4260,38 @@
 |   |   |       torbjorn-water-polo.png
 |   |   |       torbjorn-workshop.png
 |   |   |       
-|   |   \---voicelines
-|   |           torbjorn-a-chicken-out-of-a-feather.ogg
-|   |           torbjorn-bingo.ogg
-|   |           torbjorn-completion-date.ogg
-|   |           torbjorn-dont-get-caught.ogg
-|   |           torbjorn-engineers.ogg
-|   |           torbjorn-everyone-get-in-here.ogg
-|   |           torbjorn-expert-craftsmanship.ogg
-|   |           torbjorn-for-the-alliance.ogg
-|   |           torbjorn-for-the-horde.ogg
-|   |           torbjorn-hard-work-pays-off.ogg
-|   |           torbjorn-hear-me-baby.ogg
-|   |           torbjorn-i-smell-trouble-brewing.ogg
-|   |           torbjorn-if-you-build-it.ogg
-|   |           torbjorn-im-giving-it-all-ive-got.ogg
-|   |           torbjorn-im-swedish.ogg
-|   |           torbjorn-ironclad.ogg
-|   |           torbjorn-just-start-hammering.ogg
-|   |           torbjorn-leave-this-to-an-expert.ogg
-|   |           torbjorn-lets-not-buy-the-pig.ogg
-|   |           torbjorn-made-to-order.ogg
-|   |           torbjorn-more-where-that-came-from.ogg
-|   |           torbjorn-poor-craftsman.ogg
-|   |           torbjorn-some-assembly-required.ogg
-|   |           torbjorn-theres-no-prize-for-second.ogg
-|   |           torbjorn-too-hot-for-you.ogg
-|   |           torbjorn-trust-me.ogg
-|   |           torbjorn-why-didnt-i-think-of-that.ogg
-|   |           torbjorn-working-as-intended.ogg
+|   |   +---voicelines
+|   |   |       torbjorn-a-chicken-out-of-a-feather.ogg
+|   |   |       torbjorn-bingo.ogg
+|   |   |       torbjorn-completion-date.ogg
+|   |   |       torbjorn-dont-get-caught.ogg
+|   |   |       torbjorn-engineers.ogg
+|   |   |       torbjorn-everyone-get-in-here.ogg
+|   |   |       torbjorn-expert-craftsmanship.ogg
+|   |   |       torbjorn-for-the-alliance.ogg
+|   |   |       torbjorn-for-the-horde.ogg
+|   |   |       torbjorn-hard-work-pays-off.ogg
+|   |   |       torbjorn-hear-me-baby.ogg
+|   |   |       torbjorn-i-smell-trouble-brewing.ogg
+|   |   |       torbjorn-if-you-build-it.ogg
+|   |   |       torbjorn-im-giving-it-all-ive-got.ogg
+|   |   |       torbjorn-im-swedish.ogg
+|   |   |       torbjorn-ironclad.ogg
+|   |   |       torbjorn-just-start-hammering.ogg
+|   |   |       torbjorn-leave-this-to-an-expert.ogg
+|   |   |       torbjorn-lets-not-buy-the-pig.ogg
+|   |   |       torbjorn-made-to-order.ogg
+|   |   |       torbjorn-more-where-that-came-from.ogg
+|   |   |       torbjorn-poor-craftsman.ogg
+|   |   |       torbjorn-some-assembly-required.ogg
+|   |   |       torbjorn-theres-no-prize-for-second.ogg
+|   |   |       torbjorn-too-hot-for-you.ogg
+|   |   |       torbjorn-trust-me.ogg
+|   |   |       torbjorn-why-didnt-i-think-of-that.ogg
+|   |   |       torbjorn-working-as-intended.ogg
+|   |   |       
+|   |   \---weapons
+|   |           torbjorn-golden.png
 |   |           
 |   +---tracer
 |   |   |   career-portrait.png
@@ -4147,6 +4405,7 @@
 |   |   |       tracer-sporty.jpg
 |   |   |       tracer-sprinter.jpg
 |   |   |       tracer-t-racer.jpg
+|   |   |       tracer-toast.jpg
 |   |   |       tracer-track-and-field.jpg
 |   |   |       tracer-ultraviolet.jpg
 |   |   |       
@@ -4187,33 +4446,37 @@
 |   |   |       tracer-whatcha-lookin-at.png
 |   |   |       tracer-wings.png
 |   |   |       
-|   |   \---voicelines
-|   |           tracer-aw-rubbish.ogg
-|   |           tracer-be-right-back.ogg
-|   |           tracer-boo.ogg
-|   |           tracer-check-me-out.ogg
-|   |           tracer-cheeky.ogg
-|   |           tracer-cheers-love.ogg
-|   |           tracer-deja-vu.ogg
-|   |           tracer-did-i-miss-something.ogg
-|   |           tracer-dont-be-daft.ogg
-|   |           tracer-eat-my-dust.ogg
-|   |           tracer-ho-ho-ho.ogg
-|   |           tracer-i-knew-i-forgot-something.ogg
-|   |           tracer-im-over-the-moon.ogg
-|   |           tracer-its-in-the-bag.ogg
-|   |           tracer-keep-calm.ogg
-|   |           tracer-ooh-scary.ogg
-|   |           tracer-ready-for-some-fireworks.ogg
-|   |           tracer-she-shoots-she-scores.ogg
-|   |           tracer-sorry-im-late.ogg
-|   |           tracer-the-world-needs-heroes.ogg
-|   |           tracer-time-is-on-my-side.ogg
-|   |           tracer-time-out.ogg
-|   |           tracer-too-slow.ogg
-|   |           tracer-under-control.ogg
-|   |           tracer-you-got-it.ogg
-|   |           tracer-you-need-a-time-out.ogg
+|   |   +---voicelines
+|   |   |       tracer-aw-rubbish.ogg
+|   |   |       tracer-be-right-back.ogg
+|   |   |       tracer-boo.ogg
+|   |   |       tracer-check-me-out.ogg
+|   |   |       tracer-cheeky.ogg
+|   |   |       tracer-cheers-love.ogg
+|   |   |       tracer-deja-vu.ogg
+|   |   |       tracer-did-i-miss-something.ogg
+|   |   |       tracer-dont-be-daft.ogg
+|   |   |       tracer-eat-my-dust.ogg
+|   |   |       tracer-ho-ho-ho.ogg
+|   |   |       tracer-i-knew-i-forgot-something.ogg
+|   |   |       tracer-im-over-the-moon.ogg
+|   |   |       tracer-its-in-the-bag.ogg
+|   |   |       tracer-keep-calm.ogg
+|   |   |       tracer-ooh-scary.ogg
+|   |   |       tracer-ready-for-some-fireworks.ogg
+|   |   |       tracer-she-shoots-she-scores.ogg
+|   |   |       tracer-sorry-im-late.ogg
+|   |   |       tracer-the-world-needs-heroes.ogg
+|   |   |       tracer-time-is-on-my-side.ogg
+|   |   |       tracer-time-out.ogg
+|   |   |       tracer-too-slow.ogg
+|   |   |       tracer-trick-or-treat.ogg
+|   |   |       tracer-under-control.ogg
+|   |   |       tracer-you-got-it.ogg
+|   |   |       tracer-you-need-a-time-out.ogg
+|   |   |       
+|   |   \---weapons
+|   |           tracer-golden.png
 |   |           
 |   +---widowmaker
 |   |   |   career-portrait.png
@@ -4252,6 +4515,7 @@
 |   |   |       
 |   |   +---icons
 |   |   |       widowmaker-baiser.png
+|   |   |       widowmaker-biathlon.png
 |   |   |       widowmaker-black-lily.png
 |   |   |       widowmaker-cute-widowmaker.png
 |   |   |       widowmaker-dor.png
@@ -4293,6 +4557,7 @@
 |   |   |       widowmaker-toast.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       widowmaker-biathlon.jpg
 |   |   |       widowmaker-black-lily.jpg
 |   |   |       widowmaker-ciel.jpg
 |   |   |       widowmaker-classic.jpg
@@ -4307,6 +4572,7 @@
 |   |   |       widowmaker-odile.jpg
 |   |   |       widowmaker-patina.jpg
 |   |   |       widowmaker-rose.jpg
+|   |   |       widowmaker-spider.jpg
 |   |   |       widowmaker-talon.jpg
 |   |   |       widowmaker-tricolore.jpg
 |   |   |       widowmaker-vert.jpg
@@ -4348,33 +4614,37 @@
 |   |   |       widowmaker-widow.png
 |   |   |       widowmaker-widows-kiss.png
 |   |   |       
-|   |   \---voicelines
-|   |           widowmaker-a-perfect-10.ogg
-|   |           widowmaker-a-single-death.ogg
-|   |           widowmaker-always-the-hunters.ogg
-|   |           widowmaker-barking-up-the-wrong-tree.ogg
-|   |           widowmaker-encore.ogg
-|   |           widowmaker-exquisite.ogg
-|   |           widowmaker-i-dont-miss.ogg
-|   |           widowmaker-let-them-eat-cake.ogg
-|   |           widowmaker-look-for-the-woman.ogg
-|   |           widowmaker-magnifique.ogg
-|   |           widowmaker-merry-christmas.ogg
-|   |           widowmaker-morning-spider.ogg
-|   |           widowmaker-one-shot-one-kill.ogg
-|   |           widowmaker-ouh-la-la.ogg
-|   |           widowmaker-rude.ogg
-|   |           widowmaker-sorry.ogg
-|   |           widowmaker-step-into-my-parlor.ogg
-|   |           widowmaker-thats-how-it-is.ogg
-|   |           widowmaker-the-party-is-over.ogg
-|   |           widowmaker-the-performance-begins.ogg
-|   |           widowmaker-the-pleasure-is-mine.ogg
-|   |           widowmaker-to-life-to-death.ogg
-|   |           widowmaker-what-a-bore.ogg
-|   |           widowmaker-whats-an-aimbot.ogg
-|   |           widowmaker-you-have-my-attention.ogg
-|   |           widowmaker-your-emotions.ogg
+|   |   +---voicelines
+|   |   |       widowmaker-a-perfect-10.ogg
+|   |   |       widowmaker-a-single-death.ogg
+|   |   |       widowmaker-always-the-hunters.ogg
+|   |   |       widowmaker-barking-up-the-wrong-tree.ogg
+|   |   |       widowmaker-encore.ogg
+|   |   |       widowmaker-exquisite.ogg
+|   |   |       widowmaker-happy-holidays.ogg
+|   |   |       widowmaker-i-dont-miss.ogg
+|   |   |       widowmaker-let-them-eat-cake.ogg
+|   |   |       widowmaker-look-for-the-woman.ogg
+|   |   |       widowmaker-magnifique.ogg
+|   |   |       widowmaker-merry-christmas.ogg
+|   |   |       widowmaker-morning-spider.ogg
+|   |   |       widowmaker-one-shot-one-kill.ogg
+|   |   |       widowmaker-ouh-la-la.ogg
+|   |   |       widowmaker-rude.ogg
+|   |   |       widowmaker-sorry.ogg
+|   |   |       widowmaker-step-into-my-parlor.ogg
+|   |   |       widowmaker-thats-how-it-is.ogg
+|   |   |       widowmaker-the-party-is-over.ogg
+|   |   |       widowmaker-the-performance-begins.ogg
+|   |   |       widowmaker-the-pleasure-is-mine.ogg
+|   |   |       widowmaker-to-life-to-death.ogg
+|   |   |       widowmaker-what-a-bore.ogg
+|   |   |       widowmaker-whats-an-aimbot.ogg
+|   |   |       widowmaker-you-have-my-attention.ogg
+|   |   |       widowmaker-your-emotions.ogg
+|   |   |       
+|   |   \---weapons
+|   |           widowmaker-golden.png
 |   |           
 |   +---winston
 |   |   |   career-portrait.png
@@ -4444,6 +4714,10 @@
 |   |   |       winston-primal-rage-hd.webm.png
 |   |   |       winston-primal-rage.webm
 |   |   |       winston-primal-rage.webm.png
+|   |   |       winston-pumpkin-hd.webm
+|   |   |       winston-pumpkin-hd.webm.png
+|   |   |       winston-pumpkin.webm
+|   |   |       winston-pumpkin.webm.png
 |   |   |       winston-roll-hd.webm
 |   |   |       winston-roll-hd.webm.png
 |   |   |       winston-roll.webm
@@ -4513,33 +4787,37 @@
 |   |   |       winston-white.png
 |   |   |       winston-wow.png
 |   |   |       
-|   |   \---voicelines
-|   |           winston-cant-keep-a-good-ape-down.ogg
-|   |           winston-curious.ogg
-|   |           winston-dont-get-me-angry.ogg
-|   |           winston-excuse-me.ogg
-|   |           winston-get-a-load-of-this.ogg
-|   |           winston-have-you-seen-my-glasses.ogg
-|   |           winston-how-embarrassing.ogg
-|   |           winston-i-do-not-want-a-banana.ogg
-|   |           winston-i-got-you-something.ogg
-|   |           winston-i-have-the-right-stuff.ogg
-|   |           winston-its-my-time-to-shine.ogg
-|   |           winston-moon-sweet-home.ogg
-|   |           winston-natural-selection.ogg
-|   |           winston-no-monkey-business.ogg
-|   |           winston-oh-its-on.ogg
-|   |           winston-oh-yeah.ogg
-|   |           winston-ooh-scary.ogg
-|   |           winston-party-mode-engaged.ogg
-|   |           winston-peanut-butter.ogg
-|   |           winston-playtimes-over.ogg
-|   |           winston-primal-punch.ogg
-|   |           winston-sorry-about-that.ogg
-|   |           winston-that-was-awesome.ogg
-|   |           winston-the-power-of-science.ogg
-|   |           winston-this-is-not-a-costume.ogg
-|   |           winston-we-have-a-problem.ogg
+|   |   +---voicelines
+|   |   |       winston-boo.ogg
+|   |   |       winston-cant-keep-a-good-ape-down.ogg
+|   |   |       winston-curious.ogg
+|   |   |       winston-dont-get-me-angry.ogg
+|   |   |       winston-excuse-me.ogg
+|   |   |       winston-get-a-load-of-this.ogg
+|   |   |       winston-have-you-seen-my-glasses.ogg
+|   |   |       winston-how-embarrassing.ogg
+|   |   |       winston-i-do-not-want-a-banana.ogg
+|   |   |       winston-i-got-you-something.ogg
+|   |   |       winston-i-have-the-right-stuff.ogg
+|   |   |       winston-its-my-time-to-shine.ogg
+|   |   |       winston-moon-sweet-home.ogg
+|   |   |       winston-natural-selection.ogg
+|   |   |       winston-no-monkey-business.ogg
+|   |   |       winston-oh-its-on.ogg
+|   |   |       winston-oh-yeah.ogg
+|   |   |       winston-ooh-scary.ogg
+|   |   |       winston-party-mode-engaged.ogg
+|   |   |       winston-peanut-butter.ogg
+|   |   |       winston-playtimes-over.ogg
+|   |   |       winston-primal-punch.ogg
+|   |   |       winston-sorry-about-that.ogg
+|   |   |       winston-that-was-awesome.ogg
+|   |   |       winston-the-power-of-science.ogg
+|   |   |       winston-this-is-not-a-costume.ogg
+|   |   |       winston-we-have-a-problem.ogg
+|   |   |       
+|   |   \---weapons
+|   |           winston-golden.png
 |   |           
 |   +---wrecking-ball
 |   |   |   career-portrait.png
@@ -4576,9 +4854,14 @@
 |   |   |       wrecking-ball-bowling.png
 |   |   |       wrecking-ball-reentry.png
 |   |   |       wrecking-ball-rolling.png
+|   |   |       wrecking-ball-scarecrow.png
 |   |   |       wrecking-ball-wrecking-ball.png
 |   |   |       
 |   |   +---intros
+|   |   |       wrecking-ball-festive-hd.webm
+|   |   |       wrecking-ball-festive-hd.webm.png
+|   |   |       wrecking-ball-festive.webm
+|   |   |       wrecking-ball-festive.webm.png
 |   |   |       wrecking-ball-heroic-hd.webm
 |   |   |       wrecking-ball-heroic-hd.webm.png
 |   |   |       wrecking-ball-heroic.webm
@@ -4599,6 +4882,7 @@
 |   |   +---poses
 |   |   |       wrecking-ball-heroic.jpg
 |   |   |       wrecking-ball-lounging.jpg
+|   |   |       wrecking-ball-nibbling.jpg
 |   |   |       wrecking-ball-on-top.jpg
 |   |   |       wrecking-ball-peace.jpg
 |   |   |       wrecking-ball-swing.jpg
@@ -4608,6 +4892,7 @@
 |   |   |       wrecking-ball-chloride.jpg
 |   |   |       wrecking-ball-classic.jpg
 |   |   |       wrecking-ball-horizon.jpg
+|   |   |       wrecking-ball-jackolantern.jpg
 |   |   |       wrecking-ball-junker.jpg
 |   |   |       wrecking-ball-lithium.jpg
 |   |   |       wrecking-ball-lunar.jpg
@@ -4633,31 +4918,42 @@
 |   |   |       wrecking-ball-hoard.png
 |   |   |       wrecking-ball-hungry.png
 |   |   |       wrecking-ball-icon.png
+|   |   |       wrecking-ball-jackolantern.png
 |   |   |       wrecking-ball-moon.png
 |   |   |       wrecking-ball-moonshot.png
+|   |   |       wrecking-ball-ornament.png
 |   |   |       wrecking-ball-pilot.png
 |   |   |       wrecking-ball-pixel.png
 |   |   |       wrecking-ball-plans.png
 |   |   |       wrecking-ball-sleepy.png
 |   |   |       wrecking-ball-smug.png
 |   |   |       wrecking-ball-spinning.png
+|   |   |       wrecking-ball-stocking.png
 |   |   |       wrecking-ball-tool-box.png
+|   |   |       wrecking-ball-trick-or-treat.png
 |   |   |       
-|   |   \---voicelines
-|   |           wrecking-ball-be-the-ball.ogg
-|   |           wrecking-ball-beware-of-small-mammals.ogg
-|   |           wrecking-ball-do-not-disturb.ogg
-|   |           wrecking-ball-frustration-detected.ogg
-|   |           wrecking-ball-he-says-hes-sorry.ogg
-|   |           wrecking-ball-keep-your-eye-on-the-ball.ogg
-|   |           wrecking-ball-no-hard-feelings.ogg
-|   |           wrecking-ball-odds-of-success-increasing.ogg
-|   |           wrecking-ball-profanity-filter-enabled.ogg
-|   |           wrecking-ball-relief-detected.ogg
-|   |           wrecking-ball-shut-down.ogg
-|   |           wrecking-ball-this-is-happening.ogg
-|   |           wrecking-ball-vocabulary-not-found.ogg
-|   |           wrecking-ball-what-he-said.ogg
+|   |   +---voicelines
+|   |   |       wrecking-ball-be-the-ball.ogg
+|   |   |       wrecking-ball-beware-of-small-mammals.ogg
+|   |   |       wrecking-ball-deck-the-halls.ogg
+|   |   |       wrecking-ball-do-not-disturb.ogg
+|   |   |       wrecking-ball-frustration-detected.ogg
+|   |   |       wrecking-ball-he-says-hes-sorry.ogg
+|   |   |       wrecking-ball-heart-rate-increasing.ogg
+|   |   |       wrecking-ball-ho-ho-ho.ogg
+|   |   |       wrecking-ball-keep-your-eye-on-the-ball.ogg
+|   |   |       wrecking-ball-no-hard-feelings.ogg
+|   |   |       wrecking-ball-odds-of-success-increasing.ogg
+|   |   |       wrecking-ball-profanity-filter-enabled.ogg
+|   |   |       wrecking-ball-relief-detected.ogg
+|   |   |       wrecking-ball-shut-down.ogg
+|   |   |       wrecking-ball-this-is-happening.ogg
+|   |   |       wrecking-ball-trick-or-treat.ogg
+|   |   |       wrecking-ball-vocabulary-not-found.ogg
+|   |   |       wrecking-ball-what-he-said.ogg
+|   |   |       
+|   |   \---weapons
+|   |           wrecking-ball-golden.png
 |   |           
 |   +---zarya
 |   |   |   career-portrait.png
@@ -4702,6 +4998,7 @@
 |   |   |       zarya-512.png
 |   |   |       zarya-cute-zarya.png
 |   |   |       zarya-particle-barrier.png
+|   |   |       zarya-snowboarder.png
 |   |   |       zarya-totally-80s.png
 |   |   |       zarya-weightlifting.png
 |   |   |       zarya-zarya.png
@@ -4754,6 +5051,7 @@
 |   |   |       zarya-industrial.jpg
 |   |   |       zarya-midnight.jpg
 |   |   |       zarya-siberian-front.jpg
+|   |   |       zarya-snowboarder.jpg
 |   |   |       zarya-taiga.jpg
 |   |   |       zarya-totally-80s.jpg
 |   |   |       zarya-violet.jpg
@@ -4796,34 +5094,38 @@
 |   |   |       zarya-weights.png
 |   |   |       zarya-wrestle.png
 |   |   |       
-|   |   \---voicelines
-|   |           zarya-cool-it.ogg
-|   |           zarya-dont-be-scared.ogg
-|   |           zarya-feel-the-burn.ogg
-|   |           zarya-for-the-motherland.ogg
-|   |           zarya-get-down-give-me-20.ogg
-|   |           zarya-get-pumped.ogg
-|   |           zarya-i-am-mother-russia.ogg
-|   |           zarya-i-can-bench-more-than-you.ogg
-|   |           zarya-i-was-born-in-battle.ogg
-|   |           zarya-i-will-break-you.ogg
-|   |           zarya-in-russia-game-plays-you.ogg
-|   |           zarya-is-that-all.ogg
-|   |           zarya-its-only-a-game.ogg
-|   |           zarya-lets-get-physical.ogg
-|   |           zarya-need-personal-training.ogg
-|   |           zarya-never-forget-the-fallen.ogg
-|   |           zarya-no-mercy.ogg
-|   |           zarya-no-pain-no-gain.ogg
-|   |           zarya-peace-through-firepower.ogg
-|   |           zarya-ready-to-give-up.ogg
-|   |           zarya-russian-judge.ogg
-|   |           zarya-siberian-bear.ogg
-|   |           zarya-strong-as-the-mountain.ogg
-|   |           zarya-together-we-are-strong.ogg
-|   |           zarya-welcome-to-the-gun-show.ogg
-|   |           zarya-where-the-dog-is-buried.ogg
-|   |           zarya-you-have-failed-your-team.ogg
+|   |   +---voicelines
+|   |   |       zarya-cool-it.ogg
+|   |   |       zarya-dont-be-scared.ogg
+|   |   |       zarya-feel-the-burn.ogg
+|   |   |       zarya-for-the-motherland.ogg
+|   |   |       zarya-get-down-give-me-20.ogg
+|   |   |       zarya-get-pumped.ogg
+|   |   |       zarya-i-am-mother-russia.ogg
+|   |   |       zarya-i-can-bench-more-than-you.ogg
+|   |   |       zarya-i-was-born-in-battle.ogg
+|   |   |       zarya-i-will-break-you.ogg
+|   |   |       zarya-in-russia-game-plays-you.ogg
+|   |   |       zarya-is-it-cold-in-here.ogg
+|   |   |       zarya-is-that-all.ogg
+|   |   |       zarya-its-only-a-game.ogg
+|   |   |       zarya-lets-get-physical.ogg
+|   |   |       zarya-need-personal-training.ogg
+|   |   |       zarya-never-forget-the-fallen.ogg
+|   |   |       zarya-no-mercy.ogg
+|   |   |       zarya-no-pain-no-gain.ogg
+|   |   |       zarya-peace-through-firepower.ogg
+|   |   |       zarya-ready-to-give-up.ogg
+|   |   |       zarya-russian-judge.ogg
+|   |   |       zarya-siberian-bear.ogg
+|   |   |       zarya-strong-as-the-mountain.ogg
+|   |   |       zarya-together-we-are-strong.ogg
+|   |   |       zarya-welcome-to-the-gun-show.ogg
+|   |   |       zarya-where-the-dog-is-buried.ogg
+|   |   |       zarya-you-have-failed-your-team.ogg
+|   |   |       
+|   |   \---weapons
+|   |           zarya-golden.png
 |   |           
 |   \---zenyatta
 |       |   career-portrait.png
@@ -4963,30 +5265,35 @@
 |       |       zenyatta-trick-or-treat.png
 |       |       zenyatta-yut-nori.png
 |       |       
-|       \---voicelines
-|               zenyatta-death-is-whimsical-today.ogg
-|               zenyatta-do-i-think.ogg
-|               zenyatta-every-rooster-crows.ogg
-|               zenyatta-existence-is-mysterious.ogg
-|               zenyatta-form-is-temporary.ogg
-|               zenyatta-fortune-favors-me.ogg
-|               zenyatta-free-your-mind.ogg
-|               zenyatta-frightening.ogg
-|               zenyatta-hello-world.ogg
-|               zenyatta-how-amusing.ogg
-|               zenyatta-how-disappointing.ogg
-|               zenyatta-i-dreamt-i-was-a-butterfly.ogg
-|               zenyatta-i-think-therefore-i-am.ogg
-|               zenyatta-i-will-not-juggle.ogg
-|               zenyatta-joy-to-the-world.ogg
-|               zenyatta-no-snowflake.ogg
-|               zenyatta-ones-and-zeroes.ogg
-|               zenyatta-path-to-enlightenment.ogg
-|               zenyatta-patience.ogg
-|               zenyatta-peace-and-blessings.ogg
-|               zenyatta-strive-for-improvement.ogg
-|               zenyatta-the-iris-embraces-you.ogg
-|               zenyatta-trick-or-treat.ogg
-|               zenyatta-we-are-in-harmony.ogg
-|               zenyatta-where-youre-headed.ogg
-|               zenyatta-your-lesson-for-today.ogg
+|       +---voicelines
+|       |       zenyatta-death-is-whimsical-today.ogg
+|       |       zenyatta-do-i-think.ogg
+|       |       zenyatta-every-rooster-crows.ogg
+|       |       zenyatta-existence-is-mysterious.ogg
+|       |       zenyatta-form-is-temporary.ogg
+|       |       zenyatta-fortune-favors-me.ogg
+|       |       zenyatta-free-your-mind.ogg
+|       |       zenyatta-frightening.ogg
+|       |       zenyatta-hello-world.ogg
+|       |       zenyatta-how-amusing.ogg
+|       |       zenyatta-how-disappointing.ogg
+|       |       zenyatta-i-dreamt-i-was-a-butterfly.ogg
+|       |       zenyatta-i-think-therefore-i-am.ogg
+|       |       zenyatta-i-will-not-juggle.ogg
+|       |       zenyatta-joy-to-the-world.ogg
+|       |       zenyatta-no-snowflake.ogg
+|       |       zenyatta-ones-and-zeroes.ogg
+|       |       zenyatta-path-to-enlightenment.ogg
+|       |       zenyatta-patience.ogg
+|       |       zenyatta-peace-and-blessings.ogg
+|       |       zenyatta-strive-for-improvement.ogg
+|       |       zenyatta-the-iris-embraces-you.ogg
+|       |       zenyatta-trick-or-treat.ogg
+|       |       zenyatta-we-are-in-harmony.ogg
+|       |       zenyatta-where-youre-headed.ogg
+|       |       zenyatta-your-lesson-for-today.ogg
+|       |       
+|       \---weapons
+|               zenyatta-golden.png
+|             
+
