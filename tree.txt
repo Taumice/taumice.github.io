@@ -40,7 +40,9 @@
 |   |   |       colossus.png
 |   |   |       competitive-3v3-group-elimination-competitor.png
 |   |   |       competitive-3v3-group-elimination-hero.png
+|   |   |       competitive-6v6-elimination-competitor-2019.png
 |   |   |       competitive-6v6-elimination-competitor.png
+|   |   |       competitive-6v6-elimination-hero-2019.png
 |   |   |       competitive-6v6-elimination-hero.png
 |   |   |       competitive-ctf-competitor-2019.png
 |   |   |       competitive-ctf-competitor.png
@@ -196,6 +198,8 @@
 |   |   |       season-13-hero.png
 |   |   |       season-14-competitor.png
 |   |   |       season-14-hero.png
+|   |   |       season-15-competitor.png
+|   |   |       season-15-hero.png
 |   |   |       season-2-competitor.png
 |   |   |       season-2-hero.png
 |   |   |       season-3-competitor.png
@@ -300,7 +304,9 @@
 |   |           chengdu-hunters-logo.png
 |   |           competitive-3v3-group-elimination-competitor.png
 |   |           competitive-3v3-group-elimination-hero.png
+|   |           competitive-6v6-elimination-competitor-2019.png
 |   |           competitive-6v6-elimination-competitor.png
+|   |           competitive-6v6-elimination-hero-2019.png
 |   |           competitive-6v6-elimination-hero.png
 |   |           competitive-ctf-competitor-2019.png
 |   |           competitive-ctf-competitor.png
@@ -403,6 +409,8 @@
 |   |           season-13-hero.png
 |   |           season-14-competitor.png
 |   |           season-14-hero.png
+|   |           season-15-competitor.png
+|   |           season-15-hero.png
 |   |           season-2-competitor.png
 |   |           season-2-hero.png
 |   |           season-3-competitor.png
@@ -737,6 +745,76 @@
 |   |   \---weapons
 |   |           ashe-golden.png
 |   |           
+|   +---baptiste
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---icons
+|   |   |       baptiste-baptiste.png
+|   |   |       baptiste-goddess.png
+|   |   |       baptiste-kraken.png
+|   |   |       
+|   |   +---poses
+|   |   |       baptiste-heroic.jpg
+|   |   |       baptiste-on-alert.jpg
+|   |   |       baptiste-peace-out.jpg
+|   |   |       baptiste-say-cheese.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       baptiste-ble.jpg
+|   |   |       baptiste-buccaneer.jpg
+|   |   |       baptiste-camouflage.jpg
+|   |   |       baptiste-classic.jpg
+|   |   |       baptiste-desert-ops.jpg
+|   |   |       baptiste-pirate.jpg
+|   |   |       baptiste-spec-ops.jpg
+|   |   |       baptiste-vt.jpg
+|   |   |       baptiste-vyolt.jpg
+|   |   |       baptiste-wasteland.jpg
+|   |   |       baptiste-wouj.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       baptiste-attention.png
+|   |   |       baptiste-baptiste.png
+|   |   |       baptiste-choices.png
+|   |   |       baptiste-close-shave.png
+|   |   |       baptiste-cool-story.png
+|   |   |       baptiste-cute.png
+|   |   |       baptiste-do-you-even-lift.png
+|   |   |       baptiste-goddess.png
+|   |   |       baptiste-hammock.png
+|   |   |       baptiste-helmet.png
+|   |   |       baptiste-hey-there.png
+|   |   |       baptiste-icon.png
+|   |   |       baptiste-immortal.png
+|   |   |       baptiste-lieutenant-augustin.png
+|   |   |       baptiste-long-shadows.png
+|   |   |       baptiste-maneuvers.png
+|   |   |       baptiste-mission-complete.png
+|   |   |       baptiste-one-up.png
+|   |   |       baptiste-origin.png
+|   |   |       baptiste-pixel.png
+|   |   |       baptiste-schematic.png
+|   |   |       baptiste-taunt.png
+|   |   |       baptiste-too-powerful.png
+|   |   |       baptiste-tropical.png
+|   |   |       baptiste-watchful.png
+|   |   |       
+|   |   \---voicelines
+|   |           baptiste-an-apple-a-day.ogg
+|   |           baptiste-appreciation.ogg
+|   |           baptiste-bandage.ogg
+|   |           baptiste-buy-you-a-drink.ogg
+|   |           baptiste-damn.ogg
+|   |           baptiste-expert-opinion.ogg
+|   |           baptiste-going-to-sting.ogg
+|   |           baptiste-settle-down.ogg
+|   |           baptiste-some-kind-of-angel.ogg
+|   |           baptiste-survival-tip.ogg
+|   |           baptiste-times-up-pencils-down.ogg
+|   |           baptiste-what-are-you-trying-to-pull.ogg
+|   |           
 |   +---bastion
 |   |   |   career-portrait.png
 |   |   |   icon.png
@@ -984,6 +1062,7 @@
 |   |   |       brigitte-pumpkin.jpg
 |   |   |       brigitte-rally.jpg
 |   |   |       brigitte-relaxed.jpg
+|   |   |       brigitte-toast.jpg
 |   |   |       
 |   |   +---skins
 |   |   |       brigitte-bla.jpg
@@ -1149,6 +1228,7 @@
 |   |   |       doomfist-pumpkin.jpg
 |   |   |       doomfist-seismic-slam.jpg
 |   |   |       doomfist-superior.jpg
+|   |   |       doomfist-toast.jpg
 |   |   |       
 |   |   +---skins
 |   |   |       doomfist-avatar.jpg
@@ -1846,6 +1926,7 @@
 |   |   |       junkrat-nyah-nyah.jpg
 |   |   |       junkrat-pumpkin.jpg
 |   |   |       junkrat-rip.jpg
+|   |   |       junkrat-toast.jpg
 |   |   |       
 |   |   +---skins
 |   |   |       junkrat-beachrat.jpg
@@ -2736,6 +2817,7 @@
 |   |   |       moira-prim.jpg
 |   |   |       moira-pumpkin.jpg
 |   |   |       moira-steepling.jpg
+|   |   |       moira-toast.jpg
 |   |   |       
 |   |   +---skins
 |   |   |       moira-banshee.jpg
@@ -3242,6 +3324,7 @@
 |   |   |       reaper-rip.jpg
 |   |   |       reaper-shrug.jpg
 |   |   |       reaper-stockpile.jpg
+|   |   |       reaper-toast.jpg
 |   |   |       
 |   |   +---skins
 |   |   |       reaper-biker.jpg
@@ -4467,6 +4550,7 @@
 |   |   |       tracer-rip.jpg
 |   |   |       tracer-salute.jpg
 |   |   |       tracer-sitting.jpg
+|   |   |       tracer-toast.jpg
 |   |   |       tracer-wink.jpg
 |   |   |       
 |   |   +---skins
@@ -5388,4 +5472,4 @@
 |       |       
 |       \---weapons
 |               zenyatta-golden.png
-|               
+|
