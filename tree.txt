@@ -3,13 +3,20 @@
 |   |   +---icons
 |   |   |       16bit-hero.png
 |   |   |       2017.png
+|   |   |       2018-atlantic-allstars.png
+|   |   |       2018-pacific-allstars.png
 |   |   |       2018.png
+|   |   |       2019-atlantic-allstars.png
+|   |   |       2019-pacific-allstars.png
 |   |   |       2019.png
 |   |   |       anniversary-2017.png
 |   |   |       anniversary-2018.png
+|   |   |       anniversary-2019.png
 |   |   |       anubis.png
 |   |   |       archives-2018.png
+|   |   |       archives-2019.png
 |   |   |       argentina.png
+|   |   |       arthas.png
 |   |   |       assassin.png
 |   |   |       atlanta-reign.png
 |   |   |       atlantic-allstars-2018.png
@@ -38,26 +45,43 @@
 |   |   |       china.png
 |   |   |       coin.png
 |   |   |       colossus.png
+|   |   |       competitive-3v3-elimination-competitor-2018.png
+|   |   |       competitive-3v3-elimination-competitor-2019.png
+|   |   |       competitive-3v3-elimination-hero-2018.png
+|   |   |       competitive-3v3-elimination-hero-2019.png
 |   |   |       competitive-3v3-group-elimination-competitor.png
 |   |   |       competitive-3v3-group-elimination-hero.png
+|   |   |       competitive-6v6-elimination-competitor-2018.png
 |   |   |       competitive-6v6-elimination-competitor-2019.png
 |   |   |       competitive-6v6-elimination-competitor.png
+|   |   |       competitive-6v6-elimination-hero-2018.png
 |   |   |       competitive-6v6-elimination-hero-2019.png
 |   |   |       competitive-6v6-elimination-hero.png
+|   |   |       competitive-ctf-competitor-2018.png
 |   |   |       competitive-ctf-competitor-2019.png
 |   |   |       competitive-ctf-competitor.png
+|   |   |       competitive-ctf-hero-2018.png
 |   |   |       competitive-ctf-hero-2019.png
 |   |   |       competitive-ctf-hero.png
+|   |   |       competitive-deathmatch-competitor-2018.png
+|   |   |       competitive-deathmatch-competitor-2019.png
 |   |   |       competitive-deathmatch-competitor.png
+|   |   |       competitive-deathmatch-hero-2018.png
+|   |   |       competitive-deathmatch-hero-2019.png
 |   |   |       competitive-deathmatch-hero.png
+|   |   |       competitive-team-deathmatch-competitor-2019.png
 |   |   |       competitive-team-deathmatch-competitor.png
+|   |   |       competitive-team-deathmatch-hero-2019.png
 |   |   |       competitive-team-deathmatch-hero.png
 |   |   |       copa-lucioball-competitor-2018.png
+|   |   |       copa-lucioball-competitor-2019.png
 |   |   |       copa-lucioball-competitor.png
 |   |   |       copa-lucioball-hero-2018.png
+|   |   |       copa-lucioball-hero-2019.png
 |   |   |       copa-lucioball-hero.png
 |   |   |       credit.png
 |   |   |       crusader.png
+|   |   |       cupachicake.png
 |   |   |       dallas-fuel.png
 |   |   |       dark-lady.png
 |   |   |       dark-wanderer.png
@@ -74,6 +98,7 @@
 |   |   |       eyeball.png
 |   |   |       finland.png
 |   |   |       florida-mayhem.png
+|   |   |       footballmari.png
 |   |   |       for-the-alliance.png
 |   |   |       for-the-horde.png
 |   |   |       fortune.png
@@ -87,12 +112,14 @@
 |   |   |       gingermari.png
 |   |   |       gold.png
 |   |   |       good-fortune.png
+|   |   |       grand-finals-2019.png
 |   |   |       greece.png
 |   |   |       guan-yu.png
 |   |   |       guangzhou-charge.png
 |   |   |       halloween-terror-2016.png
 |   |   |       halloween-terror-2017.png
 |   |   |       halloween-terror-2018.png
+|   |   |       halloween-terror-2019.png
 |   |   |       hangzhou-spark.png
 |   |   |       happy-squid.png
 |   |   |       have-fish.png
@@ -114,10 +141,13 @@
 |   |   |       jim.png
 |   |   |       jordan.png
 |   |   |       junkensteins-pachimonster.png
+|   |   |       kelthuzad.png
+|   |   |       kittymari.png
 |   |   |       kofi-aromo.png
 |   |   |       kul-tiras.png
 |   |   |       l-bu.png
 |   |   |       lantern.png
+|   |   |       lich-king-1.png
 |   |   |       lich-king.png
 |   |   |       lion-dance.png
 |   |   |       london-spitfire.png
@@ -165,6 +195,7 @@
 |   |   |       paqingmari.png
 |   |   |       paquemari.png
 |   |   |       paris-eternal.png
+|   |   |       path-to-pro.png
 |   |   |       peachimari.png
 |   |   |       peppermint.png
 |   |   |       pharaoh.png
@@ -174,6 +205,7 @@
 |   |   |       present.png
 |   |   |       protoss.png
 |   |   |       pumpkimari.png
+|   |   |       punchimari.png
 |   |   |       qinglong.png
 |   |   |       queen-of-blades.png
 |   |   |       ramen.png
@@ -200,6 +232,14 @@
 |   |   |       season-14-hero.png
 |   |   |       season-15-competitor.png
 |   |   |       season-15-hero.png
+|   |   |       season-16-competitor.png
+|   |   |       season-16-hero.png
+|   |   |       season-17-competitor.png
+|   |   |       season-17-hero.png
+|   |   |       season-18-competitor.png
+|   |   |       season-18-hero.png
+|   |   |       season-19-competitor.png
+|   |   |       season-19-hero.png
 |   |   |       season-2-competitor.png
 |   |   |       season-2-hero.png
 |   |   |       season-3-competitor.png
@@ -234,19 +274,23 @@
 |   |   |       summer-games-2016.png
 |   |   |       summer-games-2017.png
 |   |   |       summer-games-2018.png
+|   |   |       summer-games-2019.png
 |   |   |       superstition.png
 |   |   |       svyatogor.png
 |   |   |       sweden.png
 |   |   |       switzerland.png
 |   |   |       tangerines.png
 |   |   |       tannenbaum.png
+|   |   |       tennismari.png
 |   |   |       terran.png
+|   |   |       thrall.png
 |   |   |       tombstone.png
 |   |   |       top-500.png
 |   |   |       toronto-defiant.png
 |   |   |       totem.png
 |   |   |       training-bot.png
 |   |   |       trooper.png
+|   |   |       tyrande.png
 |   |   |       united-kingdom.png
 |   |   |       united-states-of-america.png
 |   |   |       uprising-2017.png
@@ -280,6 +324,8 @@
 |   |   |       
 |   |   \---sprays
 |   |           1-fan.png
+|   |           almendron.png
+|   |           ambush.png
 |   |           anduin.png
 |   |           anniversary-2017.png
 |   |           anniversary.png
@@ -293,8 +339,10 @@
 |   |           bats.png
 |   |           beyond-the-moon.png
 |   |           bicycle-kick.png
+|   |           big-plans.png
 |   |           bonk.png
 |   |           boo.png
+|   |           boo0f1.png
 |   |           boop.png
 |   |           boston-uprising-logo.png
 |   |           candyball.png
@@ -302,25 +350,41 @@
 |   |           catcher.png
 |   |           caution.png
 |   |           chengdu-hunters-logo.png
+|   |           competitive-3v3-elimination-competitor-2018.png
+|   |           competitive-3v3-elimination-competitor-2019.png
+|   |           competitive-3v3-elimination-hero-2018.png
+|   |           competitive-3v3-elimination-hero-2019.png
 |   |           competitive-3v3-group-elimination-competitor.png
 |   |           competitive-3v3-group-elimination-hero.png
+|   |           competitive-6v6-elimination-competitor-2018.png
 |   |           competitive-6v6-elimination-competitor-2019.png
 |   |           competitive-6v6-elimination-competitor.png
+|   |           competitive-6v6-elimination-hero-2018.png
 |   |           competitive-6v6-elimination-hero-2019.png
 |   |           competitive-6v6-elimination-hero.png
+|   |           competitive-ctf-competitor-2018.png
 |   |           competitive-ctf-competitor-2019.png
 |   |           competitive-ctf-competitor.png
 |   |           competitive-ctf-hero-2019.png
 |   |           competitive-ctf-hero.png
+|   |           competitive-deathmatch-competitor-2018.png
+|   |           competitive-deathmatch-competitor-2019.png
 |   |           competitive-deathmatch-competitor.png
+|   |           competitive-deathmatch-hero-2018.png
+|   |           competitive-deathmatch-hero-2019.png
 |   |           competitive-deathmatch-hero.png
+|   |           competitive-team-deathmatch-competitor-2019.png
 |   |           competitive-team-deathmatch-competitor.png
+|   |           competitive-team-deathmatch-hero-2019.png
 |   |           competitive-team-deathmatch-hero.png
 |   |           copa-lucioball-competitor-2018.png
+|   |           copa-lucioball-competitor-2019.png
 |   |           copa-lucioball-competitor.png
 |   |           copa-lucioball-hero-2018.png
+|   |           copa-lucioball-hero-2019.png
 |   |           copa-lucioball-hero.png
 |   |           crusader.png
+|   |           cut-the-brakes.png
 |   |           da-de-los-muertos.png
 |   |           dallas-fuel-logo.png
 |   |           dance.png
@@ -347,6 +411,7 @@
 |   |           halloween-special.png
 |   |           halloween-terror.png
 |   |           hangzhou-spark-logo.png
+|   |           hot-pursuit.png
 |   |           houston-outlaws-logo.png
 |   |           inaugural-season.png
 |   |           interrupted-delivery.png
@@ -354,6 +419,7 @@
 |   |           jaina.png
 |   |           junkensteins-revenge.png
 |   |           leek.png
+|   |           light-the-way.png
 |   |           living-room.png
 |   |           logo.png
 |   |           london-spitfire-logo.png
@@ -366,6 +432,7 @@
 |   |           monk.png
 |   |           my-creations.png
 |   |           never-die.png
+|   |           new-strike-team.png
 |   |           new-york-excelsior-logo.png
 |   |           null-sector.png
 |   |           nullmari.png
@@ -373,6 +440,7 @@
 |   |           numbani-statue.png
 |   |           omnic-rights.png
 |   |           oops.png
+|   |           oops0f1.png
 |   |           or14ns.png
 |   |           out-of-my-way.png
 |   |           overwatch-league.png
@@ -380,6 +448,7 @@
 |   |           overwatch.png
 |   |           pachimari.png
 |   |           paris-eternal-logo.png
+|   |           path-to-pro-2019.png
 |   |           philadelphia-fusion-logo.png
 |   |           piata.png
 |   |           pumpkins.png
@@ -394,7 +463,9 @@
 |   |           rise.png
 |   |           safe-hands.png
 |   |           san-francisco-shock-logo.png
+|   |           sand-castle.png
 |   |           sarcophagus.png
+|   |           saurfang.png
 |   |           scooter.png
 |   |           scroll.png
 |   |           season-1-competitor.png
@@ -411,6 +482,14 @@
 |   |           season-14-hero.png
 |   |           season-15-competitor.png
 |   |           season-15-hero.png
+|   |           season-16-competitor.png
+|   |           season-16-hero.png
+|   |           season-17-competitor.png
+|   |           season-17-hero.png
+|   |           season-18-competitor.png
+|   |           season-18-hero.png
+|   |           season-19-competitor.png
+|   |           season-19-hero.png
 |   |           season-2-competitor.png
 |   |           season-2-hero.png
 |   |           season-3-competitor.png
@@ -429,9 +508,11 @@
 |   |           season-9-hero.png
 |   |           seoul-dynasty-logo.png
 |   |           shanghai-dragons-logo.png
+|   |           shark-attack.png
 |   |           siege-mode.png
 |   |           sixgun-killer.png
 |   |           slicer.png
+|   |           snorkling.png
 |   |           snowcer.png
 |   |           snowcree.png
 |   |           snowhog.png
@@ -440,10 +521,12 @@
 |   |           snowscientist.png
 |   |           sol.png
 |   |           sorry.png
+|   |           sorry0f1.png
 |   |           soulstone.png
 |   |           summer-games-2016.png
 |   |           summer-games.png
 |   |           sylvanas.png
+|   |           tailgate.png
 |   |           talon-assassin.png
 |   |           talon-enforcer.png
 |   |           talon-heavy-assault.png
@@ -451,6 +534,8 @@
 |   |           talon-trooper.png
 |   |           tea-time.png
 |   |           thanks.png
+|   |           thanks0f1.png
+|   |           the-broker.png
 |   |           the-monster.png
 |   |           the-reapening.png
 |   |           the-reaper.png
@@ -461,19 +546,24 @@
 |   |           victory.png
 |   |           vivis-adventure.png
 |   |           washington-justice-logo.png
+|   |           watching-ball.png
+|   |           watchparty-gibraltar.png
 |   |           watchpoint-gibraltar.png
 |   |           well-played.png
+|   |           well-played0f1.png
 |   |           winter-wonderland.png
 |   |           witch-doctor.png
 |   |           witchs-brew.png
 |   |           wizard.png
 |   |           year-of-the-dog-2018.png
+|   |           year-of-the-dog.png
 |   |           year-of-the-rooster-2017.png
 |   |           year-of-the-rooster.png
 |   |           yeti-hunter.png
 |   |           yeti-rage.png
 |   |           yeti.png
 |   |           you-are-not-prepared.png
+|   |           you-are-not-prepared0f1.png
 |   |           zombardier.png
 |   |           zomnic.png
 |   |           
@@ -531,6 +621,7 @@
 |   |   |       ana-cabana.png
 |   |   |       ana-corsair.png
 |   |   |       ana-cute-ana.png
+|   |   |       ana-mummy.png
 |   |   |       ana-shooting.png
 |   |   |       ana-snow-owl.png
 |   |   |       ana-watcher.png
@@ -562,6 +653,7 @@
 |   |   |       ana-folded-hands.jpg
 |   |   |       ana-heroic.jpg
 |   |   |       ana-kneeling.jpg
+|   |   |       ana-medal.jpg
 |   |   |       ana-mission-complete.jpg
 |   |   |       ana-protector.jpg
 |   |   |       ana-rip.jpg
@@ -580,6 +672,7 @@
 |   |   |       ana-horus.jpg
 |   |   |       ana-merciful.jpg
 |   |   |       ana-peridot.jpg
+|   |   |       ana-pharaoh.jpg
 |   |   |       ana-shrike.jpg
 |   |   |       ana-snow-owl.jpg
 |   |   |       ana-tal.jpg
@@ -606,6 +699,7 @@
 |   |   |       ana-icon.png
 |   |   |       ana-letter.png
 |   |   |       ana-mask.png
+|   |   |       ana-mummy.png
 |   |   |       ana-newborn.png
 |   |   |       ana-old-soldier.png
 |   |   |       ana-on-the-prowl.png
@@ -632,6 +726,7 @@
 |   |   |       ana-better-than-retirement.ogg
 |   |   |       ana-children-behave.ogg
 |   |   |       ana-damn.ogg
+|   |   |       ana-do-less.ogg
 |   |   |       ana-dont-be-scared.ogg
 |   |   |       ana-everyone-dies.ogg
 |   |   |       ana-follow-me.ogg
@@ -664,15 +759,69 @@
 |   |   |   icon.png
 |   |   |   portrait.png
 |   |   |   
+|   |   +---emotes
+|   |   |       ashe-dynamite-hd.webm
+|   |   |       ashe-dynamite-hd.webm.png
+|   |   |       ashe-dynamite.webm
+|   |   |       ashe-dynamite.webm.png
+|   |   |       ashe-flourish-hd.webm
+|   |   |       ashe-flourish-hd.webm.png
+|   |   |       ashe-flourish.webm
+|   |   |       ashe-flourish.webm.png
+|   |   |       ashe-heroic-hd.webm
+|   |   |       ashe-heroic-hd.webm.png
+|   |   |       ashe-heroic.webm
+|   |   |       ashe-heroic.webm.png
+|   |   |       ashe-laugh-hd.webm
+|   |   |       ashe-laugh-hd.webm.png
+|   |   |       ashe-laugh.webm
+|   |   |       ashe-laugh.webm.png
+|   |   |       ashe-slow-clap-hd.webm
+|   |   |       ashe-slow-clap-hd.webm.png
+|   |   |       ashe-slow-clap.webm
+|   |   |       ashe-slow-clap.webm.png
+|   |   |       ashe-take-a-knee-hd.webm
+|   |   |       ashe-take-a-knee-hd.webm.png
+|   |   |       ashe-take-a-knee.webm
+|   |   |       ashe-take-a-knee.webm.png
+|   |   |       
 |   |   +---icons
 |   |   |       ashe-ashe.png
 |   |   |       ashe-bob.png
+|   |   |       ashe-butler.png
 |   |   |       ashe-deadlock-rebels.png
+|   |   |       ashe-rich-ashe.png
+|   |   |       ashe-shooting.png
+|   |   |       ashe-summoned.png
+|   |   |       ashe-warlock.png
+|   |   |       
+|   |   +---intros
+|   |   |       ashe-ashe-and-bob-hd.webm
+|   |   |       ashe-ashe-and-bob-hd.webm.png
+|   |   |       ashe-ashe-and-bob.webm
+|   |   |       ashe-ashe-and-bob.webm.png
+|   |   |       ashe-bullet-walk-hd.webm
+|   |   |       ashe-bullet-walk-hd.webm.png
+|   |   |       ashe-bullet-walk.webm
+|   |   |       ashe-bullet-walk.webm.png
+|   |   |       ashe-heroic-hd.webm
+|   |   |       ashe-heroic-hd.webm.png
+|   |   |       ashe-heroic.webm
+|   |   |       ashe-heroic.webm.png
+|   |   |       ashe-scream-queen-hd.webm
+|   |   |       ashe-scream-queen-hd.webm.png
+|   |   |       ashe-scream-queen.webm
+|   |   |       ashe-scream-queen.webm.png
+|   |   |       ashe-standoff-hd.webm
+|   |   |       ashe-standoff-hd.webm.png
+|   |   |       ashe-standoff.webm
+|   |   |       ashe-standoff.webm.png
 |   |   |       
 |   |   +---poses
 |   |   |       ashe-heroic.jpg
 |   |   |       ashe-kneeling.jpg
 |   |   |       ashe-lighting-the-fuse.jpg
+|   |   |       ashe-medal.jpg
 |   |   |       ashe-over-the-shoulder.jpg
 |   |   |       ashe-relaxing.jpg
 |   |   |       
@@ -684,9 +833,11 @@
 |   |   |       ashe-paintbrush.jpg
 |   |   |       ashe-posh.jpg
 |   |   |       ashe-safari.jpg
+|   |   |       ashe-socialite.jpg
 |   |   |       ashe-sunflower.jpg
 |   |   |       ashe-tansy.jpg
 |   |   |       ashe-thorn.jpg
+|   |   |       ashe-warlock.jpg
 |   |   |       ashe-winter.jpg
 |   |   |       ashe-yucca.jpg
 |   |   |       
@@ -700,6 +851,7 @@
 |   |   |       ashe-cute.png
 |   |   |       ashe-dashing.png
 |   |   |       ashe-dragon-dance.png
+|   |   |       ashe-eight-of-diamonds.png
 |   |   |       ashe-exchange.png
 |   |   |       ashe-fire-in-the-hole.png
 |   |   |       ashe-firing.png
@@ -712,27 +864,37 @@
 |   |   |       ashe-ornament.png
 |   |   |       ashe-outline.png
 |   |   |       ashe-pixel.png
+|   |   |       ashe-playground-victory.png
 |   |   |       ashe-rebels.png
 |   |   |       ashe-red-envelopes.png
 |   |   |       ashe-relaxed.png
 |   |   |       ashe-road-closed.png
+|   |   |       ashe-seven-of-spades.png
+|   |   |       ashe-shooting.png
 |   |   |       ashe-snowball-fight.png
 |   |   |       ashe-sweat.png
 |   |   |       ashe-taking-aim.png
 |   |   |       ashe-tea-time.png
 |   |   |       ashe-tie.png
+|   |   |       ashe-trick-or-treat.png
 |   |   |       ashe-triplets.png
 |   |   |       ashe-wanted.png
+|   |   |       ashe-warlock.png
 |   |   |       
 |   |   +---voicelines
 |   |   |       ashe-burn-it-all-down.ogg
+|   |   |       ashe-do-you-trust-me.ogg
+|   |   |       ashe-fetch-my-butler.ogg
 |   |   |       ashe-girl-who-has-everything.ogg
 |   |   |       ashe-how-do-you-even-live.ogg
 |   |   |       ashe-i-run-this-show.ogg
 |   |   |       ashe-im-a-rebel.ogg
+|   |   |       ashe-im-an-easy-rider.ogg
 |   |   |       ashe-its-a-giving-time-of-year.ogg
 |   |   |       ashe-just-taking-out-the-trash.ogg
+|   |   |       ashe-life-is-a-highway.ogg
 |   |   |       ashe-lifes-little-pleasures.ogg
+|   |   |       ashe-mind-your-manners.ogg
 |   |   |       ashe-need-me-to-repeat-myself.ogg
 |   |   |       ashe-no-one-likes-a-squealer.ogg
 |   |   |       ashe-ready-for-the-fireworks.ogg
@@ -741,6 +903,7 @@
 |   |   |       ashe-try-and-keep-it-together.ogg
 |   |   |       ashe-watch-your-language.ogg
 |   |   |       ashe-we-have-an-understanding.ogg
+|   |   |       ashe-you-wanna-try-me.ogg
 |   |   |       
 |   |   \---weapons
 |   |           ashe-golden.png
@@ -750,10 +913,63 @@
 |   |   |   icon.png
 |   |   |   portrait.png
 |   |   |   
+|   |   +---emotes
+|   |   |       baptiste-come-at-me-hd.webm
+|   |   |       baptiste-come-at-me-hd.webm.png
+|   |   |       baptiste-come-at-me.webm
+|   |   |       baptiste-come-at-me.webm.png
+|   |   |       baptiste-good-one-hd.webm
+|   |   |       baptiste-good-one-hd.webm.png
+|   |   |       baptiste-good-one.webm
+|   |   |       baptiste-good-one.webm.png
+|   |   |       baptiste-heroic-hd.webm
+|   |   |       baptiste-heroic-hd.webm.png
+|   |   |       baptiste-heroic.webm
+|   |   |       baptiste-heroic.webm.png
+|   |   |       baptiste-nice-smile-hd.webm
+|   |   |       baptiste-nice-smile-hd.webm.png
+|   |   |       baptiste-nice-smile.webm
+|   |   |       baptiste-nice-smile.webm.png
+|   |   |       baptiste-scout-hd.webm
+|   |   |       baptiste-scout-hd.webm.png
+|   |   |       baptiste-scout.webm
+|   |   |       baptiste-scout.webm.png
+|   |   |       baptiste-take-a-knee-hd.webm
+|   |   |       baptiste-take-a-knee-hd.webm.png
+|   |   |       baptiste-take-a-knee.webm
+|   |   |       baptiste-take-a-knee.webm.png
+|   |   |       
 |   |   +---icons
 |   |   |       baptiste-baptiste.png
+|   |   |       baptiste-combat-medic.png
 |   |   |       baptiste-goddess.png
 |   |   |       baptiste-kraken.png
+|   |   |       baptiste-l.png
+|   |   |       baptiste-lieutenant-augustin.png
+|   |   |       baptiste-pole-vault.png
+|   |   |       baptiste-vampire.png
+|   |   |       
+|   |   +---intros
+|   |   |       baptiste-blast-off-hd.webm
+|   |   |       baptiste-blast-off-hd.webm.png
+|   |   |       baptiste-blast-off.webm
+|   |   |       baptiste-blast-off.webm.png
+|   |   |       baptiste-closeup-hd.webm
+|   |   |       baptiste-closeup-hd.webm.png
+|   |   |       baptiste-closeup.webm
+|   |   |       baptiste-closeup.webm.png
+|   |   |       baptiste-discus-hd.webm
+|   |   |       baptiste-discus-hd.webm.png
+|   |   |       baptiste-discus.webm
+|   |   |       baptiste-discus.webm.png
+|   |   |       baptiste-heroic-hd.webm
+|   |   |       baptiste-heroic-hd.webm.png
+|   |   |       baptiste-heroic.webm
+|   |   |       baptiste-heroic.webm.png
+|   |   |       baptiste-safe-zone-hd.webm
+|   |   |       baptiste-safe-zone-hd.webm.png
+|   |   |       baptiste-safe-zone.webm
+|   |   |       baptiste-safe-zone.webm.png
 |   |   |       
 |   |   +---poses
 |   |   |       baptiste-heroic.jpg
@@ -766,22 +982,30 @@
 |   |   |       baptiste-buccaneer.jpg
 |   |   |       baptiste-camouflage.jpg
 |   |   |       baptiste-classic.jpg
+|   |   |       baptiste-combat-medic.jpg
 |   |   |       baptiste-desert-ops.jpg
 |   |   |       baptiste-pirate.jpg
 |   |   |       baptiste-spec-ops.jpg
+|   |   |       baptiste-talon.jpg
+|   |   |       baptiste-vampire.jpg
 |   |   |       baptiste-vt.jpg
 |   |   |       baptiste-vyolt.jpg
 |   |   |       baptiste-wasteland.jpg
 |   |   |       baptiste-wouj.jpg
 |   |   |       
 |   |   +---sprays
+|   |   |       baptiste-analyst-nguyen.png
 |   |   |       baptiste-attention.png
 |   |   |       baptiste-baptiste.png
+|   |   |       baptiste-carry.png
 |   |   |       baptiste-choices.png
 |   |   |       baptiste-close-shave.png
+|   |   |       baptiste-combat-medic.png
 |   |   |       baptiste-cool-story.png
 |   |   |       baptiste-cute.png
 |   |   |       baptiste-do-you-even-lift.png
+|   |   |       baptiste-eight-of-hearts.png
+|   |   |       baptiste-getaway.png
 |   |   |       baptiste-goddess.png
 |   |   |       baptiste-hammock.png
 |   |   |       baptiste-helmet.png
@@ -791,29 +1015,52 @@
 |   |   |       baptiste-lieutenant-augustin.png
 |   |   |       baptiste-long-shadows.png
 |   |   |       baptiste-maneuvers.png
+|   |   |       baptiste-mauga.png
 |   |   |       baptiste-mission-complete.png
+|   |   |       baptiste-old-buddies.png
 |   |   |       baptiste-one-up.png
 |   |   |       baptiste-origin.png
 |   |   |       baptiste-pixel.png
+|   |   |       baptiste-pole-vault.png
 |   |   |       baptiste-schematic.png
+|   |   |       baptiste-so-done.png
+|   |   |       baptiste-so-fresh.png
 |   |   |       baptiste-taunt.png
 |   |   |       baptiste-too-powerful.png
+|   |   |       baptiste-trick-or-treat.png
 |   |   |       baptiste-tropical.png
+|   |   |       baptiste-vampire.png
 |   |   |       baptiste-watchful.png
+|   |   |       baptiste-working-vacation.png
 |   |   |       
-|   |   \---voicelines
-|   |           baptiste-an-apple-a-day.ogg
-|   |           baptiste-appreciation.ogg
-|   |           baptiste-bandage.ogg
-|   |           baptiste-buy-you-a-drink.ogg
-|   |           baptiste-damn.ogg
-|   |           baptiste-expert-opinion.ogg
-|   |           baptiste-going-to-sting.ogg
-|   |           baptiste-settle-down.ogg
-|   |           baptiste-some-kind-of-angel.ogg
-|   |           baptiste-survival-tip.ogg
-|   |           baptiste-times-up-pencils-down.ogg
-|   |           baptiste-what-are-you-trying-to-pull.ogg
+|   |   +---voicelines
+|   |   |       baptiste-an-apple-a-day.ogg
+|   |   |       baptiste-appreciation.ogg
+|   |   |       baptiste-associates.ogg
+|   |   |       baptiste-bandage-or-bullet.ogg
+|   |   |       baptiste-bandage.ogg
+|   |   |       baptiste-buy-you-a-drink.ogg
+|   |   |       baptiste-caribbean-coalition.ogg
+|   |   |       baptiste-damn.ogg
+|   |   |       baptiste-dont-cry.ogg
+|   |   |       baptiste-dont-die-on-me.ogg
+|   |   |       baptiste-expert-opinion.ogg
+|   |   |       baptiste-going-to-sting.ogg
+|   |   |       baptiste-id-recommend-bed-rest.ogg
+|   |   |       baptiste-its-your-lucky-day.ogg
+|   |   |       baptiste-lieutenant-augustin.ogg
+|   |   |       baptiste-no-point-rushing-in.ogg
+|   |   |       baptiste-not-my-problem.ogg
+|   |   |       baptiste-now-that-is-funny.ogg
+|   |   |       baptiste-settle-down.ogg
+|   |   |       baptiste-some-kind-of-angel.ogg
+|   |   |       baptiste-still-looks-bad.ogg
+|   |   |       baptiste-survival-tip.ogg
+|   |   |       baptiste-times-up-pencils-down.ogg
+|   |   |       baptiste-what-are-you-trying-to-pull.ogg
+|   |   |       
+|   |   \---weapons
+|   |           baptiste-golden.png
 |   |           
 |   +---bastion
 |   |   |   career-portrait.png
@@ -863,9 +1110,12 @@
 |   |   |       bastion-avalanche.png
 |   |   |       bastion-bastion.png
 |   |   |       bastion-boxing.png
+|   |   |       bastion-brick-ganymede.png
+|   |   |       bastion-brickstion.png
 |   |   |       bastion-cute-bastion.png
 |   |   |       bastion-ganymede.png
 |   |   |       bastion-goldbot.png
+|   |   |       bastion-gwishin.png
 |   |   |       bastion-stealth.png
 |   |   |       bastion-tank-crossing.png
 |   |   |       
@@ -905,12 +1155,14 @@
 |   |   |       bastion-antique.jpg
 |   |   |       bastion-avalanche.jpg
 |   |   |       bastion-blizzcon-2016.jpg
+|   |   |       bastion-brick.jpg
 |   |   |       bastion-classic.jpg
 |   |   |       bastion-dawn.jpg
 |   |   |       bastion-defense-matrix.jpg
 |   |   |       bastion-dune-buggy.jpg
 |   |   |       bastion-gearbot.jpg
 |   |   |       bastion-gift-wrap.jpg
+|   |   |       bastion-gwishin.jpg
 |   |   |       bastion-meadow.jpg
 |   |   |       bastion-null-sector.jpg
 |   |   |       bastion-omnic-crisis.jpg
@@ -1032,6 +1284,7 @@
 |   |   |       brigitte-jubileum.png
 |   |   |       brigitte-katt.png
 |   |   |       brigitte-rally.png
+|   |   |       brigitte-riot-police.png
 |   |   |       
 |   |   +---intros
 |   |   |       brigitte-defender-hd.webm
@@ -1059,6 +1312,7 @@
 |   |   |       brigitte-confident.jpg
 |   |   |       brigitte-heroic.jpg
 |   |   |       brigitte-kneel.jpg
+|   |   |       brigitte-medal.jpg
 |   |   |       brigitte-pumpkin.jpg
 |   |   |       brigitte-rally.jpg
 |   |   |       brigitte-relaxed.jpg
@@ -1075,6 +1329,7 @@
 |   |   |       brigitte-mani.jpg
 |   |   |       brigitte-mechanic.jpg
 |   |   |       brigitte-plommon.jpg
+|   |   |       brigitte-riot-police.jpg
 |   |   |       brigitte-rod.jpg
 |   |   |       brigitte-shieldmaiden.jpg
 |   |   |       brigitte-sol.jpg
@@ -1123,7 +1378,9 @@
 |   |   |       brigitte-dare-to-lindholm.ogg
 |   |   |       brigitte-dont-get-caught.ogg
 |   |   |       brigitte-get-lost.ogg
+|   |   |       brigitte-get-out-of-here.ogg
 |   |   |       brigitte-i-made-that-just-for-you.ogg
+|   |   |       brigitte-if-you-make-your-bed-lie-in-it.ogg
 |   |   |       brigitte-its-broken.ogg
 |   |   |       brigitte-its-just-a-flesh-wound.ogg
 |   |   |       brigitte-leave-this-to-an-expert.ogg
@@ -1136,6 +1393,7 @@
 |   |   |       brigitte-scandinavian-style.ogg
 |   |   |       brigitte-supposed-to-scare-me.ogg
 |   |   |       brigitte-swedish-engineering.ogg
+|   |   |       brigitte-take-a-hike.ogg
 |   |   |       brigitte-this-is-pie.ogg
 |   |   |       brigitte-time-to-roll-up-my-sleeves.ogg
 |   |   |       brigitte-trust-me.ogg
@@ -1214,6 +1472,10 @@
 |   |   |       doomfist-one-punch-hd.webm.png
 |   |   |       doomfist-one-punch.webm
 |   |   |       doomfist-one-punch.webm.png
+|   |   |       doomfist-seismic-slam-hd.webm
+|   |   |       doomfist-seismic-slam-hd.webm.png
+|   |   |       doomfist-seismic-slam.webm
+|   |   |       doomfist-seismic-slam.webm.png
 |   |   |       doomfist-uppercut-hd.webm
 |   |   |       doomfist-uppercut-hd.webm.png
 |   |   |       doomfist-uppercut.webm
@@ -1233,6 +1495,7 @@
 |   |   +---skins
 |   |   |       doomfist-avatar.jpg
 |   |   |       doomfist-blackhand.jpg
+|   |   |       doomfist-carbon-fiber.jpg
 |   |   |       doomfist-caution.jpg
 |   |   |       doomfist-classic.jpg
 |   |   |       doomfist-daisy.jpg
@@ -1358,12 +1621,14 @@
 |   |   |       dva-party-time.webm.png
 |   |   |       
 |   |   +---icons
+|   |   |       dva-academy.png
 |   |   |       dva-bunny.png
 |   |   |       dva-charm.png
 |   |   |       dva-cute-dva.png
 |   |   |       dva-cycling.png
 |   |   |       dva-dva.png
 |   |   |       dva-dvacation.png
+|   |   |       dva-hagwon.png
 |   |   |       dva-hanaversary.png
 |   |   |       dva-hanbok.png
 |   |   |       dva-law.png
@@ -1403,6 +1668,7 @@
 |   |   |       dva-sitting.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       dva-academy.jpg
 |   |   |       dva-black-cat.jpg
 |   |   |       dva-blueberry.jpg
 |   |   |       dva-bva.jpg
@@ -1412,6 +1678,7 @@
 |   |   |       dva-junebug.jpg
 |   |   |       dva-junker.jpg
 |   |   |       dva-lemonlime.jpg
+|   |   |       dva-midnight.jpg
 |   |   |       dva-nano.jpg
 |   |   |       dva-officer.jpg
 |   |   |       dva-palanquin.jpg
@@ -1453,6 +1720,7 @@
 |   |   |       dva-ornament.png
 |   |   |       dva-pat-pat.png
 |   |   |       dva-photo.png
+|   |   |       dva-piece.png
 |   |   |       dva-pixel-bunny.png
 |   |   |       dva-pixel.png
 |   |   |       dva-power-up.png
@@ -1480,6 +1748,7 @@
 |   |   |       dva-happy-halloween.ogg
 |   |   |       dva-happy-holidays.ogg
 |   |   |       dva-happy-new-year.ogg
+|   |   |       dva-i-know-my-kdr.ogg
 |   |   |       dva-i-play-to-win.ogg
 |   |   |       dva-im-1.ogg
 |   |   |       dva-im-not-scared.ogg
@@ -1547,9 +1816,11 @@
 |   |   |       genji-cute-genji.png
 |   |   |       genji-cyborg.png
 |   |   |       genji-fencing.png
+|   |   |       genji-genji-minifig.png
 |   |   |       genji-genji.png
 |   |   |       genji-god-of-war.png
 |   |   |       genji-goldborg.png
+|   |   |       genji-kendoka.png
 |   |   |       genji-nin.png
 |   |   |       genji-oni.png
 |   |   |       
@@ -1579,12 +1850,14 @@
 |   |   |       genji-heroic.jpg
 |   |   |       genji-kneeling.jpg
 |   |   |       genji-meditate.jpg
+|   |   |       genji-over-the-shoulder.jpg
 |   |   |       genji-rip.jpg
 |   |   |       genji-shuriken.jpg
 |   |   |       genji-sword-stance.jpg
 |   |   |       genji-toast.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       genji-2018-pacific-allstars.jpg
 |   |   |       genji-azurite.jpg
 |   |   |       genji-baihu.jpg
 |   |   |       genji-bedouin.jpg
@@ -1593,6 +1866,7 @@
 |   |   |       genji-chrome.jpg
 |   |   |       genji-cinnabar.jpg
 |   |   |       genji-classic.jpg
+|   |   |       genji-kendoka.jpg
 |   |   |       genji-malachite.jpg
 |   |   |       genji-nihon.jpg
 |   |   |       genji-nomad.jpg
@@ -1605,6 +1879,7 @@
 |   |   +---sprays
 |   |   |       genji-assassin.png
 |   |   |       genji-blackwatch.png
+|   |   |       genji-brickblade.png
 |   |   |       genji-cute.png
 |   |   |       genji-dragon-dance.png
 |   |   |       genji-dragon.png
@@ -1642,6 +1917,7 @@
 |   |   +---voicelines
 |   |   |       genji-a-steady-blade.ogg
 |   |   |       genji-all-bark-no-bite.ogg
+|   |   |       genji-an-elegant-weapon.ogg
 |   |   |       genji-another.ogg
 |   |   |       genji-come-on.ogg
 |   |   |       genji-count-your-blessings.ogg
@@ -1716,11 +1992,13 @@
 |   |   |       hanzo-casual.png
 |   |   |       hanzo-cute-hanzo.png
 |   |   |       hanzo-hanzhong.png
+|   |   |       hanzo-hanzo-minifig.png
 |   |   |       hanzo-hanzo.png
 |   |   |       hanzo-kinenbi.png
 |   |   |       hanzo-scion.png
 |   |   |       hanzo-shimada.png
 |   |   |       hanzo-storm.png
+|   |   |       hanzo-wave.png
 |   |   |       
 |   |   +---intros
 |   |   |       hanzo-backflip-hd.webm
@@ -1735,6 +2013,10 @@
 |   |   |       hanzo-my-aim-is-true-hd.webm.png
 |   |   |       hanzo-my-aim-is-true.webm
 |   |   |       hanzo-my-aim-is-true.webm.png
+|   |   |       hanzo-storm-arrow-hd.webm
+|   |   |       hanzo-storm-arrow-hd.webm.png
+|   |   |       hanzo-storm-arrow.webm
+|   |   |       hanzo-storm-arrow.webm.png
 |   |   |       hanzo-superior-hd.webm
 |   |   |       hanzo-superior-hd.webm.png
 |   |   |       hanzo-superior.webm
@@ -1770,6 +2052,7 @@
 |   |   |       hanzo-okami.jpg
 |   |   |       hanzo-scion.jpg
 |   |   |       hanzo-sora.jpg
+|   |   |       hanzo-wave.jpg
 |   |   |       hanzo-young-hanzo.jpg
 |   |   |       hanzo-young-master.jpg
 |   |   |       
@@ -1777,6 +2060,7 @@
 |   |   |       hanzo-archer.png
 |   |   |       hanzo-archery.png
 |   |   |       hanzo-blue-dragon.png
+|   |   |       hanzo-brick-dragon.png
 |   |   |       hanzo-challenge.png
 |   |   |       hanzo-cloud.png
 |   |   |       hanzo-cute.png
@@ -1819,6 +2103,7 @@
 |   |   |       hanzo-expect-nothing-less.ogg
 |   |   |       hanzo-flow-like-water.ogg
 |   |   |       hanzo-from-one-thing.ogg
+|   |   |       hanzo-history-forged-by-the-sword.ogg
 |   |   |       hanzo-hm.ogg
 |   |   |       hanzo-i-do-what-i-must.ogg
 |   |   |       hanzo-ignore-all-distractions.ogg
@@ -1835,6 +2120,7 @@
 |   |   |       hanzo-simple-geometry.ogg
 |   |   |       hanzo-spirit-dragon.ogg
 |   |   |       hanzo-step-into-the-dojo.ogg
+|   |   |       hanzo-the-only-destiny-i-know.ogg
 |   |   |       hanzo-unacceptable.ogg
 |   |   |       hanzo-when-the-moon-is-full.ogg
 |   |   |       hanzo-you-are-already-dead.ogg
@@ -1889,6 +2175,7 @@
 |   |   |       junkrat-cute-junkrat.png
 |   |   |       junkrat-goldrat.png
 |   |   |       junkrat-have-a-nice-day.png
+|   |   |       junkrat-inferno.png
 |   |   |       junkrat-junkrat.png
 |   |   |       junkrat-krampus.png
 |   |   |       junkrat-tennis.png
@@ -1933,6 +2220,7 @@
 |   |   |       junkrat-bleached.jpg
 |   |   |       junkrat-buccaneer.jpg
 |   |   |       junkrat-caution.jpg
+|   |   |       junkrat-circus.jpg
 |   |   |       junkrat-classic.jpg
 |   |   |       junkrat-cricket.jpg
 |   |   |       junkrat-dr-junkenstein.jpg
@@ -1940,6 +2228,7 @@
 |   |   |       junkrat-firework.jpg
 |   |   |       junkrat-fool.jpg
 |   |   |       junkrat-hayseed.jpg
+|   |   |       junkrat-inferno.jpg
 |   |   |       junkrat-irradiated.jpg
 |   |   |       junkrat-jailbird.jpg
 |   |   |       junkrat-jester.jpg
@@ -1963,6 +2252,7 @@
 |   |   |       junkrat-grin.png
 |   |   |       junkrat-icon.png
 |   |   |       junkrat-im-flying.png
+|   |   |       junkrat-inferno.png
 |   |   |       junkrat-joker.png
 |   |   |       junkrat-junk.png
 |   |   |       junkrat-kaboom.png
@@ -2012,6 +2302,7 @@
 |   |   |       junkrat-ooh-shiny.ogg
 |   |   |       junkrat-oops-dropped-something.ogg
 |   |   |       junkrat-smile.ogg
+|   |   |       junkrat-that-was-the-bomb.ogg
 |   |   |       junkrat-ticktockticktock.ogg
 |   |   |       junkrat-too-right.ogg
 |   |   |       
@@ -2066,6 +2357,7 @@
 |   |   |       lucio-equalizer.png
 |   |   |       lucio-football.png
 |   |   |       lucio-frog.png
+|   |   |       lucio-gorgon.png
 |   |   |       lucio-kambo.png
 |   |   |       lucio-lucio.png
 |   |   |       lucio-luciouro.png
@@ -2109,6 +2401,7 @@
 |   |   |       lucio-rip.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       lucio-2019-pacific-allstars.jpg
 |   |   |       lucio-andes.jpg
 |   |   |       lucio-auditiva.jpg
 |   |   |       lucio-azul.jpg
@@ -2117,6 +2410,7 @@
 |   |   |       lucio-capoeira.jpg
 |   |   |       lucio-classic.jpg
 |   |   |       lucio-equalizer.jpg
+|   |   |       lucio-gorgon.jpg
 |   |   |       lucio-hippityhop.jpg
 |   |   |       lucio-jazzy.jpg
 |   |   |       lucio-laranja.jpg
@@ -2142,6 +2436,7 @@
 |   |   |       lucio-dragon-dance.png
 |   |   |       lucio-football.png
 |   |   |       lucio-frog.png
+|   |   |       lucio-gorgon.png
 |   |   |       lucio-grin.png
 |   |   |       lucio-hero.png
 |   |   |       lucio-hockey.png
@@ -2242,6 +2537,7 @@
 |   |   |       mccree-blackwatch.png
 |   |   |       mccree-cute-mccree.png
 |   |   |       mccree-deadeye.png
+|   |   |       mccree-deadlock-mccree.png
 |   |   |       mccree-equestrian.png
 |   |   |       mccree-gamf.png
 |   |   |       mccree-magistrate.png
@@ -2270,6 +2566,10 @@
 |   |   |       mccree-the-names-mccree-hd.webm.png
 |   |   |       mccree-the-names-mccree.webm
 |   |   |       mccree-the-names-mccree.webm.png
+|   |   |       mccree-undertaker-hd.webm
+|   |   |       mccree-undertaker-hd.webm.png
+|   |   |       mccree-undertaker.webm
+|   |   |       mccree-undertaker.webm.png
 |   |   |       
 |   |   +---poses
 |   |   |       mccree-contemplative.jpg
@@ -2285,6 +2585,7 @@
 |   |   |       mccree-american.jpg
 |   |   |       mccree-blackwatch.jpg
 |   |   |       mccree-classic.jpg
+|   |   |       mccree-deadlock.jpg
 |   |   |       mccree-ebony.jpg
 |   |   |       mccree-gambler.jpg
 |   |   |       mccree-lake.jpg
@@ -2343,10 +2644,13 @@
 |   |   |       mccree-a-mans-gotta-have-rules.ogg
 |   |   |       mccree-after-you.ogg
 |   |   |       mccree-aint-i-killed-you-before.ogg
+|   |   |       mccree-already-dead.ogg
 |   |   |       mccree-boom-goes-the-dynamite.ogg
+|   |   |       mccree-both-kinds-of-music.ogg
 |   |   |       mccree-buckle-up.ogg
 |   |   |       mccree-calls-for-a-celebration.ogg
 |   |   |       mccree-dont-sass-me.ogg
+|   |   |       mccree-gathering-no-moss.ogg
 |   |   |       mccree-had-to-break-the-ice.ogg
 |   |   |       mccree-hair-of-the-dog.ogg
 |   |   |       mccree-happens-to-the-best-of-us.ogg
@@ -2428,6 +2732,7 @@
 |   |   |       mei-change.png
 |   |   |       mei-cute-mei.png
 |   |   |       mei-hairpin.png
+|   |   |       mei-honeydew.png
 |   |   |       mei-jiangshi.png
 |   |   |       mei-may.png
 |   |   |       mei-mei.png
@@ -2477,6 +2782,7 @@
 |   |   |       mei-firefighter.jpg
 |   |   |       mei-heliotrope.jpg
 |   |   |       mei-helitrope.jpg
+|   |   |       mei-honeydew.jpg
 |   |   |       mei-jade.jpg
 |   |   |       mei-jiangshi.jpg
 |   |   |       mei-luna.jpg
@@ -2488,6 +2794,7 @@
 |   |   |       mei-rescue-mei.jpg
 |   |   |       mei-snow-plum.jpg
 |   |   |       mei-yeti-hunter.jpg
+|   |   |       mei-zhongguo.jpg
 |   |   |       
 |   |   +---sprays
 |   |   |       mei-beat-the-heat.png
@@ -2526,7 +2833,9 @@
 |   |   |       mei-walled.png
 |   |   |       
 |   |   +---voicelines
+|   |   |       mei-a-new-adventure.ogg
 |   |   |       mei-ameizing.ogg
+|   |   |       mei-apologies.ogg
 |   |   |       mei-chill-out.ogg
 |   |   |       mei-did-you-hear-something.ogg
 |   |   |       mei-dont-you-just-love-surprises.ogg
@@ -2554,6 +2863,7 @@
 |   |   |       mei-wishing-you-prosperity.ogg
 |   |   |       mei-yay.ogg
 |   |   |       mei-you-have-to-let-it-go.ogg
+|   |   |       mei-you-scared-me.ogg
 |   |   |       
 |   |   \---weapons
 |   |           mei-golden.png
@@ -2601,6 +2911,7 @@
 |   |   |       mercy-badminton.png
 |   |   |       mercy-combat-medic.png
 |   |   |       mercy-cute-mercy.png
+|   |   |       mercy-dr-ziegler.png
 |   |   |       mercy-guardian-angel.png
 |   |   |       mercy-jahrestag.png
 |   |   |       mercy-mercy.png
@@ -2645,12 +2956,14 @@
 |   |   |       mercy-toast.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       mercy-2019-atlantic-allstars.jpg
 |   |   |       mercy-amber.jpg
 |   |   |       mercy-celestial.jpg
 |   |   |       mercy-classic.jpg
 |   |   |       mercy-cobalt.jpg
 |   |   |       mercy-combat-medic-ziegler.jpg
 |   |   |       mercy-devil.jpg
+|   |   |       mercy-dr-ziegler.jpg
 |   |   |       mercy-eidgenossin.jpg
 |   |   |       mercy-fortune.jpg
 |   |   |       mercy-imp.jpg
@@ -2667,6 +2980,7 @@
 |   |   |       
 |   |   +---sprays
 |   |   |       mercy-arrow.png
+|   |   |       mercy-ascent.png
 |   |   |       mercy-badminton.png
 |   |   |       mercy-bandage.png
 |   |   |       mercy-battle-ready.png
@@ -2677,21 +2991,28 @@
 |   |   |       mercy-dragon-dance.png
 |   |   |       mercy-eidgenossin.png
 |   |   |       mercy-emblem.png
+|   |   |       mercy-evaluation.png
 |   |   |       mercy-gauze.png
 |   |   |       mercy-halo.png
+|   |   |       mercy-hanan.png
+|   |   |       mercy-healing-touch.png
 |   |   |       mercy-heartbeat.png
 |   |   |       mercy-heroes-never-die.png
 |   |   |       mercy-huge-rez.png
 |   |   |       mercy-icon.png
+|   |   |       mercy-lab-coat.png
+|   |   |       mercy-late-night.png
 |   |   |       mercy-light.png
 |   |   |       mercy-medic.png
 |   |   |       mercy-on-call.png
+|   |   |       mercy-on-the-clock.png
 |   |   |       mercy-ornament.png
 |   |   |       mercy-parasol.png
 |   |   |       mercy-patched-up.png
 |   |   |       mercy-pink.png
 |   |   |       mercy-pixel.png
 |   |   |       mercy-queen-of-clubs.png
+|   |   |       mercy-reconstruction.png
 |   |   |       mercy-resurrect.png
 |   |   |       mercy-ribbon.png
 |   |   |       mercy-sigil.png
@@ -2699,6 +3020,7 @@
 |   |   |       mercy-snow-angel.png
 |   |   |       mercy-stethoscope.png
 |   |   |       mercy-sting.png
+|   |   |       mercy-suit-fitting.png
 |   |   |       mercy-support.png
 |   |   |       mercy-swiss.png
 |   |   |       mercy-together.png
@@ -2710,12 +3032,15 @@
 |   |   +---voicelines
 |   |   |       mercy-a-most-impressive-display.ogg
 |   |   |       mercy-a-timely-intervention.ogg
+|   |   |       mercy-call-the-whambulance.ogg
 |   |   |       mercy-consultation-fee.ogg
 |   |   |       mercy-doctors-orders.ogg
 |   |   |       mercy-how-barbaric.ogg
 |   |   |       mercy-how-lucky-for-you.ogg
 |   |   |       mercy-i-could-use-the-time-off.ogg
 |   |   |       mercy-i-have-my-eye-on-you.ogg
+|   |   |       mercy-ill-cast-a-spell-on-you.ogg
+|   |   |       mercy-im-needed-somewhere.ogg
 |   |   |       mercy-ive-seen-worse.ogg
 |   |   |       mercy-miracle-worker.ogg
 |   |   |       mercy-need-a-second-opinion.ogg
@@ -2779,6 +3104,7 @@
 |   |   |       
 |   |   +---icons
 |   |   |       moira-banshee.png
+|   |   |       moira-coinn.png
 |   |   |       moira-cothrom-an-lae.png
 |   |   |       moira-cute-moira.png
 |   |   |       moira-erlenmeyer.png
@@ -2832,6 +3158,7 @@
 |   |   |       moira-ornate.jpg
 |   |   |       moira-pale.jpg
 |   |   |       moira-royal.jpg
+|   |   |       moira-scientist.jpg
 |   |   |       moira-selkie.jpg
 |   |   |       moira-toast.jpg
 |   |   |       moira-whiskey.jpg
@@ -2880,12 +3207,15 @@
 |   |   |       moira-biologys-habits.ogg
 |   |   |       moira-brilliant.ogg
 |   |   |       moira-despair-has-its-own-calms.ogg
+|   |   |       moira-evolutions-gifts.ogg
+|   |   |       moira-faith-in-science.ogg
 |   |   |       moira-get-off-the-stage.ogg
 |   |   |       moira-good-news-everyone.ogg
 |   |   |       moira-grand.ogg
 |   |   |       moira-happy-christmas.ogg
 |   |   |       moira-happy-halloween.ogg
 |   |   |       moira-idle-hands.ogg
+|   |   |       moira-ignorance-frightens-me.ogg
 |   |   |       moira-im-working.ogg
 |   |   |       moira-one-hand-gives.ogg
 |   |   |       moira-performance-enhanced.ogg
@@ -2920,6 +3250,10 @@
 |   |   |       orisa-dance-hd.webm.png
 |   |   |       orisa-dance.webm
 |   |   |       orisa-dance.webm.png
+|   |   |       orisa-dressage-hd.webm
+|   |   |       orisa-dressage-hd.webm.png
+|   |   |       orisa-dressage.webm
+|   |   |       orisa-dressage.webm.png
 |   |   |       orisa-halt-hd.webm
 |   |   |       orisa-halt-hd.webm.png
 |   |   |       orisa-halt.webm
@@ -2948,6 +3282,7 @@
 |   |   +---icons
 |   |   |       orisa-aurisa.png
 |   |   |       orisa-cute-orisa.png
+|   |   |       orisa-demon.png
 |   |   |       orisa-efi.png
 |   |   |       orisa-forest-spirit.png
 |   |   |       orisa-javelin.png
@@ -2983,6 +3318,7 @@
 |   |   |       orisa-supercharger.webm.png
 |   |   |       
 |   |   +---poses
+|   |   |       orisa-beacon.jpg
 |   |   |       orisa-confident.jpg
 |   |   |       orisa-flex.jpg
 |   |   |       orisa-halt.jpg
@@ -2995,6 +3331,7 @@
 |   |   |       orisa-carbon-fiber.jpg
 |   |   |       orisa-classic.jpg
 |   |   |       orisa-dawn.jpg
+|   |   |       orisa-demon.jpg
 |   |   |       orisa-dynastinae.jpg
 |   |   |       orisa-forest-spirit.jpg
 |   |   |       orisa-immortal.jpg
@@ -3016,6 +3353,7 @@
 |   |   |       orisa-construction.png
 |   |   |       orisa-crossing-guard.png
 |   |   |       orisa-cute.png
+|   |   |       orisa-demon.png
 |   |   |       orisa-dragon-dance.png
 |   |   |       orisa-drum-dance.png
 |   |   |       orisa-drumming.png
@@ -3059,12 +3397,14 @@
 |   |   |       orisa-have-a-bad-feeling-about-this.ogg
 |   |   |       orisa-i-cant-do-that.ogg
 |   |   |       orisa-i-was-only-trying-to-help.ogg
+|   |   |       orisa-if-lost-please-return-to-efi.ogg
 |   |   |       orisa-medical-assistance.ogg
 |   |   |       orisa-my-analysis.ogg
 |   |   |       orisa-no-parking.ogg
 |   |   |       orisa-satisfied-with-protection.ogg
 |   |   |       orisa-satsified-with-protection.ogg
 |   |   |       orisa-shine-your-eyes.ogg
+|   |   |       orisa-thank-you-for-understanding.ogg
 |   |   |       orisa-that-does-not-compute.ogg
 |   |   |       orisa-the-moon-that-wanes.ogg
 |   |   |       orisa-who-is-ready-to-party.ogg
@@ -3117,6 +3457,7 @@
 |   |   |       pharah-basketball.png
 |   |   |       pharah-cute-pharah.png
 |   |   |       pharah-enchanted.png
+|   |   |       pharah-orbital.png
 |   |   |       pharah-pharah.png
 |   |   |       pharah-raptora.png
 |   |   |       pharah-wadjet.png
@@ -3149,6 +3490,7 @@
 |   |   |       pharah-jump-jet.jpg
 |   |   |       pharah-kneeling.jpg
 |   |   |       pharah-medal.jpg
+|   |   |       pharah-pumpkin.jpg
 |   |   |       pharah-rip.jpg
 |   |   |       pharah-toast.jpg
 |   |   |       
@@ -3157,6 +3499,7 @@
 |   |   |       pharah-anubis.jpg
 |   |   |       pharah-asp.jpg
 |   |   |       pharah-bedouin.jpg
+|   |   |       pharah-carbon-fiber.jpg
 |   |   |       pharah-classic.jpg
 |   |   |       pharah-copper.jpg
 |   |   |       pharah-emerald.jpg
@@ -3164,6 +3507,7 @@
 |   |   |       pharah-frostbite.jpg
 |   |   |       pharah-jackal.jpg
 |   |   |       pharah-mechaqueen.jpg
+|   |   |       pharah-orbital.jpg
 |   |   |       pharah-possessed.jpg
 |   |   |       pharah-qinglong.jpg
 |   |   |       pharah-raindancer.jpg
@@ -3178,6 +3522,7 @@
 |   |   |       pharah-ana.png
 |   |   |       pharah-asp.png
 |   |   |       pharah-basketball.png
+|   |   |       pharah-bricks-rain-from-above.png
 |   |   |       pharah-cobra.png
 |   |   |       pharah-concussive-blast.png
 |   |   |       pharah-cute.png
@@ -3220,6 +3565,7 @@
 |   |   |       pharah-fly-casual.ogg
 |   |   |       pharah-fly-like-an-egyptian.ogg
 |   |   |       pharah-flying-the-friendly-skies.ogg
+|   |   |       pharah-from-my-mother.ogg
 |   |   |       pharah-got-you-on-my-radar.ogg
 |   |   |       pharah-i-am-the-rocket-queen.ogg
 |   |   |       pharah-i-keep-the-peace.ogg
@@ -3227,6 +3573,7 @@
 |   |   |       pharah-im-so-scared.ogg
 |   |   |       pharah-leave-this-to-a-professional.ogg
 |   |   |       pharah-not-a-chance.ogg
+|   |   |       pharah-on-autopilot.ogg
 |   |   |       pharah-play-nice-play-pharah.ogg
 |   |   |       pharah-ready-for-some-fireworks.ogg
 |   |   |       pharah-rocket-jump.ogg
@@ -3321,12 +3668,14 @@
 |   |   |       reaper-heroic.jpg
 |   |   |       reaper-medal.jpg
 |   |   |       reaper-menacing.jpg
+|   |   |       reaper-ready-for-action.jpg
 |   |   |       reaper-rip.jpg
 |   |   |       reaper-shrug.jpg
 |   |   |       reaper-stockpile.jpg
 |   |   |       reaper-toast.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       reaper-american.jpg
 |   |   |       reaper-biker.jpg
 |   |   |       reaper-blackwatch-reyes.jpg
 |   |   |       reaper-blood.jpg
@@ -3410,6 +3759,7 @@
 |   |   |       reaper-seen-a-ghost.ogg
 |   |   |       reaper-things-are-looking-grim.ogg
 |   |   |       reaper-too-easy.ogg
+|   |   |       reaper-too-edgy-for-you.ogg
 |   |   |       reaper-was-that-all.ogg
 |   |   |       reaper-what-are-you-looking-at.ogg
 |   |   |       reaper-youre-on-ice.ogg
@@ -3496,6 +3846,7 @@
 |   |   |       reinhardt-heroic.jpg
 |   |   |       reinhardt-kneel.jpg
 |   |   |       reinhardt-legendary.jpg
+|   |   |       reinhardt-pumpkin.jpg
 |   |   |       reinhardt-rip.jpg
 |   |   |       reinhardt-toast.jpg
 |   |   |       
@@ -3504,6 +3855,7 @@
 |   |   |       reinhardt-blackhardt.jpg
 |   |   |       reinhardt-bloodhardt.jpg
 |   |   |       reinhardt-brass.jpg
+|   |   |       reinhardt-bundesadler.jpg
 |   |   |       reinhardt-bundeswehr.jpg
 |   |   |       reinhardt-classic.jpg
 |   |   |       reinhardt-cobalt.jpg
@@ -3568,6 +3920,7 @@
 |   |   |       reinhardt-crusader-online.ogg
 |   |   |       reinhardt-crushing-machine.ogg
 |   |   |       reinhardt-easy-does-it.ogg
+|   |   |       reinhardt-fetch-me-my-hammer.ogg
 |   |   |       reinhardt-forgive-and-forget.ogg
 |   |   |       reinhardt-fortune-favors-the-bold.ogg
 |   |   |       reinhardt-german-engineering.ogg
@@ -3638,6 +3991,7 @@
 |   |   |       roadhog-pigsy.png
 |   |   |       roadhog-roadhog.png
 |   |   |       roadhog-the-monster.png
+|   |   |       roadhog-toxic.png
 |   |   |       
 |   |   +---intros
 |   |   |       roadhog-feast-hd.webm
@@ -3695,6 +4049,7 @@
 |   |   |       roadhog-stitched.jpg
 |   |   |       roadhog-thistle.jpg
 |   |   |       roadhog-toa.jpg
+|   |   |       roadhog-toxic.jpg
 |   |   |       
 |   |   +---sprays
 |   |   |       roadhog-breathin.png
@@ -3742,6 +4097,7 @@
 |   |   |       roadhog-hook-line-and-sinker.ogg
 |   |   |       roadhog-i-dont-like-talkers.ogg
 |   |   |       roadhog-i-have-your-present-right-here.ogg
+|   |   |       roadhog-im-beached-as-bro.ogg
 |   |   |       roadhog-im-going-hog-wild.ogg
 |   |   |       roadhog-its-all-gone-to-the-dogs.ogg
 |   |   |       roadhog-killed-for-less-than-that.ogg
@@ -3759,9 +4115,132 @@
 |   |   |       roadhog-whats-mine-is-mine.ogg
 |   |   |       roadhog-you-chicken.ogg
 |   |   |       roadhog-you-wanna-scrap-with-me.ogg
+|   |   |       roadhog-youre-a-talker.ogg
 |   |   |       
 |   |   \---weapons
 |   |           roadhog-golden.png
+|   |           
+|   +---sigma
+|   |   |   career-portrait.png
+|   |   |   icon.png
+|   |   |   portrait.png
+|   |   |   
+|   |   +---emotes
+|   |   |       sigma-applause-hd.webm
+|   |   |       sigma-applause-hd.webm.png
+|   |   |       sigma-applause.webm
+|   |   |       sigma-applause.webm.png
+|   |   |       sigma-heroic-hd.webm
+|   |   |       sigma-heroic-hd.webm.png
+|   |   |       sigma-heroic.webm
+|   |   |       sigma-heroic.webm.png
+|   |   |       sigma-inconsequential-hd.webm
+|   |   |       sigma-inconsequential-hd.webm.png
+|   |   |       sigma-inconsequential.webm
+|   |   |       sigma-inconsequential.webm.png
+|   |   |       sigma-laugh-hd.webm
+|   |   |       sigma-laugh-hd.webm.png
+|   |   |       sigma-laugh.webm
+|   |   |       sigma-laugh.webm.png
+|   |   |       sigma-observations-hd.webm
+|   |   |       sigma-observations-hd.webm.png
+|   |   |       sigma-observations.webm
+|   |   |       sigma-observations.webm.png
+|   |   |       sigma-relaxation-hd.webm
+|   |   |       sigma-relaxation-hd.webm.png
+|   |   |       sigma-relaxation.webm
+|   |   |       sigma-relaxation.webm.png
+|   |   |       
+|   |   +---icons
+|   |   |       sigma-black-hole.png
+|   |   |       sigma-hypersphere.png
+|   |   |       sigma-sigma.png
+|   |   |       
+|   |   +---intros
+|   |   |       sigma-accretion-hd.webm
+|   |   |       sigma-accretion-hd.webm.png
+|   |   |       sigma-accretion.webm
+|   |   |       sigma-accretion.webm.png
+|   |   |       sigma-heroic-hd.webm
+|   |   |       sigma-heroic-hd.webm.png
+|   |   |       sigma-heroic.webm
+|   |   |       sigma-heroic.webm.png
+|   |   |       sigma-kinetic-grasp-hd.webm
+|   |   |       sigma-kinetic-grasp-hd.webm.png
+|   |   |       sigma-kinetic-grasp.webm
+|   |   |       sigma-kinetic-grasp.webm.png
+|   |   |       sigma-what-comes-up-hd.webm
+|   |   |       sigma-what-comes-up-hd.webm.png
+|   |   |       sigma-what-comes-up.webm
+|   |   |       sigma-what-comes-up.webm.png
+|   |   |       
+|   |   +---poses
+|   |   |       sigma-heroic.jpg
+|   |   |       sigma-observations.jpg
+|   |   |       sigma-poised.jpg
+|   |   |       sigma-pumpkin.jpg
+|   |   |       sigma-relaxation.jpg
+|   |   |       
+|   |   +---skins
+|   |   |       sigma-asylum.jpg
+|   |   |       sigma-blauw.jpg
+|   |   |       sigma-classic.jpg
+|   |   |       sigma-dr-de-kuiper.jpg
+|   |   |       sigma-groen.jpg
+|   |   |       sigma-oracle.jpg
+|   |   |       sigma-oranje.jpg
+|   |   |       sigma-prophet.jpg
+|   |   |       sigma-roze.jpg
+|   |   |       sigma-subject-sigma.jpg
+|   |   |       sigma-talon.jpg
+|   |   |       
+|   |   +---sprays
+|   |   |       sigma-accretion.png
+|   |   |       sigma-cerebral.png
+|   |   |       sigma-cute.png
+|   |   |       sigma-damage.png
+|   |   |       sigma-diagnosis.png
+|   |   |       sigma-equations.png
+|   |   |       sigma-escher.png
+|   |   |       sigma-fall.png
+|   |   |       sigma-flux.png
+|   |   |       sigma-fractured.png
+|   |   |       sigma-galileo.png
+|   |   |       sigma-harnessed.png
+|   |   |       sigma-hypersphere.png
+|   |   |       sigma-icon.png
+|   |   |       sigma-maatjesharing.png
+|   |   |       sigma-night-sky.png
+|   |   |       sigma-pixel.png
+|   |   |       sigma-rise.png
+|   |   |       sigma-schrodingers-cat.png
+|   |   |       sigma-sigma.png
+|   |   |       sigma-sigmas-apple.png
+|   |   |       sigma-spaghettification.png
+|   |   |       sigma-symphony.png
+|   |   |       sigma-trick-or-treat.png
+|   |   |       sigma-unstoppable-force.png
+|   |   |       sigma-zero-gravity.png
+|   |   |       
+|   |   +---voicelines
+|   |   |       sigma-a-pattern-forms.ogg
+|   |   |       sigma-approaching-escape-velocity.ogg
+|   |   |       sigma-beyond-our-stars.ogg
+|   |   |       sigma-can-you-hear-that-music.ogg
+|   |   |       sigma-fascinating.ogg
+|   |   |       sigma-frightful.ogg
+|   |   |       sigma-gravity-of-the-situation.ogg
+|   |   |       sigma-hold-it-together.ogg
+|   |   |       sigma-humming.ogg
+|   |   |       sigma-if-you-cant-handle-criticism.ogg
+|   |   |       sigma-ive-got-it.ogg
+|   |   |       sigma-just-act-normal.ogg
+|   |   |       sigma-mouth-full-of-teeth.ogg
+|   |   |       sigma-the-beauty-of-the-universe.ogg
+|   |   |       sigma-the-knives-are-sharpened.ogg
+|   |   |       
+|   |   \---weapons
+|   |           sigma-golden.png
 |   |           
 |   +---soldier-76
 |   |   |   career-portrait.png
@@ -3810,6 +4289,7 @@
 |   |   |       soldier-76-76.png
 |   |   |       soldier-76-alpine.png
 |   |   |       soldier-76-cute-soldier-76.png
+|   |   |       soldier-76-formal-76.png
 |   |   |       soldier-76-gold-soldier.png
 |   |   |       soldier-76-golf.png
 |   |   |       soldier-76-slasher.png
@@ -3856,6 +4336,7 @@
 |   |   |       soldier-76-commando-76.jpg
 |   |   |       soldier-76-cyborg-76.jpg
 |   |   |       soldier-76-daredevil-76.jpg
+|   |   |       soldier-76-formal-76.jpg
 |   |   |       soldier-76-golden.jpg
 |   |   |       soldier-76-grillmaster-76.jpg
 |   |   |       soldier-76-immortal.jpg
@@ -3915,10 +4396,12 @@
 |   |   |       soldier-76-i-didnt-start-this-war.ogg
 |   |   |       soldier-76-im-an-army-of-one.ogg
 |   |   |       soldier-76-im-not-your-father.ogg
+|   |   |       soldier-76-ive-died-a-hero.ogg
 |   |   |       soldier-76-ive-still-got-it.ogg
 |   |   |       soldier-76-knock-knock.ogg
 |   |   |       soldier-76-merry-christmas.ogg
 |   |   |       soldier-76-not-getting-any-younger.ogg
+|   |   |       soldier-76-not-much-of-a-living.ogg
 |   |   |       soldier-76-not-on-my-watch.ogg
 |   |   |       soldier-76-old-soldiers.ogg
 |   |   |       soldier-76-respect-your-elders.ogg
@@ -3983,6 +4466,7 @@
 |   |   |       sombra-bride.png
 |   |   |       sombra-colomar.png
 |   |   |       sombra-cute-sombra.png
+|   |   |       sombra-demon-hunter.png
 |   |   |       sombra-hacker.png
 |   |   |       sombra-high-jump.png
 |   |   |       sombra-rime.png
@@ -4008,6 +4492,7 @@
 |   |   |       sombra-undetected.webm.png
 |   |   |       
 |   |   +---poses
+|   |   |       sombra-data-cube.jpg
 |   |   |       sombra-hacked.jpg
 |   |   |       sombra-heroic.jpg
 |   |   |       sombra-kneeling.jpg
@@ -4024,6 +4509,7 @@
 |   |   |       sombra-cidro.jpg
 |   |   |       sombra-classic.jpg
 |   |   |       sombra-cyberspace.jpg
+|   |   |       sombra-data-cube.jpg
 |   |   |       sombra-demon-hunter.jpg
 |   |   |       sombra-glitch.jpg
 |   |   |       sombra-incendio.jpg
@@ -4031,6 +4517,7 @@
 |   |   |       sombra-mar.jpg
 |   |   |       sombra-mexicana.jpg
 |   |   |       sombra-noche.jpg
+|   |   |       sombra-oro.jpg
 |   |   |       sombra-peppermint.jpg
 |   |   |       sombra-rime.jpg
 |   |   |       sombra-talon.jpg
@@ -4044,6 +4531,7 @@
 |   |   |       sombra-calavera.png
 |   |   |       sombra-cute.png
 |   |   |       sombra-deafmute.png
+|   |   |       sombra-demon-hunter.png
 |   |   |       sombra-dragon-dance.png
 |   |   |       sombra-espresso.png
 |   |   |       sombra-eyes.png
@@ -4097,6 +4585,7 @@
 |   |   |       sombra-lets-not-do-that-again.ogg
 |   |   |       sombra-merry-christmas.ogg
 |   |   |       sombra-mess-with-the-best.ogg
+|   |   |       sombra-nice-working-with-you.ogg
 |   |   |       sombra-playing-fair.ogg
 |   |   |       sombra-show-me-what-you-got.ogg
 |   |   |       sombra-taking-this-very-seriously.ogg
@@ -4252,6 +4741,7 @@
 |   |   |       symmetra-a-frightening-thought.ogg
 |   |   |       symmetra-cause-for-celebration.ogg
 |   |   |       symmetra-everything-by-design.ogg
+|   |   |       symmetra-everything-you-see.ogg
 |   |   |       symmetra-expecting-a-miracle.ogg
 |   |   |       symmetra-exquisite.ogg
 |   |   |       symmetra-good-fortune.ogg
@@ -4265,7 +4755,9 @@
 |   |   |       symmetra-perfect-harmony.ogg
 |   |   |       symmetra-precisely.ogg
 |   |   |       symmetra-put-you-in-your-place.ogg
+|   |   |       symmetra-reality-is-my-playground.ogg
 |   |   |       symmetra-setting-up-the-car-wash.ogg
+|   |   |       symmetra-so-dramatic.ogg
 |   |   |       symmetra-such-a-lack-of-imagination.ogg
 |   |   |       symmetra-supposed-to-be-impressed.ogg
 |   |   |       symmetra-taken-under-advisement.ogg
@@ -4274,6 +4766,7 @@
 |   |   |       symmetra-victory-is-everything.ogg
 |   |   |       symmetra-welcome-to-my-reality.ogg
 |   |   |       symmetra-were-you-expecting-a-miracle.ogg
+|   |   |       symmetra-what-the-future-holds.ogg
 |   |   |       symmetra-why-do-you-struggle.ogg
 |   |   |       symmetra-your-mind-works.ogg
 |   |   |       
@@ -4332,6 +4825,7 @@
 |   |   |       torbjorn-goldclad.png
 |   |   |       torbjorn-santaclad.png
 |   |   |       torbjorn-serpent-spear.png
+|   |   |       torbjorn-surf-n-splash.png
 |   |   |       torbjorn-torbjorn.png
 |   |   |       torbjorn-viking.png
 |   |   |       torbjorn-water-polo.png
@@ -4383,6 +4877,7 @@
 |   |   |       torbjorn-magni.jpg
 |   |   |       torbjorn-plommon.jpg
 |   |   |       torbjorn-santaclad.jpg
+|   |   |       torbjorn-surf-n-splash.jpg
 |   |   |       torbjorn-tre-kronor.jpg
 |   |   |       torbjorn-viking.jpg
 |   |   |       torbjorn-woodclad.jpg
@@ -4445,12 +4940,14 @@
 |   |   |       torbjorn-leave-this-to-an-expert.ogg
 |   |   |       torbjorn-lets-not-buy-the-pig.ogg
 |   |   |       torbjorn-made-to-order.ogg
+|   |   |       torbjorn-mind-the-beard.ogg
 |   |   |       torbjorn-more-where-that-came-from.ogg
 |   |   |       torbjorn-poor-craftsman.ogg
 |   |   |       torbjorn-some-assembly-required.ogg
 |   |   |       torbjorn-theres-no-prize-for-second.ogg
 |   |   |       torbjorn-too-hot-for-you.ogg
 |   |   |       torbjorn-trust-me.ogg
+|   |   |       torbjorn-try-my-meatballs.ogg
 |   |   |       torbjorn-why-didnt-i-think-of-that.ogg
 |   |   |       torbjorn-working-as-intended.ogg
 |   |   |       
@@ -4512,8 +5009,10 @@
 |   |   |       tracer-noble-thief.png
 |   |   |       tracer-patch.png
 |   |   |       tracer-pulse-bomb.png
+|   |   |       tracer-tracer-minifig.png
 |   |   |       tracer-tracer.png
 |   |   |       tracer-track.png
+|   |   |       tracer-willowisp.png
 |   |   |       
 |   |   +---intros
 |   |   |       tracer-backflip-hd.webm
@@ -4554,6 +5053,7 @@
 |   |   |       tracer-wink.jpg
 |   |   |       
 |   |   +---skins
+|   |   |       tracer-2018-atlantic-allstars.jpg
 |   |   |       tracer-cadet-oxton.jpg
 |   |   |       tracer-classic.jpg
 |   |   |       tracer-electric-purple.jpg
@@ -4575,6 +5075,7 @@
 |   |   |       tracer-toast.jpg
 |   |   |       tracer-track-and-field.jpg
 |   |   |       tracer-ultraviolet.jpg
+|   |   |       tracer-willowisp.jpg
 |   |   |       
 |   |   +---sprays
 |   |   |       tracer-ace-of-diamonds.png
@@ -4611,11 +5112,13 @@
 |   |   |       tracer-track.png
 |   |   |       tracer-trick-or-treat.png
 |   |   |       tracer-whatcha-lookin-at.png
+|   |   |       tracer-willowisp.png
 |   |   |       tracer-wings.png
 |   |   |       
 |   |   +---voicelines
 |   |   |       tracer-aw-rubbish.ogg
 |   |   |       tracer-be-right-back.ogg
+|   |   |       tracer-bit-dodgy.ogg
 |   |   |       tracer-boo.ogg
 |   |   |       tracer-check-me-out.ogg
 |   |   |       tracer-cheeky.ogg
@@ -4626,6 +5129,7 @@
 |   |   |       tracer-eat-my-dust.ogg
 |   |   |       tracer-ho-ho-ho.ogg
 |   |   |       tracer-i-knew-i-forgot-something.ogg
+|   |   |       tracer-i-love-this-part.ogg
 |   |   |       tracer-im-over-the-moon.ogg
 |   |   |       tracer-its-in-the-bag.ogg
 |   |   |       tracer-keep-calm.ogg
@@ -4689,6 +5193,8 @@
 |   |   |       widowmaker-grappling-hook.png
 |   |   |       widowmaker-gymnastics.png
 |   |   |       widowmaker-lacroix.png
+|   |   |       widowmaker-scorpion.png
+|   |   |       widowmaker-widowmaker-minifig.png
 |   |   |       widowmaker-widowmaker.png
 |   |   |       
 |   |   +---intros
@@ -4721,6 +5227,7 @@
 |   |   |       widowmaker-medal.jpg
 |   |   |       widowmaker-over-the-shoulder.jpg
 |   |   |       widowmaker-rip.jpg
+|   |   |       widowmaker-surveillance.jpg
 |   |   |       widowmaker-toast.jpg
 |   |   |       
 |   |   +---skins
@@ -4730,6 +5237,7 @@
 |   |   |       widowmaker-classic.jpg
 |   |   |       widowmaker-comtesse.jpg
 |   |   |       widowmaker-cote-dazur.jpg
+|   |   |       widowmaker-electric.jpg
 |   |   |       widowmaker-huntress.jpg
 |   |   |       widowmaker-kerrigan.jpg
 |   |   |       widowmaker-noire.jpg
@@ -4739,7 +5247,9 @@
 |   |   |       widowmaker-odile.jpg
 |   |   |       widowmaker-patina.jpg
 |   |   |       widowmaker-rose.jpg
+|   |   |       widowmaker-scorpion.jpg
 |   |   |       widowmaker-spider.jpg
+|   |   |       widowmaker-surveillance.jpg
 |   |   |       widowmaker-talon.jpg
 |   |   |       widowmaker-tricolore.jpg
 |   |   |       widowmaker-vert.jpg
@@ -4770,6 +5280,7 @@
 |   |   |       widowmaker-portrait.png
 |   |   |       widowmaker-queen-of-hearts.png
 |   |   |       widowmaker-scope.png
+|   |   |       widowmaker-scorpion.png
 |   |   |       widowmaker-skiing.png
 |   |   |       widowmaker-sniper.png
 |   |   |       widowmaker-spider.png
@@ -4786,12 +5297,15 @@
 |   |   |       widowmaker-a-single-death.ogg
 |   |   |       widowmaker-always-the-hunters.ogg
 |   |   |       widowmaker-barking-up-the-wrong-tree.ogg
+|   |   |       widowmaker-dame-chance.ogg
 |   |   |       widowmaker-encore.ogg
 |   |   |       widowmaker-exquisite.ogg
 |   |   |       widowmaker-happy-holidays.ogg
 |   |   |       widowmaker-i-dont-miss.ogg
+|   |   |       widowmaker-in-your-dreams.ogg
 |   |   |       widowmaker-let-them-eat-cake.ogg
 |   |   |       widowmaker-look-for-the-woman.ogg
+|   |   |       widowmaker-lucky-and-good.ogg
 |   |   |       widowmaker-magnifique.ogg
 |   |   |       widowmaker-merry-christmas.ogg
 |   |   |       widowmaker-morning-spider.ogg
@@ -4855,6 +5369,7 @@
 |   |   +---icons
 |   |   |       winston-catcher.png
 |   |   |       winston-cute-winston.png
+|   |   |       winston-gargoyle.png
 |   |   |       winston-goldrilla.png
 |   |   |       winston-lunar-ops.png
 |   |   |       winston-monkey.png
@@ -4910,6 +5425,7 @@
 |   |   |       winston-explorer.jpg
 |   |   |       winston-forest.jpg
 |   |   |       winston-frogston.jpg
+|   |   |       winston-gargoyle.jpg
 |   |   |       winston-horizon.jpg
 |   |   |       winston-red-planet.jpg
 |   |   |       winston-safari.jpg
@@ -5021,12 +5537,18 @@
 |   |   |       
 |   |   +---icons
 |   |   |       wrecking-ball-bowling.png
+|   |   |       wrecking-ball-gold-ball.png
+|   |   |       wrecking-ball-lucioball.png
 |   |   |       wrecking-ball-reentry.png
 |   |   |       wrecking-ball-rolling.png
 |   |   |       wrecking-ball-scarecrow.png
 |   |   |       wrecking-ball-wrecking-ball.png
 |   |   |       
 |   |   +---intros
+|   |   |       wrecking-ball-dramatic-hd.webm
+|   |   |       wrecking-ball-dramatic-hd.webm.png
+|   |   |       wrecking-ball-dramatic.webm
+|   |   |       wrecking-ball-dramatic.webm.png
 |   |   |       wrecking-ball-festive-hd.webm
 |   |   |       wrecking-ball-festive-hd.webm.png
 |   |   |       wrecking-ball-festive.webm
@@ -5065,6 +5587,7 @@
 |   |   |       wrecking-ball-jackolantern.jpg
 |   |   |       wrecking-ball-junker.jpg
 |   |   |       wrecking-ball-lithium.jpg
+|   |   |       wrecking-ball-lucioball.jpg
 |   |   |       wrecking-ball-lunar.jpg
 |   |   |       wrecking-ball-mayham.jpg
 |   |   |       wrecking-ball-potassium.jpg
@@ -5081,7 +5604,9 @@
 |   |   |       wrecking-ball-cute.png
 |   |   |       wrecking-ball-destruction.png
 |   |   |       wrecking-ball-dragon-dance.png
+|   |   |       wrecking-ball-eight-of-clubs.png
 |   |   |       wrecking-ball-evolution.png
+|   |   |       wrecking-ball-exercise.png
 |   |   |       wrecking-ball-explosions.png
 |   |   |       wrecking-ball-friends.png
 |   |   |       wrecking-ball-full.png
@@ -5105,6 +5630,7 @@
 |   |   |       wrecking-ball-trick-or-treat.png
 |   |   |       
 |   |   +---voicelines
+|   |   |       wrecking-ball-access-denied.ogg
 |   |   |       wrecking-ball-assessing-luck.ogg
 |   |   |       wrecking-ball-be-the-ball.ogg
 |   |   |       wrecking-ball-beware-of-small-mammals.ogg
@@ -5116,13 +5642,20 @@
 |   |   |       wrecking-ball-heart-rate-increasing.ogg
 |   |   |       wrecking-ball-ho-ho-ho.ogg
 |   |   |       wrecking-ball-keep-your-eye-on-the-ball.ogg
+|   |   |       wrecking-ball-ko.ogg
+|   |   |       wrecking-ball-laughter.ogg
+|   |   |       wrecking-ball-more-power.ogg
 |   |   |       wrecking-ball-no-hard-feelings.ogg
 |   |   |       wrecking-ball-odds-of-success-increasing.ogg
 |   |   |       wrecking-ball-profanity-filter-enabled.ogg
 |   |   |       wrecking-ball-relief-detected.ogg
+|   |   |       wrecking-ball-rolled.ogg
+|   |   |       wrecking-ball-selfassessment.ogg
 |   |   |       wrecking-ball-shut-down.ogg
 |   |   |       wrecking-ball-this-is-happening.ogg
+|   |   |       wrecking-ball-translation-not-found.ogg
 |   |   |       wrecking-ball-trick-or-treat.ogg
+|   |   |       wrecking-ball-victory.ogg
 |   |   |       wrecking-ball-vocabulary-not-found.ogg
 |   |   |       wrecking-ball-what-he-said.ogg
 |   |   |       
@@ -5139,6 +5672,10 @@
 |   |   |       zarya-bring-it-on-hd.webm.png
 |   |   |       zarya-bring-it-on.webm
 |   |   |       zarya-bring-it-on.webm.png
+|   |   |       zarya-burpees-hd.webm
+|   |   |       zarya-burpees-hd.webm.png
+|   |   |       zarya-burpees.webm
+|   |   |       zarya-burpees.webm.png
 |   |   |       zarya-comedy-gold-hd.webm
 |   |   |       zarya-comedy-gold-hd.webm.png
 |   |   |       zarya-comedy-gold.webm
@@ -5272,6 +5809,7 @@
 |   |   |       zarya-cool-it.ogg
 |   |   |       zarya-dont-be-scared.ogg
 |   |   |       zarya-feel-the-burn.ogg
+|   |   |       zarya-fitness-secret.ogg
 |   |   |       zarya-for-the-motherland.ogg
 |   |   |       zarya-get-down-give-me-20.ogg
 |   |   |       zarya-get-pumped.ogg
@@ -5293,6 +5831,7 @@
 |   |   |       zarya-russian-judge.ogg
 |   |   |       zarya-siberian-bear.ogg
 |   |   |       zarya-strong-as-the-mountain.ogg
+|   |   |       zarya-strongest-woman.ogg
 |   |   |       zarya-together-we-are-strong.ogg
 |   |   |       zarya-welcome-to-the-gun-show.ogg
 |   |   |       zarya-where-the-dog-is-buried.ogg
@@ -5331,6 +5870,10 @@
 |       |       zenyatta-snowflake-hd.webm.png
 |       |       zenyatta-snowflake.webm
 |       |       zenyatta-snowflake.webm.png
+|       |       zenyatta-stretch-hd.webm
+|       |       zenyatta-stretch-hd.webm.png
+|       |       zenyatta-stretch.webm
+|       |       zenyatta-stretch.webm.png
 |       |       zenyatta-taunt-hd.webm
 |       |       zenyatta-taunt-hd.webm.png
 |       |       zenyatta-taunt.webm
@@ -5381,6 +5924,7 @@
 |       |       zenyatta-harmony.jpg
 |       |       zenyatta-heroic.jpg
 |       |       zenyatta-medals.jpg
+|       |       zenyatta-meditation.jpg
 |       |       zenyatta-peace.jpg
 |       |       zenyatta-rip.jpg
 |       |       zenyatta-toast.jpg
@@ -5457,7 +6001,9 @@
 |       |       zenyatta-i-think-therefore-i-am.ogg
 |       |       zenyatta-i-will-not-juggle.ogg
 |       |       zenyatta-joy-to-the-world.ogg
+|       |       zenyatta-look-in-the-mirror.ogg
 |       |       zenyatta-no-snowflake.ogg
+|       |       zenyatta-not-ready-to-learn.ogg
 |       |       zenyatta-ones-and-zeroes.ogg
 |       |       zenyatta-path-to-enlightenment.ogg
 |       |       zenyatta-patience.ogg
@@ -5467,9 +6013,11 @@
 |       |       zenyatta-the-iris-embraces-you.ogg
 |       |       zenyatta-trick-or-treat.ogg
 |       |       zenyatta-we-are-in-harmony.ogg
+|       |       zenyatta-what-weighs-upon-your-mind.ogg
 |       |       zenyatta-where-youre-headed.ogg
+|       |       zenyatta-your-flaws-are-revealed.ogg
 |       |       zenyatta-your-lesson-for-today.ogg
 |       |       
 |       \---weapons
 |               zenyatta-golden.png
-|
+|         
