@@ -1,0 +1,1 @@
+ find . -name '*.webm*' -not -iname "*hd*" -a -not -name "." -delete
